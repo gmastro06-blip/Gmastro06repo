@@ -1,0 +1,107 @@
+17:17:29 | INFO     | ======================================================================
+17:17:29 | INFO     | TIBIABOT v2.1 - Pro Edition - Navidad 2025
+17:17:29 | INFO     | Detección avanzada con flechas - ¡El mejor bot personal!
+17:17:29 | INFO     | ======================================================================
+17:17:29 | INFO     | [Looter] Inicializado - Modo Quick Loot: premium
+17:17:29 | INFO     | [Cavebot] Waypoints cargados: 2 puntos
+17:17:29 | INFO     | [Cavebot] Inicializado - 2 waypoints cargados desde waypoints/newhaven_exp.json
+17:17:29 | INFO     | [Healer] Inicializado
+17:17:29 | INFO     | [Targeting] Inicializado - Prioridad: ['muglex_assassin', 'muglex_footman']
+17:17:29 | INFO     | [Macros] Módulo inicializado con auto-equip
+17:17:29 | INFO     | [LevelUp] Módulo inicializado con auto-level up stats
+17:17:29 | INFO     | [NPCTalker] Módulo inicializado
+17:17:29 | INFO     | [Main] Interfaz cargada - Bot Pro Edition listo
+17:17:31 | INFO     | [Healer] Thread iniciado - Monitoreando HP/MP...
+17:17:31 | INFO     | [Healer] ACTIVADO
+17:17:31 | INFO     | [Targeting] Thread iniciado
+17:17:31 | INFO     | [Targeting] ACTIVADO
+17:17:31 | INFO     | [Cavebot] MÓDULO INICIADO - Pathfinding real activado
+17:17:31 | INFO     | [Cavebot] ACTIVADO
+17:17:31 | INFO     | [Cavebot] Moviendo a waypoint 1: (32560, 32488)
+17:17:31 | INFO     | [Main] Bucle principal iniciado
+17:17:32 | WARNING  | [Cavebot] Posición no detectada. Reintentando...
+17:17:32 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:32 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:32 | INFO     | [Healer] HP crítico (0.0%) \u2192 f3
+17:17:32 | INFO     | [Healer] Mana baja (0.0%) \u2192 Mana potion
+17:17:32 | INFO     | [Healer] HP bajo (0.0%) \u2192 Comiendo comida (f8)
+17:17:32 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:32 | WARNING  | Template no encontrado: templates/battleList/pk_player.png
+17:17:33 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:33 | ERROR    | [Macros] Error OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+17:17:33 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:33 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:33 | INFO     | [Healer] HP crítico (0.0%) \u2192 f3
+17:17:33 | INFO     | [Healer] Mana baja (0.0%) \u2192 Mana potion
+17:17:33 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:33 | WARNING  | Template no encontrado: templates/statsBar/level_up.png
+17:17:33 | INFO     | [Healer] HP bajo (0.0%) \u2192 Comiendo comida (f8)
+17:17:33 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:33 | WARNING  | Template no encontrado: templates/inventory/corpse.png
+17:17:34 | WARNING  | [Cavebot] Posición no detectada. Reintentando...
+17:17:34 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:35 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:35 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:35 | WARNING  | Template no encontrado: templates/battleList/pk_player.png
+17:17:35 | INFO     | [Healer] HP crítico (0.0%) \u2192 f3
+17:17:35 | INFO     | [Healer] Mana baja (0.0%) \u2192 Mana potion
+17:17:35 | INFO     | [Healer] HP bajo (0.0%) \u2192 Comiendo comida (f8)
+17:17:35 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:35 | ERROR    | [Macros] Error OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+17:17:35 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:35 | WARNING  | Template no encontrado: templates/statsBar/level_up.png
+17:17:36 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:36 | WARNING  | Template no encontrado: templates/inventory/corpse.png
+17:17:36 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:36 | INFO     | [Healer] HP crítico (0.0%) \u2192 f3
+17:17:36 | INFO     | [Healer] Mana baja (0.0%) \u2192 Mana potion
+17:17:36 | INFO     | [Healer] HP bajo (0.0%) \u2192 Comiendo comida (f8)
+17:17:36 | WARNING  | [Cavebot] Posición no detectada. Reintentando...
+17:17:36 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:37 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:37 | WARNING  | Template no encontrado: templates/battleList/pk_player.png
+17:17:37 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:37 | ERROR    | [Macros] Error OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+17:17:37 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:37 | INFO     | [Healer] HP crítico (0.0%) \u2192 f3
+17:17:38 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:38 | WARNING  | Template no encontrado: templates/statsBar/level_up.png
+17:17:38 | INFO     | [Healer] Mana baja (0.0%) \u2192 Mana potion
+17:17:38 | INFO     | [Healer] HP bajo (0.0%) \u2192 Comiendo comida (f8)
+17:17:38 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:38 | WARNING  | Template no encontrado: templates/inventory/corpse.png
+17:17:39 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:39 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:39 | INFO     | [Healer] HP crítico (0.0%) \u2192 f3
+17:17:39 | INFO     | [Healer] Mana baja (0.0%) \u2192 Mana potion
+17:17:39 | INFO     | [Healer] HP bajo (0.0%) \u2192 Comiendo comida (f8)
+17:17:39 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:39 | WARNING  | Template no encontrado: templates/battleList/pk_player.png
+17:17:39 | WARNING  | [Cavebot] Posición no detectada. Reintentando...
+17:17:39 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:39 | ERROR    | [Macros] Error OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+17:17:40 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:40 | WARNING  | Template no encontrado: templates/statsBar/level_up.png
+17:17:40 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:40 | WARNING  | Template no encontrado: templates/inventory/corpse.png
+17:17:40 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:40 | INFO     | [Healer] HP crítico (0.0%) \u2192 f3
+17:17:40 | INFO     | [Healer] Mana baja (0.0%) \u2192 Mana potion
+17:17:40 | INFO     | [Healer] HP bajo (0.0%) \u2192 Comiendo comida (f8)
+17:17:41 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:41 | WARNING  | [Cavebot] Posición no detectada. Reintentando...
+17:17:41 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:41 | WARNING  | Template no encontrado: templates/battleList/pk_player.png
+17:17:41 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:41 | ERROR    | [Macros] Error OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+17:17:42 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:42 | WARNING  | Template no encontrado: templates/statsBar/level_up.png
+17:17:42 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:42 | INFO     | [Healer] HP crítico (0.0%) \u2192 f3
+17:17:42 | INFO     | [Healer] Mana baja (0.0%) \u2192 Mana potion
+17:17:42 | INFO     | [Healer] HP bajo (0.0%) \u2192 Comiendo comida (f8)
+17:17:42 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:42 | WARNING  | Template no encontrado: templates/inventory/corpse.png
+17:17:43 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:43 | WARNING  | [GameWindow] No se detectaron ambas flechas. Usando fallback.
+17:17:43 | INFO     | [Cavebot] Camino calculado: 8 pasos

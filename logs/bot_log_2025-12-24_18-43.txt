@@ -1,0 +1,153 @@
+18:43:45 | INFO     | ======================================================================
+18:43:45 | INFO     | TIBIABOT v2.0 - Full Pixel Bot - Navidad 2025 Edition
+18:43:45 | INFO     | ¡El mejor regalo para un tibiano!
+18:43:45 | INFO     | ======================================================================
+18:43:45 | ERROR    | [Cavebot] Archivo no encontrado: waypoints/newhaven_exp.json
+18:43:45 | INFO     | [Cavebot] Inicializado - 0 waypoints cargados desde waypoints/newhaven_exp.json
+18:43:45 | INFO     | [Healer] Módulo inicializado.
+18:43:45 | INFO     |    HP threshold: 75% | Strong heal < 45%
+18:43:45 | INFO     |    Hotkeys: Light=f1, Strong=f2, UH=f3, Food=f8
+18:43:45 | INFO     | [Targeting] Inicializado - Prioridad: ['muglex_assassin', 'muglex_footman']
+18:43:45 | INFO     | [Macros] Módulo inicializado con OCR real (pytesseract)
+18:43:45 | INFO     | [LevelUp] Módulo inicializado
+18:43:45 | INFO     | [NPCTalker] Módulo inicializado - Listo para charlar con NPCs
+18:43:45 | INFO     | [Main] Interfaz gráfica cargada - Bot listo
+19:03:46 | INFO     | [Healer] Thread iniciado. Monitoreando HP/MP...
+19:03:46 | INFO     | [Healer] Módulo ACTIVADO
+19:03:46 | INFO     | [Targeting] Thread iniciado
+19:03:46 | INFO     | [Targeting] ACTIVADO
+19:03:46 | INFO     | [Cavebot] MÓDULO INICIADO - Pathfinding real activado
+19:03:46 | INFO     | [Cavebot] ACTIVADO
+19:03:46 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:03:46 | INFO     | [Main] Bucle principal iniciado
+19:03:46 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:03:47 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:47 | ERROR    | [Healer] Error en loop: f3
+19:03:48 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:48 | ERROR    | [Healer] Error en loop: f3
+19:03:48 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:03:49 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:49 | ERROR    | [Healer] Error en loop: f3
+19:03:50 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:50 | ERROR    | [Healer] Error en loop: f3
+19:03:50 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:03:51 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:51 | ERROR    | [Healer] Error en loop: f3
+19:03:51 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:03:52 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:52 | ERROR    | [Healer] Error en loop: f3
+19:03:52 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:03:53 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:54 | ERROR    | [Healer] Error en loop: f3
+19:03:54 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:03:55 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:55 | ERROR    | [Healer] Error en loop: f3
+19:03:56 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:56 | ERROR    | [Healer] Error en loop: f3
+19:03:56 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:03:56 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:03:57 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:57 | ERROR    | [Healer] Error en loop: f3
+19:03:58 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:58 | ERROR    | [Healer] Error en loop: f3
+19:03:58 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:03:59 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:03:59 | ERROR    | [Healer] Error en loop: f3
+19:04:00 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:00 | ERROR    | [Healer] Error en loop: f3
+19:04:00 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:01 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:01 | ERROR    | [Healer] Error en loop: f3
+19:04:01 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:04:03 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:03 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:03 | ERROR    | [Healer] Error en loop: f3
+19:04:04 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:04 | ERROR    | [Healer] Error en loop: f3
+19:04:05 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:05 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:05 | ERROR    | [Healer] Error en loop: f3
+19:04:06 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:06 | ERROR    | [Healer] Error en loop: f3
+19:04:06 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:04:07 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:07 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:07 | ERROR    | [Healer] Error en loop: f3
+19:04:08 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:08 | ERROR    | [Healer] Error en loop: f3
+19:04:09 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:09 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:09 | ERROR    | [Healer] Error en loop: f3
+19:04:10 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:10 | ERROR    | [Healer] Error en loop: f3
+19:04:11 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:11 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:04:12 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:12 | ERROR    | [Healer] Error en loop: f3
+19:04:13 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:13 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:13 | ERROR    | [Healer] Error en loop: f3
+19:04:14 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:14 | ERROR    | [Healer] Error en loop: f3
+19:04:15 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:15 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:15 | ERROR    | [Healer] Error en loop: f3
+19:04:16 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:16 | ERROR    | [Healer] Error en loop: f3
+19:04:16 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:04:17 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:17 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:17 | ERROR    | [Healer] Error en loop: f3
+19:04:18 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:18 | ERROR    | [Healer] Error en loop: f3
+19:04:19 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:19 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:20 | ERROR    | [Healer] Error en loop: f3
+19:04:21 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:21 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:21 | ERROR    | [Healer] Error en loop: f3
+19:04:21 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:04:22 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:22 | ERROR    | [Healer] Error en loop: f3
+19:04:23 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:23 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:23 | ERROR    | [Healer] Error en loop: f3
+19:04:24 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:24 | ERROR    | [Healer] Error en loop: f3
+19:04:25 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:25 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:25 | ERROR    | [Healer] Error en loop: f3
+19:04:26 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:26 | ERROR    | [Healer] Error en loop: f3
+19:04:26 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:04:27 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:27 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:27 | ERROR    | [Healer] Error en loop: f3
+19:04:28 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:29 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:29 | ERROR    | [Healer] Error en loop: f3
+19:04:30 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:30 | ERROR    | [Healer] Error en loop: f3
+19:04:31 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:31 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:31 | ERROR    | [Healer] Error en loop: f3
+19:04:31 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:04:32 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:32 | ERROR    | [Healer] Error en loop: f3
+19:04:33 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:33 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:33 | ERROR    | [Healer] Error en loop: f3
+19:04:34 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:34 | ERROR    | [Healer] Error en loop: f3
+19:04:35 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:35 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:35 | ERROR    | [Healer] Error en loop: f3
+19:04:36 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:36 | WARNING  | [Cavebot] Sin waypoints. Esperando...
+19:04:37 | ERROR    | [Main Loop] Error: name 'capture_screen' is not defined
+19:04:37 | ERROR    | [Healer] Error en loop: f3
+19:04:38 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:04:38 | ERROR    | [Healer] Error en loop: f3
+19:04:39 | INFO     | [Healer] Módulo DETENIDO
+19:04:39 | INFO     | [Targeting] DETENIDO
+19:04:41 | INFO     | [Cavebot] DETENIDO

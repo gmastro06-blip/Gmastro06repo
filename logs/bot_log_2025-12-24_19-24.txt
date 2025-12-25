@@ -1,0 +1,23 @@
+19:24:29 | INFO     | === INICIANDO PRUEBA QA - NAVIDAD 2025 ===
+19:24:31 | INFO     | [Healer] Módulo inicializado.
+19:24:31 | INFO     |    HP threshold: 75% | Strong heal < 45%
+19:24:31 | INFO     |    Hotkeys: Light=f1, Strong=f2, UH=f3, Food=f8
+19:24:31 | INFO     | [Healer] Thread iniciado. Monitoreando HP/MP...
+19:24:31 | INFO     | [Healer] Módulo ACTIVADO
+19:24:31 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:24:31 | ERROR    | [Healer] Error en loop: f3
+19:24:32 | INFO     | [Healer] Barras primarias no disponibles. Usando secundarias (inventario abierto?)
+19:24:32 | ERROR    | [Healer] Error en loop: f3
+19:24:33 | INFO     | [Healer] Módulo DETENIDO
+19:24:33 | INFO     | [Targeting] Inicializado - Prioridad: ['muglex_assassin', 'muglex_footman']
+19:24:33 | INFO     | [Targeting] Thread iniciado
+19:24:33 | INFO     | [Targeting] ACTIVADO
+19:24:35 | INFO     | [Targeting] DETENIDO
+19:24:35 | ERROR    | [Cavebot] Archivo no encontrado: waypoints/newhaven_exp.json
+19:24:35 | INFO     | [Cavebot] Inicializado - 0 waypoints cargados desde waypoints/newhaven_exp.json
+19:24:35 | ERROR    | [Cavebot] Archivo no encontrado: waypoints/newhaven_exp.json
+19:24:35 | INFO     | [Macros] Módulo inicializado con OCR real (pytesseract)
+19:24:35 | INFO     | [LevelUp] Módulo inicializado
+19:24:35 | INFO     | [NPCTalker] Módulo inicializado - Listo para charlar con NPCs
+19:24:35 | CRITICAL | === ¡QA COMPLETADA! Todos los módulos cargados correctamente ===
+19:24:35 | CRITICAL | ¡Tu bot está listo para conquistar Tibia! \U0001f384\U0001f385
