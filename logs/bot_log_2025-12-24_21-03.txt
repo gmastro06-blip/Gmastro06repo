@@ -1,6 +1,0 @@
-21:03:26 | INFO     | === CAPTURADOR CON MSS - Prueba anti-black ===
-21:03:26 | INFO     | [Capturer MSS] Capturando 'hp_bar_test' en (320, 85, 280, 22)
-21:03:26 | INFO     | [Capturer MSS] Guardado: templates/hp_bar_test.png
-21:03:26 | INFO     | [Capturer MSS] Capturando 'minimap_test' en (1655, 55, 180, 180)
-21:03:26 | INFO     | [Capturer MSS] Guardado: templates/minimap_test.png
-21:03:26 | INFO     | ¡Prueba completada! Revisa si son negras o no.

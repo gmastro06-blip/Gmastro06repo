@@ -1,4 +1,7 @@
+pytesseract
+pillow
 pyautogui
-opencv-python
 numpy
-pynput
+mss
+pywin32
+keyboard

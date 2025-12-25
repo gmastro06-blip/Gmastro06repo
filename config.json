@@ -1,122 +1,36 @@
 {
   "window_region": [0, 0, 1920, 1080],
-
   "hp_bar_region_primary": [320, 85, 280, 22],
   "mp_bar_region_primary": [320, 112, 280, 22],
   "hp_bar_region_secondary": [1565, 780, 200, 16],
   "mp_bar_region_secondary": [1565, 802, 200, 16],
-  "minimap_region": [1655, 55, 180, 180],
-  "minimap_center_offset": [90, 90],
-  "sqm_size_pixels": 10.0,
+  "minimap_region": [1753, 26, 106, 110],
+  "minimap_center_offset": [53, 55],
   "player_dot_color": [255, 255, 255],
-  "player_dot_tolerance": 70,
+  "player_dot_tolerance": 30,
   "level_region": [1690, 180, 150, 40],
   "level_text_color_threshold": 200,
-
   "base_position": {
     "x": 32560,
     "y": 32488,
     "z": 7
   },
-
   "arrival_tolerance": 1,
-  "default_waypoints": "waypoints/newhaven_exp.json",
-
+  "waypoints_file": "waypoints/newhaven_exp.json",
   "hp_threshold": 75,
   "mp_threshold": 40,
   "strong_heal_below": 45,
   "use_mana_potion": true,
   "eat_food_threshold": 50,
   "logout_threshold_level": 3,
-
   "inventory_region": [1550, 600, 350, 400],
   "loot_delay": 1.8,
-
-  "hotkeys": {
-    "heal_spell_light": "f1",
-    "heal_spell_strong": "f2",
-    "uh_hotkey": "f3",
-    "mana_potion": "f4",
-    "attack_spell_default": "f5",
-    "use_rope": "f6",
-    "use_shovel": "f7",
-    "eat_food": "f8",
-    "logout": "ctrl+q",
-    "enter_chat": "enter"
-  },
-
-  "monster_priority": ["muglex_assassin", "muglex_footman"],
-
-  "dialog_delay": 1.5,
   "auto_bank": true,
   "bank_npc": "supplier",
   "bank_dialog": ["hi", "deposit all", "yes"],
-
-  "npcs": {
-    "gustavo": {
-      "name": "Gustavo",
-      "position": [32560, 32488, 7],
-      "dialog": ["hi", "mission", "yes"],
-      "template": "templates/refill/npc_gustavo.png"
-    },
-    "viola": {
-      "name": "Viola",
-      "position": [32571, 32507, 7],
-      "dialog": ["hi", "mission", "yes", "book"],
-      "template": "templates/refill/npc_viola.png"
-    },
-    "supplier": {
-      "name": "Supplier",
-      "position": [32565, 32485, 7],
-      "dialog": ["hi", "trade"],
-      "buy": {
-        "mana potion": 50,
-        "strong health potion": 20,
-        "ultimate health potion": 10
-      },
-      "template": "templates/refill/npc_supplier.png"
-    }
-  },
-
-  "templates": {
-    "hp_bar_primary": "templates/statsBar/hp_bar_primary.png",
-    "mp_bar_primary": "templates/statsBar/mp_bar_primary.png",
-    "muglex_assassin": "templates/gameWindow/images/monsters/muglex_assassin.png",
-    "muglex_footman": "templates/gameWindow/images/monsters/muglex_footman.png",
-    "npc_gustavo": "templates/refill/npc_gustavo.png",
-    "npc_viola": "templates/refill/npc_viola.png",
-    "npc_supplier": "templates/refill/npc_supplier.png",
-    "chest_viola": "templates/inventory/chest_viola.png",
-    "level_up": "templates/statsBar/level_up.png",
-    "pk_player": "templates/battleList/pk_player.png",
-    "up_stair": "templates/gameWindow/images/waypoints/up_stair.png",
-    "down_stair": "templates/gameWindow/images/waypoints/down_stair.png",
-    "rope_spot": "templates/gameWindow/images/waypoints/rope_spot.png",
-    "hole": "templates/gameWindow/images/waypoints/hole.png",
-    "corpse": "templates/inventory/corpse.png"
-  },
-
+  "dialog_delay": 1.5,
   "auto_equip": true,
   "equip_check_interval": 300,
-  "inventory_slots": {
-    "ring": [1550, 600, 50, 50],
-    "amulet": [1600, 600, 50, 50],
-    "weapon": [1650, 600, 50, 50],
-    "shield": [1700, 600, 50, 50]
-  },
-  "gear_templates": {
-    "best_ring": "templates/inventory/images/slots/best_ring.png",
-    "best_amulet": "templates/inventory/images/slots/best_amulet.png",
-    "best_weapon": "templates/inventory/images/slots/best_weapon.png",
-    "best_shield": "templates/inventory/images/slots/best_shield.png"
-  },
-  "equip_hotkeys": {
-    "ring": "f10",
-    "amulet": "f11",
-    "weapon": "f12",
-    "shield": "f13"
-  },
-
   "quick_loot": true,
   "quick_loot_mode": "premium",
   "quick_loot_hotkey": "alt",
@@ -128,14 +42,6 @@
     "ultimate health potion",
     "rare item"
   ],
-  "quick_loot_templates": {
-    "gold coin": "templates/inventory/images/slots/gold_coin.png",
-    "mana potion": "templates/inventory/images/slots/mana_potion.png",
-    "strong health potion": "templates/inventory/images/slots/strong_health_potion.png",
-    "ultimate health potion": "templates/inventory/images/slots/ultimate_health_potion.png"
-  },
-  "quick_loot_button_template": "templates/gameWindow/quick_loot_button.png",
-
   "auto_level_up": true,
   "skill_priority": {
     "melee": 80,
@@ -143,12 +49,77 @@
     "magic": 20,
     "shielding": 70
   },
-  "level_up_region": [1690, 220, 150, 60],
-  "level_up_template": "templates/statsBar/level_up.png",
+  "regions": {
+    "hp_bar": [12, 28, 768, 12],
+    "mana_bar": [787, 28, 768, 12],
+    "battle_list": [1571, 417, 155, 249],
+    "minimap": [1753, 27, 104, 109],
+    "minimap_coords_text": [1753, 26, 104, 20],
+    "level_up_button": [1690, 220, 150, 60],
+    "corpse_area": [738, 410, 89, 86],
+    "player_dot": [1807, 82],
+    "inventory_slots": {
+      "ring": [1550, 600, 50, 50],
+      "amulet": [1600, 600, 50, 50],
+      "weapon": [1650, 600, 50, 50],
+      "shield": [1700, 600, 50, 50]
+    }
+  },
+  "hotkeys": {
+    "heal_spell_light": "f1",
+    "heal_spell_strong": "f2",
+    "uh_hotkey": "f3",
+    "mana_potion": "f4",
+    "attack_spell_default": "f5",
+    "use_rope": "f6",
+    "use_shovel": "f7",
+    "eat_food": "f8",
+    "attack": "f1",
+    "equip_ring": "f5",
+    "talk_hi": "enter",
+    "logout": "ctrl+q",
+    "enter_chat": "enter"
+  },
+  "equip_hotkeys": {
+    "ring": "f10",
+    "amulet": "f11",
+    "weapon": "f12",
+    "shield": "f13"
+  },
   "skill_hotkeys": {
     "melee": "f9",
     "distance": "f10",
     "magic": "f11",
     "shielding": "f12"
-  }
+  },
+  "monster_priority": ["muglex_assassin", "muglex_footman"],
+  "npcs": {
+    "gustavo": {
+      "name": "Gustavo",
+      "position": [32560, 32488, 7],
+      "dialog": ["hi", "mission", "yes"]
+    },
+    "viola": {
+      "name": "Viola",
+      "position": [32571, 32507, 7],
+      "dialog": ["hi", "mission", "yes", "book"]
+    },
+    "supplier": {
+      "name": "Supplier",
+      "position": [32565, 32485, 7],
+      "dialog": ["hi", "trade"],
+      "buy": {
+        "mana potion": 50,
+        "strong health potion": 20,
+        "ultimate health potion": 10
+      }
+    }
+  },
+  "ocr_config": "--psm 7 -c tessedit_char_whitelist=0123456789.%",
+  "expected_colors": {
+    "hp_low": [255, 0, 0],
+    "mana_low": [0, 0, 255],
+    "arrow_present": [255, 255, 255]
+  },
+  "arrow_pos": [120, 60]
 }
