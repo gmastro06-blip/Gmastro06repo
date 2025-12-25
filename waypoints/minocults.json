@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "x": 32345,
+    "y": 31567,
+    "z": 8,
+    "type": "walk",
+    "action": "hunt",
+    "description": "Entrada principal del spot"
+  },
+  {
+    "id": 2,
+    "x": 32348,
+    "y": 31570,
+    "z": 8,
+    "type": "walk",
+    "action": "hunt"
+  },
+  {
+    "id": 3,
+    "x": 32350,
+    "y": 31573,
+    "z": 9,
+    "type": "stairs_down",
+    "action": "hunt",
+    "description": "Bajar al piso -1"
+  },
+  {
+    "id": 4,
+    "x": 32352,
+    "y": 31575,
+    "z": 9,
+    "type": "walk",
+    "action": "hunt",
+    "radius": 5,
+    "wait_time": 30,
+    "description": "Zona de caza principal - quedarse 30 segundos"
+  },
+  {
+    "id": 5,
+    "x": 32355,
+    "y": 31578,
+    "z": 9,
+    "type": "walk",
+    "action": "hunt"
+  },
+  {
+    "id": 6,
+    "x": 32350,
+    "y": 31573,
+    "z": 9,
+    "type": "stairs_up",
+    "action": "return_to_depot",
+    "condition": "supplies_low OR inventory_full",
+    "description": "Salir del spot si supplies bajas o inventario lleno"
+  },
+  {
+    "id": 7,
+    "x": 32320,
+    "y": 31550,
+    "z": 7,
+    "type": "walk",
+    "action": "refill",
+    "description": "Ir al NPC para comprar supplies"
+  },
+  {
+    "id": 8,
+    "x": 32318,
+    "y": 31548,
+    "z": 7,
+    "type": "walk",
+    "action": "deposit",
+    "description": "Ir al depot para depositar loot"
+  },
+  {
+    "id": 9,
+    "x": 32345,
+    "y": 31567,
+    "z": 8,
+    "type": "walk",
+    "action": "hunt",
+    "description": "Volver al inicio del loop"
+  }
+]
