@@ -4,6 +4,7 @@ import pyautogui
 import time
 import random
 import logging
+import numpy as np
 from .utils import GameWindow
 
 class Healer:

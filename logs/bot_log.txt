@@ -1,837 +1,839 @@
-[INFO] 2025-12-26 12:46:16,129 - Navigando a waypoint: [32560, 32488]
-[2025-12-26 12:46:16,129] INFO - Navigando a waypoint: [32560, 32488]
-[2025-12-26 12:46:16,129] INFO - Navigando a waypoint: [32560, 32488]
-[WARNING] 2025-12-26 12:46:16,129 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:16,129] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:16,129] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:16,130 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:16,130] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:16,130] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:16,131 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:16,131] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:16,131] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:16,132 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:16,132] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:16,132] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:16,153 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dcb3aryo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dcb3aryo', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:16,153] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dcb3aryo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dcb3aryo', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:16,153] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dcb3aryo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dcb3aryo', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:16,266 - Texto completo le�do en battle list: '|
-| 3'
-[2025-12-26 12:46:16,266] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[2025-12-26 12:46:16,266] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[INFO] 2025-12-26 12:46:16,266 - �Llegado a waypoint [32560, 32488]!
-[2025-12-26 12:46:16,266] INFO - ¡Llegado a waypoint [32560, 32488]!
-[2025-12-26 12:46:16,266] INFO - ¡Llegado a waypoint [32560, 32488]!
-[INFO] 2025-12-26 12:46:16,800 - Navigando a waypoint: [32561, 32488]
-[2025-12-26 12:46:16,800] INFO - Navigando a waypoint: [32561, 32488]
-[2025-12-26 12:46:16,800] INFO - Navigando a waypoint: [32561, 32488]
-[WARNING] 2025-12-26 12:46:16,800 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:16,800] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:16,800] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:16,801 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:16,801] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:16,801] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:16,803 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:16,803] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:16,803] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:16,806 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:16,806] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:16,806] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:16,815 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_oykm_9f2_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_oykm_9f2', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:16,815] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_oykm_9f2_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_oykm_9f2', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:16,815] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_oykm_9f2_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_oykm_9f2', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:16,927 - Texto completo le�do en battle list: '|
-| 3'
-[2025-12-26 12:46:16,927] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[2025-12-26 12:46:16,927] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[INFO] 2025-12-26 12:46:16,928 - �Llegado a waypoint [32561, 32488]!
-[2025-12-26 12:46:16,928] INFO - ¡Llegado a waypoint [32561, 32488]!
-[2025-12-26 12:46:16,928] INFO - ¡Llegado a waypoint [32561, 32488]!
-[INFO] 2025-12-26 12:46:17,820 - Navigando a waypoint: [32562, 32489]
-[2025-12-26 12:46:17,820] INFO - Navigando a waypoint: [32562, 32489]
-[2025-12-26 12:46:17,820] INFO - Navigando a waypoint: [32562, 32489]
-[WARNING] 2025-12-26 12:46:17,820 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:17,820] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:17,820] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:17,823 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:17,823] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:17,823] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:17,825 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:17,825] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:17,825] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:17,829 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:17,829] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:17,829] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:17,848 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jeyz6hrc_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jeyz6hrc', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:17,848] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jeyz6hrc_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jeyz6hrc', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:17,848] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jeyz6hrc_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jeyz6hrc', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:17,963 - Texto completo le�do en battle list: '|
-| 3'
-[2025-12-26 12:46:17,963] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[2025-12-26 12:46:17,963] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[DEBUG] 2025-12-26 12:46:18,067 - Moviendo \u2193 abajo
-[2025-12-26 12:46:18,067] DEBUG - Moviendo ↓ abajo
-[2025-12-26 12:46:18,067] DEBUG - Moviendo ↓ abajo
-[WARNING] 2025-12-26 12:46:18,948 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:18,948] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:18,948] WARNING - No se detectó player_dot. Usando base_position.
-[WARNING] 2025-12-26 12:46:18,949 - Bloqueado en (32560, 32488). A�adiendo (32561, 32489) como obst�culo.
-[2025-12-26 12:46:18,949] WARNING - Bloqueado en (32560, 32488). Añadiendo (32561, 32489) como obstáculo.
-[2025-12-26 12:46:18,949] WARNING - Bloqueado en (32560, 32488). Añadiendo (32561, 32489) como obstáculo.
-[WARNING] 2025-12-26 12:46:18,952 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:18,952] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:18,952] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:18,954 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:18,954] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:18,954] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:18,957 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:18,957] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:18,957] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:18,959 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:18,959] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:18,959] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:18,986 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_icuzaccj_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_icuzaccj', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:18,986] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_icuzaccj_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_icuzaccj', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:18,986] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_icuzaccj_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_icuzaccj', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:19,101 - Texto completo le�do en battle list: '|
-| 3'
-[2025-12-26 12:46:19,101] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[2025-12-26 12:46:19,101] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[DEBUG] 2025-12-26 12:46:19,205 - Moviendo \u2192 derecha
-[2025-12-26 12:46:19,205] DEBUG - Moviendo → derecha
-[2025-12-26 12:46:19,205] DEBUG - Moviendo → derecha
-[WARNING] 2025-12-26 12:46:20,351 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:20,351] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:20,351] WARNING - No se detectó player_dot. Usando base_position.
-[WARNING] 2025-12-26 12:46:20,352 - Bloqueado en (32560, 32488). A�adiendo (32561, 32488) como obst�culo.
-[2025-12-26 12:46:20,352] WARNING - Bloqueado en (32560, 32488). Añadiendo (32561, 32488) como obstáculo.
-[2025-12-26 12:46:20,352] WARNING - Bloqueado en (32560, 32488). Añadiendo (32561, 32488) como obstáculo.
-[WARNING] 2025-12-26 12:46:20,354 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:20,354] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:20,354] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:20,358 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:20,358] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:20,358] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:20,360 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:20,360] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:20,360] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:20,361 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:20,361] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:20,361] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:20,387 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_l261aofn_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_l261aofn', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:20,387] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_l261aofn_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_l261aofn', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:20,387] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_l261aofn_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_l261aofn', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:20,496 - Texto completo le�do en battle list: '|
-| 3'
-[2025-12-26 12:46:20,496] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[2025-12-26 12:46:20,496] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[DEBUG] 2025-12-26 12:46:20,599 - Moviendo \u2191 arriba
-[2025-12-26 12:46:20,599] DEBUG - Moviendo ↑ arriba
-[2025-12-26 12:46:20,599] DEBUG - Moviendo ↑ arriba
-[WARNING] 2025-12-26 12:46:21,445 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:21,445] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:21,445] WARNING - No se detectó player_dot. Usando base_position.
-[WARNING] 2025-12-26 12:46:21,446 - Bloqueado en (32560, 32488). A�adiendo (32561, 32487) como obst�culo.
-[2025-12-26 12:46:21,446] WARNING - Bloqueado en (32560, 32488). Añadiendo (32561, 32487) como obstáculo.
-[2025-12-26 12:46:21,446] WARNING - Bloqueado en (32560, 32488). Añadiendo (32561, 32487) como obstáculo.
-[WARNING] 2025-12-26 12:46:21,452 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:21,452] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:21,452] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:21,460 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:21,460] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:21,460] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:21,468 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:21,468] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:21,468] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:21,475 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:21,475] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:21,475] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:21,500 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ikso8zbf_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ikso8zbf', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:21,500] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ikso8zbf_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ikso8zbf', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:21,500] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ikso8zbf_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ikso8zbf', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:21,611 - Texto completo le�do en battle list: '|
-| 3'
-[2025-12-26 12:46:21,611] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[2025-12-26 12:46:21,611] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[DEBUG] 2025-12-26 12:46:21,715 - Moviendo \u2193 abajo
-[2025-12-26 12:46:21,715] DEBUG - Moviendo ↓ abajo
-[2025-12-26 12:46:21,715] DEBUG - Moviendo ↓ abajo
-[WARNING] 2025-12-26 12:46:22,595 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:22,595] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:22,595] WARNING - No se detectó player_dot. Usando base_position.
-[WARNING] 2025-12-26 12:46:22,595 - Bloqueado en (32560, 32488). A�adiendo (32560, 32489) como obst�culo.
-[2025-12-26 12:46:22,595] WARNING - Bloqueado en (32560, 32488). Añadiendo (32560, 32489) como obstáculo.
-[2025-12-26 12:46:22,595] WARNING - Bloqueado en (32560, 32488). Añadiendo (32560, 32489) como obstáculo.
-[WARNING] 2025-12-26 12:46:22,608 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:22,608] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:22,608] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:22,616 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:22,616] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:22,616] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:22,625 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:22,625] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:22,625] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:22,632 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:22,632] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:22,632] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:22,654 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w1zb7dv2_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w1zb7dv2', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:22,654] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w1zb7dv2_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w1zb7dv2', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:22,654] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w1zb7dv2_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w1zb7dv2', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:22,765 - Texto completo le�do en battle list: '|
-| 3'
-[2025-12-26 12:46:22,765] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[2025-12-26 12:46:22,765] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[DEBUG] 2025-12-26 12:46:22,867 - Moviendo \u2193 abajo
-[2025-12-26 12:46:22,867] DEBUG - Moviendo ↓ abajo
-[2025-12-26 12:46:22,867] DEBUG - Moviendo ↓ abajo
-[WARNING] 2025-12-26 12:46:23,918 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:23,918] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:23,918] WARNING - No se detectó player_dot. Usando base_position.
-[WARNING] 2025-12-26 12:46:23,918 - Bloqueado en (32560, 32488). A�adiendo (32559, 32489) como obst�culo.
-[2025-12-26 12:46:23,918] WARNING - Bloqueado en (32560, 32488). Añadiendo (32559, 32489) como obstáculo.
-[2025-12-26 12:46:23,918] WARNING - Bloqueado en (32560, 32488). Añadiendo (32559, 32489) como obstáculo.
-[WARNING] 2025-12-26 12:46:23,925 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:23,925] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:23,925] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:23,927 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:23,927] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:23,927] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:23,929 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:23,929] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:23,929] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:23,931 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:23,931] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:23,931] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:23,954 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lnyp3ggo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lnyp3ggo', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:23,954] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lnyp3ggo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lnyp3ggo', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:23,954] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lnyp3ggo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lnyp3ggo', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:24,067 - Texto completo le�do en battle list: '|
-| 3'
-[2025-12-26 12:46:24,067] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[2025-12-26 12:46:24,067] DEBUG - Texto completo leído en battle list: '|
-| 3'
-[DEBUG] 2025-12-26 12:46:24,171 - Moviendo \u2191 arriba
-[2025-12-26 12:46:24,171] DEBUG - Moviendo ↑ arriba
-[2025-12-26 12:46:24,171] DEBUG - Moviendo ↑ arriba
-[WARNING] 2025-12-26 12:46:25,198 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:25,198] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:25,198] WARNING - No se detectó player_dot. Usando base_position.
-[WARNING] 2025-12-26 12:46:25,200 - Bloqueado en (32560, 32488). A�adiendo (32560, 32487) como obst�culo.
-[2025-12-26 12:46:25,200] WARNING - Bloqueado en (32560, 32488). Añadiendo (32560, 32487) como obstáculo.
-[2025-12-26 12:46:25,200] WARNING - Bloqueado en (32560, 32488). Añadiendo (32560, 32487) como obstáculo.
-[WARNING] 2025-12-26 12:46:25,216 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:25,216] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:25,216] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:25,217 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:25,217] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:25,217] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:25,223 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:25,223] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:25,223] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:25,231 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:25,231] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:25,231] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:25,254 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jzfrfn_r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jzfrfn_r', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:25,254] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jzfrfn_r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jzfrfn_r', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:25,254] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jzfrfn_r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jzfrfn_r', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:25,382 - Texto completo le�do en battle list: '\y
-(fl
-(fl
-Ft) 15) \y
-\y
-SiR) i"
-aires
-airey'
-[2025-12-26 12:46:25,382] DEBUG - Texto completo leído en battle list: '\y
-(fl
-(fl
-Ft) 15) \y
-\y
-SiR) i"
-aires
-airey'
-[2025-12-26 12:46:25,382] DEBUG - Texto completo leído en battle list: '\y
-(fl
-(fl
-Ft) 15) \y
-\y
-SiR) i"
-aires
-airey'
-[DEBUG] 2025-12-26 12:46:25,485 - Moviendo \u2191 arriba
-[2025-12-26 12:46:25,485] DEBUG - Moviendo ↑ arriba
-[2025-12-26 12:46:25,485] DEBUG - Moviendo ↑ arriba
-[WARNING] 2025-12-26 12:46:26,698 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:26,698] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:26,698] WARNING - No se detectó player_dot. Usando base_position.
-[WARNING] 2025-12-26 12:46:26,698 - Bloqueado en (32560, 32488). A�adiendo (32559, 32487) como obst�culo.
-[2025-12-26 12:46:26,698] WARNING - Bloqueado en (32560, 32488). Añadiendo (32559, 32487) como obstáculo.
-[2025-12-26 12:46:26,698] WARNING - Bloqueado en (32560, 32488). Añadiendo (32559, 32487) como obstáculo.
-[WARNING] 2025-12-26 12:46:26,711 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:26,711] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:26,711] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:26,718 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:26,718] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:26,718] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:26,719 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:26,719] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:26,719] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:26,727 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:26,727] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:26,727] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:26,753 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dlx5h3vz_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dlx5h3vz', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:26,753] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dlx5h3vz_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dlx5h3vz', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:26,753] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dlx5h3vz_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_dlx5h3vz', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:26,899 - Texto completo le�do en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:46:26,899] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:46:26,899] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[DEBUG] 2025-12-26 12:46:27,002 - Moviendo \u2190 izquierda
-[2025-12-26 12:46:27,002] DEBUG - Moviendo ← izquierda
-[2025-12-26 12:46:27,002] DEBUG - Moviendo ← izquierda
-[WARNING] 2025-12-26 12:46:27,962 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:27,962] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:27,962] WARNING - No se detectó player_dot. Usando base_position.
-[WARNING] 2025-12-26 12:46:27,962 - Bloqueado en (32560, 32488). A�adiendo (32559, 32488) como obst�culo.
-[2025-12-26 12:46:27,962] WARNING - Bloqueado en (32560, 32488). Añadiendo (32559, 32488) como obstáculo.
-[2025-12-26 12:46:27,962] WARNING - Bloqueado en (32560, 32488). Añadiendo (32559, 32488) como obstáculo.
-[WARNING] 2025-12-26 12:46:27,979 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:27,979] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:27,979] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:27,980 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:27,980] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:27,980] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:27,987 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:27,987] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:27,987] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:27,994 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:27,994] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:27,994] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:28,021 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_b9v5uxj9_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_b9v5uxj9', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:28,021] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_b9v5uxj9_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_b9v5uxj9', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:28,021] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_b9v5uxj9_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_b9v5uxj9', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:28,166 - Texto completo le�do en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:46:28,166] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:46:28,166] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[WARNING] 2025-12-26 12:46:28,167 - No se encontr� camino a [32562, 32489]. Usando ruta directa.
-[2025-12-26 12:46:28,167] WARNING - No se encontró camino a [32562, 32489]. Usando ruta directa.
-[2025-12-26 12:46:28,167] WARNING - No se encontró camino a [32562, 32489]. Usando ruta directa.
-[WARNING] 2025-12-26 12:46:28,174 - No hay camino v�lido a [32562, 32489]. Pasando al siguiente.
-[2025-12-26 12:46:28,174] WARNING - No hay camino válido a [32562, 32489]. Pasando al siguiente.
-[2025-12-26 12:46:28,174] WARNING - No hay camino válido a [32562, 32489]. Pasando al siguiente.
-[INFO] 2025-12-26 12:46:28,721 - Navigando a waypoint: [32561, 32490]
-[2025-12-26 12:46:28,721] INFO - Navigando a waypoint: [32561, 32490]
-[2025-12-26 12:46:28,721] INFO - Navigando a waypoint: [32561, 32490]
-[WARNING] 2025-12-26 12:46:28,728 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:46:28,728] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:46:28,728] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:46:28,729 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:46:28,729] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:46:28,729] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:46:28,732 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:46:28,732] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:46:28,732] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:46:28,733 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:28,733] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:46:28,733] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:46:28,754 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__9kdgimi_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__9kdgimi', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:28,754] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__9kdgimi_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__9kdgimi', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:46:28,754] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__9kdgimi_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__9kdgimi', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:46:28,899 - Texto completo le�do en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:46:28,899] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:46:28,899] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[WARNING] 2025-12-26 12:46:28,899 - No se encontr� camino a [32561, 32490]. Usando ruta directa.
-[2025-12-26 12:46:28,899] WARNING - No se encontró camino a [32561, 32490]. Usando ruta directa.
-[2025-12-26 12:46:28,899] WARNING - No se encontró camino a [32561, 32490]. Usando ruta directa.
-[WARNING] 2025-12-26 12:46:28,901 - No hay camino v�lido a [32561, 32490]. Pasando al siguiente.
-[2025-12-26 12:46:28,901] WARNING - No hay camino válido a [32561, 32490]. Pasando al siguiente.
-[2025-12-26 12:46:28,901] WARNING - No hay camino válido a [32561, 32490]. Pasando al siguiente.
-[INFO] 2025-12-26 12:46:29,714 - Todos los waypoints completados.
-[2025-12-26 12:46:29,714] INFO - Todos los waypoints completados.
-[2025-12-26 12:46:29,714] INFO - Todos los waypoints completados.
-[DEBUG] 2025-12-26 12:46:30,254 - Ejecutando m�dulo LevelUp
-[2025-12-26 12:46:30,254] DEBUG - Ejecutando módulo LevelUp
-[2025-12-26 12:46:30,254] DEBUG - Ejecutando módulo LevelUp
-[DEBUG] 2025-12-26 12:46:30,254 - Regi�n de level up: [1620, 200, 200, 80]
-[2025-12-26 12:46:30,254] DEBUG - Región de level up: [1620, 200, 200, 80]
-[2025-12-26 12:46:30,254] DEBUG - Región de level up: [1620, 200, 200, 80]
-[DEBUG] 2025-12-26 12:46:30,281 - Color detectado en bot�n level up: (24, 24, 24)
-[2025-12-26 12:46:30,281] DEBUG - Color detectado en botón level up: (24, 24, 24)
-[2025-12-26 12:46:30,281] DEBUG - Color detectado en botón level up: (24, 24, 24)
-[DEBUG] 2025-12-26 12:46:30,282 - No se detect� bot�n de level up activo
-[2025-12-26 12:46:30,282] DEBUG - No se detectó botón de level up activo
-[2025-12-26 12:46:30,282] DEBUG - No se detectó botón de level up activo
-[INFO] 2025-12-26 12:46:30,431 - Dirigi�ndose al NPC Supplier para refill...
-[2025-12-26 12:46:30,431] INFO - Dirigiéndose al NPC Supplier para refill...
-[2025-12-26 12:46:30,431] INFO - Dirigiéndose al NPC Supplier para refill...
-[INFO] 2025-12-26 12:46:34,190 - Lleg� al NPC.
-[2025-12-26 12:46:34,190] INFO - Llegó al NPC.
-[2025-12-26 12:46:34,190] INFO - Llegó al NPC.
-[INFO] 2025-12-26 12:46:34,190 - Hablando con Supplier...
-[2025-12-26 12:46:34,190] INFO - Hablando con Supplier...
-[2025-12-26 12:46:34,190] INFO - Hablando con Supplier...
-[INFO] 2025-12-26 12:46:38,633 - Comprando pociones...
-[2025-12-26 12:46:38,633] INFO - Comprando pociones...
-[2025-12-26 12:46:38,633] INFO - Comprando pociones...
-[INFO] 2025-12-26 12:46:43,030 - === BOT DETENIDO POR USUARIO ===
-[2025-12-26 12:46:43,030] INFO - === BOT DETENIDO POR USUARIO ===
-[2025-12-26 12:46:43,030] INFO - === BOT DETENIDO POR USUARIO ===
-[INFO] 2025-12-26 12:46:51,188 - Compra completada.
-[2025-12-26 12:46:51,188] INFO - Compra completada.
-[2025-12-26 12:46:51,188] INFO - Compra completada.
-[INFO] 2025-12-26 12:46:51,188 - Volviendo al hunt...
-[2025-12-26 12:46:51,188] INFO - Volviendo al hunt...
-[2025-12-26 12:46:51,188] INFO - Volviendo al hunt...
-[DEBUG] 2025-12-26 12:46:58,759 - Ejecutando m�dulo Healer (modo humano y seguro)
-[2025-12-26 12:46:58,759] DEBUG - Ejecutando módulo Healer (modo humano y seguro)
-[2025-12-26 12:46:58,759] DEBUG - Ejecutando módulo Healer (modo humano y seguro)
-[DEBUG] 2025-12-26 12:46:58,761 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_owiz8g9q_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_owiz8g9q', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[2025-12-26 12:46:58,761] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_owiz8g9q_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_owiz8g9q', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[2025-12-26 12:46:58,761] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_owiz8g9q_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_owiz8g9q', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[DEBUG] 2025-12-26 12:46:58,929 - OCR no encontr� texto en [11, 28, 768, 13] (incluso con preprocesado extremo)
-[2025-12-26 12:46:58,929] DEBUG - OCR no encontró texto en [11, 28, 768, 13] (incluso con preprocesado extremo)
-[2025-12-26 12:46:58,929] DEBUG - OCR no encontró texto en [11, 28, 768, 13] (incluso con preprocesado extremo)
-[DEBUG] 2025-12-26 12:46:58,930 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_mq5qc773_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_mq5qc773', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[2025-12-26 12:46:58,930] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_mq5qc773_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_mq5qc773', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[2025-12-26 12:46:58,930] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_mq5qc773_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_mq5qc773', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[DEBUG] 2025-12-26 12:46:59,121 - OCR no encontr� texto en [789, 28, 766, 9] (incluso con preprocesado extremo)
-[2025-12-26 12:46:59,121] DEBUG - OCR no encontró texto en [789, 28, 766, 9] (incluso con preprocesado extremo)
-[2025-12-26 12:46:59,121] DEBUG - OCR no encontró texto en [789, 28, 766, 9] (incluso con preprocesado extremo)
-[INFO] 2025-12-26 12:46:59,122 - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 12:46:59,122] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 12:46:59,122] INFO - HP detectado: 100.0% | Mana: 100.0%
-[INFO] 2025-12-26 12:47:00,200 - Navigando a waypoint: [32560, 32488]
-[2025-12-26 12:47:00,200] INFO - Navigando a waypoint: [32560, 32488]
-[2025-12-26 12:47:00,200] INFO - Navigando a waypoint: [32560, 32488]
-[WARNING] 2025-12-26 12:47:00,217 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:47:00,217] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:47:00,217] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:47:00,218 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:47:00,218] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:47:00,218] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:47:00,220 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:47:00,220] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:47:00,220] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:47:00,222 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:00,222] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:00,222] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:47:00,236 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sdp2r16w_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sdp2r16w', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:00,236] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sdp2r16w_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sdp2r16w', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:00,236] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sdp2r16w_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sdp2r16w', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:47:00,380 - Texto completo le�do en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:47:00,380] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:47:00,380] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[INFO] 2025-12-26 12:47:00,380 - �Llegado a waypoint [32560, 32488]!
-[2025-12-26 12:47:00,380] INFO - ¡Llegado a waypoint [32560, 32488]!
-[2025-12-26 12:47:00,380] INFO - ¡Llegado a waypoint [32560, 32488]!
-[INFO] 2025-12-26 12:47:01,273 - Navigando a waypoint: [32561, 32488]
-[2025-12-26 12:47:01,273] INFO - Navigando a waypoint: [32561, 32488]
-[2025-12-26 12:47:01,273] INFO - Navigando a waypoint: [32561, 32488]
-[WARNING] 2025-12-26 12:47:01,282 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:47:01,282] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:47:01,282] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:47:01,283 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:47:01,283] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:47:01,283] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:47:01,285 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:47:01,285] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:47:01,285] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:47:01,286 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:01,286] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:01,286] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:47:01,302 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__zloj5v3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__zloj5v3', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:01,302] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__zloj5v3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__zloj5v3', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:01,302] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__zloj5v3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__zloj5v3', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:47:01,450 - Texto completo le�do en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:47:01,450] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:47:01,450] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[INFO] 2025-12-26 12:47:01,451 - �Llegado a waypoint [32561, 32488]!
-[2025-12-26 12:47:01,451] INFO - ¡Llegado a waypoint [32561, 32488]!
-[2025-12-26 12:47:01,451] INFO - ¡Llegado a waypoint [32561, 32488]!
-[INFO] 2025-12-26 12:47:02,089 - Navigando a waypoint: [32562, 32489]
-[2025-12-26 12:47:02,089] INFO - Navigando a waypoint: [32562, 32489]
-[2025-12-26 12:47:02,089] INFO - Navigando a waypoint: [32562, 32489]
-[WARNING] 2025-12-26 12:47:02,096 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:47:02,096] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:47:02,096] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:47:02,096 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:47:02,096] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:47:02,096] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:47:02,098 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:47:02,098] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:47:02,098] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:47:02,100 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:02,100] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:02,100] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:47:02,121 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w83f0jpp_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w83f0jpp', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:02,121] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w83f0jpp_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w83f0jpp', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:02,121] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w83f0jpp_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w83f0jpp', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:47:02,266 - Texto completo le�do en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:47:02,266] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:47:02,266] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[WARNING] 2025-12-26 12:47:02,266 - No se encontr� camino a [32562, 32489]. Usando ruta directa.
-[2025-12-26 12:47:02,266] WARNING - No se encontró camino a [32562, 32489]. Usando ruta directa.
-[2025-12-26 12:47:02,266] WARNING - No se encontró camino a [32562, 32489]. Usando ruta directa.
-[WARNING] 2025-12-26 12:47:02,268 - No hay camino v�lido a [32562, 32489]. Pasando al siguiente.
-[2025-12-26 12:47:02,268] WARNING - No hay camino válido a [32562, 32489]. Pasando al siguiente.
-[2025-12-26 12:47:02,268] WARNING - No hay camino válido a [32562, 32489]. Pasando al siguiente.
-[INFO] 2025-12-26 12:47:02,830 - Navigando a waypoint: [32561, 32490]
-[2025-12-26 12:47:02,830] INFO - Navigando a waypoint: [32561, 32490]
-[2025-12-26 12:47:02,830] INFO - Navigando a waypoint: [32561, 32490]
-[WARNING] 2025-12-26 12:47:02,851 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:47:02,851] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:47:02,851] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:47:02,852 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:47:02,852] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:47:02,852] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:47:02,857 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:47:02,857] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:47:02,857] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:47:02,863 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:02,863] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:02,863] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:47:02,889 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1n2dgd1u_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1n2dgd1u', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:02,889] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1n2dgd1u_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1n2dgd1u', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:02,889] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1n2dgd1u_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1n2dgd1u', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:47:03,035 - Texto completo le�do en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:47:03,035] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[2025-12-26 12:47:03,035] DEBUG - Texto completo leído en battle list: 'OE (heuer
-> (ais
-> taxis
-wo |
-> sae
-> CPSs
-ny lintic'
-[WARNING] 2025-12-26 12:47:03,036 - No se encontr� camino a [32561, 32490]. Usando ruta directa.
-[2025-12-26 12:47:03,036] WARNING - No se encontró camino a [32561, 32490]. Usando ruta directa.
-[2025-12-26 12:47:03,036] WARNING - No se encontró camino a [32561, 32490]. Usando ruta directa.
-[WARNING] 2025-12-26 12:47:03,049 - No hay camino v�lido a [32561, 32490]. Pasando al siguiente.
-[2025-12-26 12:47:03,049] WARNING - No hay camino válido a [32561, 32490]. Pasando al siguiente.
-[2025-12-26 12:47:03,049] WARNING - No hay camino válido a [32561, 32490]. Pasando al siguiente.
-[INFO] 2025-12-26 12:47:03,933 - Todos los waypoints completados.
-[2025-12-26 12:47:03,933] INFO - Todos los waypoints completados.
-[2025-12-26 12:47:03,933] INFO - Todos los waypoints completados.
-[DEBUG] 2025-12-26 12:47:04,286 - Ejecutando m�dulo LevelUp
-[2025-12-26 12:47:04,286] DEBUG - Ejecutando módulo LevelUp
-[2025-12-26 12:47:04,286] DEBUG - Ejecutando módulo LevelUp
-[DEBUG] 2025-12-26 12:47:04,286 - Regi�n de level up: [1620, 200, 200, 80]
-[2025-12-26 12:47:04,286] DEBUG - Región de level up: [1620, 200, 200, 80]
-[2025-12-26 12:47:04,286] DEBUG - Región de level up: [1620, 200, 200, 80]
-[DEBUG] 2025-12-26 12:47:04,297 - Color detectado en bot�n level up: (24, 24, 24)
-[2025-12-26 12:47:04,297] DEBUG - Color detectado en botón level up: (24, 24, 24)
-[2025-12-26 12:47:04,297] DEBUG - Color detectado en botón level up: (24, 24, 24)
-[DEBUG] 2025-12-26 12:47:04,297 - No se detect� bot�n de level up activo
-[2025-12-26 12:47:04,297] DEBUG - No se detectó botón de level up activo
-[2025-12-26 12:47:04,297] DEBUG - No se detectó botón de level up activo
-[INFO] 2025-12-26 12:47:04,416 - Dirigi�ndose al NPC Supplier para refill...
-[2025-12-26 12:47:04,416] INFO - Dirigiéndose al NPC Supplier para refill...
-[2025-12-26 12:47:04,416] INFO - Dirigiéndose al NPC Supplier para refill...
-[INFO] 2025-12-26 12:47:07,631 - Lleg� al NPC.
-[2025-12-26 12:47:07,631] INFO - Llegó al NPC.
-[2025-12-26 12:47:07,631] INFO - Llegó al NPC.
-[INFO] 2025-12-26 12:47:07,631 - Hablando con Supplier...
-[2025-12-26 12:47:07,631] INFO - Hablando con Supplier...
-[2025-12-26 12:47:07,631] INFO - Hablando con Supplier...
-[INFO] 2025-12-26 12:47:12,403 - Comprando pociones...
-[2025-12-26 12:47:12,403] INFO - Comprando pociones...
-[2025-12-26 12:47:12,403] INFO - Comprando pociones...
-[INFO] 2025-12-26 12:47:24,635 - Compra completada.
-[2025-12-26 12:47:24,635] INFO - Compra completada.
-[2025-12-26 12:47:24,635] INFO - Compra completada.
-[INFO] 2025-12-26 12:47:24,635 - Volviendo al hunt...
-[2025-12-26 12:47:24,635] INFO - Volviendo al hunt...
-[2025-12-26 12:47:24,635] INFO - Volviendo al hunt...
-[DEBUG] 2025-12-26 12:47:32,759 - Ejecutando m�dulo Healer (modo humano y seguro)
-[2025-12-26 12:47:32,759] DEBUG - Ejecutando módulo Healer (modo humano y seguro)
-[2025-12-26 12:47:32,759] DEBUG - Ejecutando módulo Healer (modo humano y seguro)
-[DEBUG] 2025-12-26 12:47:32,761 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_wy950cuw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_wy950cuw', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[2025-12-26 12:47:32,761] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_wy950cuw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_wy950cuw', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[2025-12-26 12:47:32,761] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_wy950cuw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_wy950cuw', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[DEBUG] 2025-12-26 12:47:32,934 - OCR no encontr� texto en [11, 28, 768, 13] (incluso con preprocesado extremo)
-[2025-12-26 12:47:32,934] DEBUG - OCR no encontró texto en [11, 28, 768, 13] (incluso con preprocesado extremo)
-[2025-12-26 12:47:32,934] DEBUG - OCR no encontró texto en [11, 28, 768, 13] (incluso con preprocesado extremo)
-[DEBUG] 2025-12-26 12:47:32,937 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4cfb285x_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4cfb285x', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[2025-12-26 12:47:32,937] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4cfb285x_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4cfb285x', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[2025-12-26 12:47:32,937] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4cfb285x_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4cfb285x', '--oem', '3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789.%xyz,', '-c', 'preserve_interword_spaces=1', 'txt']
-[DEBUG] 2025-12-26 12:47:33,125 - OCR no encontr� texto en [789, 28, 766, 9] (incluso con preprocesado extremo)
-[2025-12-26 12:47:33,125] DEBUG - OCR no encontró texto en [789, 28, 766, 9] (incluso con preprocesado extremo)
-[2025-12-26 12:47:33,125] DEBUG - OCR no encontró texto en [789, 28, 766, 9] (incluso con preprocesado extremo)
-[INFO] 2025-12-26 12:47:33,126 - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 12:47:33,126] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 12:47:33,126] INFO - HP detectado: 100.0% | Mana: 100.0%
-[INFO] 2025-12-26 12:47:33,915 - Navigando a waypoint: [32560, 32488]
-[2025-12-26 12:47:33,915] INFO - Navigando a waypoint: [32560, 32488]
-[2025-12-26 12:47:33,915] INFO - Navigando a waypoint: [32560, 32488]
-[WARNING] 2025-12-26 12:47:33,915 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:47:33,915] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:47:33,915] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:47:33,918 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:47:33,918] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:47:33,918] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:47:33,920 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:47:33,920] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:47:33,920] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:47:33,923 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:33,923] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:33,923] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:47:33,929 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_emjnc07u_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_emjnc07u', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:33,929] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_emjnc07u_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_emjnc07u', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:33,929] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_emjnc07u_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_emjnc07u', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:47:34,037 - Texto completo le�do en battle list: ''
-[2025-12-26 12:47:34,037] DEBUG - Texto completo leído en battle list: ''
-[2025-12-26 12:47:34,037] DEBUG - Texto completo leído en battle list: ''
-[DEBUG] 2025-12-26 12:47:34,037 - Battle list vac�a o texto no legible.
-[2025-12-26 12:47:34,037] DEBUG - Battle list vacía o texto no legible.
-[2025-12-26 12:47:34,037] DEBUG - Battle list vacía o texto no legible.
-[INFO] 2025-12-26 12:47:34,041 - �Llegado a waypoint [32560, 32488]!
-[2025-12-26 12:47:34,041] INFO - ¡Llegado a waypoint [32560, 32488]!
-[2025-12-26 12:47:34,041] INFO - ¡Llegado a waypoint [32560, 32488]!
-[INFO] 2025-12-26 12:47:34,909 - Navigando a waypoint: [32561, 32488]
-[2025-12-26 12:47:34,909] INFO - Navigando a waypoint: [32561, 32488]
-[2025-12-26 12:47:34,909] INFO - Navigando a waypoint: [32561, 32488]
-[WARNING] 2025-12-26 12:47:34,909 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:47:34,909] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:47:34,909] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:47:34,912 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:47:34,912] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:47:34,912] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:47:34,917 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:47:34,917] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:47:34,917] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:47:34,919 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:34,919] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:34,919] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:47:34,925 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uzt7u6je_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uzt7u6je', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:34,925] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uzt7u6je_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uzt7u6je', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:34,925] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uzt7u6je_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uzt7u6je', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:47:35,037 - Texto completo le�do en battle list: ''
-[2025-12-26 12:47:35,037] DEBUG - Texto completo leído en battle list: ''
-[2025-12-26 12:47:35,037] DEBUG - Texto completo leído en battle list: ''
-[DEBUG] 2025-12-26 12:47:35,038 - Battle list vac�a o texto no legible.
-[2025-12-26 12:47:35,038] DEBUG - Battle list vacía o texto no legible.
-[2025-12-26 12:47:35,038] DEBUG - Battle list vacía o texto no legible.
-[INFO] 2025-12-26 12:47:35,040 - �Llegado a waypoint [32561, 32488]!
-[2025-12-26 12:47:35,040] INFO - ¡Llegado a waypoint [32561, 32488]!
-[2025-12-26 12:47:35,040] INFO - ¡Llegado a waypoint [32561, 32488]!
-[INFO] 2025-12-26 12:47:35,807 - Navigando a waypoint: [32562, 32489]
-[2025-12-26 12:47:35,807] INFO - Navigando a waypoint: [32562, 32489]
-[2025-12-26 12:47:35,807] INFO - Navigando a waypoint: [32562, 32489]
-[WARNING] 2025-12-26 12:47:35,807 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:47:35,807] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:47:35,807] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:47:35,810 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:47:35,810] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:47:35,810] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:47:35,813 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:47:35,813] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:47:35,813] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:47:35,816 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:35,816] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:35,816] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:47:35,822 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w6xbtg6i_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w6xbtg6i', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:35,822] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w6xbtg6i_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w6xbtg6i', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:35,822] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w6xbtg6i_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_w6xbtg6i', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:47:35,980 - Texto completo le�do en battle list: ''
-[2025-12-26 12:47:35,980] DEBUG - Texto completo leído en battle list: ''
-[2025-12-26 12:47:35,980] DEBUG - Texto completo leído en battle list: ''
-[DEBUG] 2025-12-26 12:47:35,981 - Battle list vac�a o texto no legible.
-[2025-12-26 12:47:35,981] DEBUG - Battle list vacía o texto no legible.
-[2025-12-26 12:47:35,981] DEBUG - Battle list vacía o texto no legible.
-[WARNING] 2025-12-26 12:47:35,983 - No se encontr� camino a [32562, 32489]. Usando ruta directa.
-[2025-12-26 12:47:35,983] WARNING - No se encontró camino a [32562, 32489]. Usando ruta directa.
-[2025-12-26 12:47:35,983] WARNING - No se encontró camino a [32562, 32489]. Usando ruta directa.
-[WARNING] 2025-12-26 12:47:35,985 - No hay camino v�lido a [32562, 32489]. Pasando al siguiente.
-[2025-12-26 12:47:35,985] WARNING - No hay camino válido a [32562, 32489]. Pasando al siguiente.
-[2025-12-26 12:47:35,985] WARNING - No hay camino válido a [32562, 32489]. Pasando al siguiente.
-[INFO] 2025-12-26 12:47:36,904 - Navigando a waypoint: [32561, 32490]
-[2025-12-26 12:47:36,904] INFO - Navigando a waypoint: [32561, 32490]
-[2025-12-26 12:47:36,904] INFO - Navigando a waypoint: [32561, 32490]
-[WARNING] 2025-12-26 12:47:36,905 - No se detect� player_dot. Usando base_position.
-[2025-12-26 12:47:36,905] WARNING - No se detectó player_dot. Usando base_position.
-[2025-12-26 12:47:36,905] WARNING - No se detectó player_dot. Usando base_position.
-[INFO] 2025-12-26 12:47:36,907 - Posici�n actual: (32560, 32488)
-[2025-12-26 12:47:36,907] INFO - Posición actual: (32560, 32488)
-[2025-12-26 12:47:36,907] INFO - Posición actual: (32560, 32488)
-[DEBUG] 2025-12-26 12:47:36,909 - Ejecutando m�dulo Targeting - Detecci�n de enemigos en battle list
-[2025-12-26 12:47:36,909] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[2025-12-26 12:47:36,909] DEBUG - Ejecutando módulo Targeting - Detección de enemigos en battle list
-[DEBUG] 2025-12-26 12:47:36,910 - Regi�n de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:36,910] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[2025-12-26 12:47:36,910] DEBUG - Región de battle list: [1571, 415, 155, 250]
-[DEBUG] 2025-12-26 12:47:36,918 - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8gh1ff9h_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8gh1ff9h', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:36,918] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8gh1ff9h_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8gh1ff9h', '--psm', '6', '--oem', '3', 'txt']
-[2025-12-26 12:47:36,918] DEBUG - ['tesseract', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8gh1ff9h_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8gh1ff9h', '--psm', '6', '--oem', '3', 'txt']
-[DEBUG] 2025-12-26 12:47:37,027 - Texto completo le�do en battle list: ''
-[2025-12-26 12:47:37,027] DEBUG - Texto completo leído en battle list: ''
-[2025-12-26 12:47:37,027] DEBUG - Texto completo leído en battle list: ''
-[DEBUG] 2025-12-26 12:47:37,027 - Battle list vac�a o texto no legible.
-[2025-12-26 12:47:37,027] DEBUG - Battle list vacía o texto no legible.
-[2025-12-26 12:47:37,027] DEBUG - Battle list vacía o texto no legible.
-[WARNING] 2025-12-26 12:47:37,030 - No se encontr� camino a [32561, 32490]. Usando ruta directa.
-[2025-12-26 12:47:37,030] WARNING - No se encontró camino a [32561, 32490]. Usando ruta directa.
-[2025-12-26 12:47:37,030] WARNING - No se encontró camino a [32561, 32490]. Usando ruta directa.
-[WARNING] 2025-12-26 12:47:37,032 - No hay camino v�lido a [32561, 32490]. Pasando al siguiente.
-[2025-12-26 12:47:37,032] WARNING - No hay camino válido a [32561, 32490]. Pasando al siguiente.
-[2025-12-26 12:47:37,032] WARNING - No hay camino válido a [32561, 32490]. Pasando al siguiente.
-[INFO] 2025-12-26 12:47:37,618 - Todos los waypoints completados.
-[2025-12-26 12:47:37,618] INFO - Todos los waypoints completados.
-[2025-12-26 12:47:37,618] INFO - Todos los waypoints completados.
-[DEBUG] 2025-12-26 12:47:37,974 - Ejecutando m�dulo LevelUp
-[2025-12-26 12:47:37,974] DEBUG - Ejecutando módulo LevelUp
-[2025-12-26 12:47:37,974] DEBUG - Ejecutando módulo LevelUp
-[DEBUG] 2025-12-26 12:47:37,974 - Regi�n de level up: [1620, 200, 200, 80]
-[2025-12-26 12:47:37,974] DEBUG - Región de level up: [1620, 200, 200, 80]
-[2025-12-26 12:47:37,974] DEBUG - Región de level up: [1620, 200, 200, 80]
-[DEBUG] 2025-12-26 12:47:37,976 - Color detectado en bot�n level up: (0, 0, 0)
-[2025-12-26 12:47:37,976] DEBUG - Color detectado en botón level up: (0, 0, 0)
-[2025-12-26 12:47:37,976] DEBUG - Color detectado en botón level up: (0, 0, 0)
-[DEBUG] 2025-12-26 12:47:37,980 - No se detect� bot�n de level up activo
-[2025-12-26 12:47:37,980] DEBUG - No se detectó botón de level up activo
-[2025-12-26 12:47:37,980] DEBUG - No se detectó botón de level up activo
-[INFO] 2025-12-26 12:47:38,201 - Dirigi�ndose al NPC Supplier para refill...
-[2025-12-26 12:47:38,201] INFO - Dirigiéndose al NPC Supplier para refill...
-[2025-12-26 12:47:38,201] INFO - Dirigiéndose al NPC Supplier para refill...
-[INFO] 2025-12-26 12:47:42,987 - Lleg� al NPC.
-[2025-12-26 12:47:42,987] INFO - Llegó al NPC.
-[2025-12-26 12:47:42,987] INFO - Llegó al NPC.
-[INFO] 2025-12-26 12:47:42,987 - Hablando con Supplier...
-[2025-12-26 12:47:42,987] INFO - Hablando con Supplier...
-[2025-12-26 12:47:42,987] INFO - Hablando con Supplier...
-[INFO] 2025-12-26 12:47:46,681 - Comprando pociones...
-[2025-12-26 12:47:46,681] INFO - Comprando pociones...
-[2025-12-26 12:47:46,681] INFO - Comprando pociones...
+[2025-12-26 17:15:36,639] INFO - → Waypoint: (32560, 32488, 7)
+[2025-12-26 17:15:36,639] INFO - → Waypoint: (32560, 32488, 7)
+[2025-12-26 17:15:36,748] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:36,748] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:36,790] INFO - ✓ Llegado a (32560, 32488, 7)
+[2025-12-26 17:15:36,790] INFO - ✓ Llegado a (32560, 32488, 7)
+[2025-12-26 17:15:36,949] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:36,949] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,150] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,150] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,351] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,351] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,460] INFO - → Waypoint: (32561, 32488, 7)
+[2025-12-26 17:15:37,460] INFO - → Waypoint: (32561, 32488, 7)
+[2025-12-26 17:15:37,552] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,552] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,606] INFO - ✓ Llegado a (32561, 32488, 7)
+[2025-12-26 17:15:37,606] INFO - ✓ Llegado a (32561, 32488, 7)
+[2025-12-26 17:15:37,667] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,667] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,667] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:37,667] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:37,668] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,668] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,668] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:37,668] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:37,669] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:37,669] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:37,752] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,752] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,953] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:37,953] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,154] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,154] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,355] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,355] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,425] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,425] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,427] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:38,427] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:38,433] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,433] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,435] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:38,435] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:38,437] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:38,437] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:38,443] INFO - → Waypoint: (32562, 32489, 7)
+[2025-12-26 17:15:38,443] INFO - → Waypoint: (32562, 32489, 7)
+[2025-12-26 17:15:38,556] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,556] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,757] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,757] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,958] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:38,958] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,159] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,159] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,361] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,361] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,519] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,519] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,519] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:39,519] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:39,521] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,521] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,522] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:39,522] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:39,523] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:39,523] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:39,561] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,561] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,763] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,763] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,964] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:39,964] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,165] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,165] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,366] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,366] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,567] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,567] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,743] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,743] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,743] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:40,743] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:40,746] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,746] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,747] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:40,747] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:40,749] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:40,749] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:40,769] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,769] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,972] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:40,972] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,173] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,173] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,374] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,374] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,575] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,575] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,614] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,614] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,614] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:41,614] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:41,618] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,618] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,619] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:41,619] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:41,621] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:41,621] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:41,777] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,777] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,978] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:41,978] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,178] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,178] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,379] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,379] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,580] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,580] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,660] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,660] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,660] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:42,660] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:42,664] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,664] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,665] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:42,665] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:42,666] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:42,666] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:42,782] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,782] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,983] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:42,983] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,184] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,184] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,385] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,385] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,466] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,466] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,466] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:43,466] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:43,469] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,469] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,470] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:43,470] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:43,472] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:43,472] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:43,586] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,586] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,788] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,788] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,989] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:43,989] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,191] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,191] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,392] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,392] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,592] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,592] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,593] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:44,593] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,593] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:44,593] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,599] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,599] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,603] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:44,603] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:44,603] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:44,603] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:44,800] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:44,800] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,001] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,001] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,202] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,202] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,368] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,368] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,368] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:45,368] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:45,370] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,370] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,371] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:45,371] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:45,374] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:45,374] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:45,402] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,402] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,603] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,603] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,805] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:45,805] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,006] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,006] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,206] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,206] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,408] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,408] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,588] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,588] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,588] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:46,588] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:46,589] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,589] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,590] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:46,590] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:46,593] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:46,593] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:46,609] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,609] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,809] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:46,809] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,010] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,010] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,212] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,212] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,412] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,412] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,613] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,613] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,664] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,664] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,664] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:47,664] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:47,665] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,665] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,666] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:47,666] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:47,668] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:47,668] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:47,814] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:47,814] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,016] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,016] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,218] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,218] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,419] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,419] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,542] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,542] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,544] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:48,544] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:48,548] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,548] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,551] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:48,551] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:48,552] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:48,552] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:48,620] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,620] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,821] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:48,821] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,022] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,022] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,223] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,223] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,424] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,424] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,452] ERROR - Waypoint (32562, 32489, 7) no alcanzable.
+[2025-12-26 17:15:49,452] ERROR - Waypoint (32562, 32489, 7) no alcanzable.
+[2025-12-26 17:15:49,625] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,625] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,750] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,750] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,751] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:49,751] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:49,755] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,755] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,757] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:49,757] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:49,759] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:49,759] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:49,826] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:49,826] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,027] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,027] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,143] INFO - → Waypoint: (32563, 32490, 7)
+[2025-12-26 17:15:50,143] INFO - → Waypoint: (32563, 32490, 7)
+[2025-12-26 17:15:50,229] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,229] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,430] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,430] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,632] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,632] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,736] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,736] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,736] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:50,736] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:50,742] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,742] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,747] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:50,747] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:50,750] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:50,750] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:50,833] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:50,833] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,034] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,034] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,236] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,236] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,437] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,437] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,639] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,639] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,840] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,840] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,849] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,849] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,849] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:51,849] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:51,852] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,852] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:51,855] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:51,855] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:51,856] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:51,856] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:52,041] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,041] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,242] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,242] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,444] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,444] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,644] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,644] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,845] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,845] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,987] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,987] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,987] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:52,987] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:52,989] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,989] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:52,990] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:52,990] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:52,992] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:52,992] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:53,047] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:53,047] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:53,248] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:53,248] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:53,449] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:53,449] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:53,650] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:53,650] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:53,851] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:53,851] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,053] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,053] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,173] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,173] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,174] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:54,174] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:54,180] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,180] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,182] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:54,182] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:54,185] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:54,185] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:54,254] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,254] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,455] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,455] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,655] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,655] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,856] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:54,856] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,058] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,058] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,259] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,259] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,371] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,371] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,372] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:55,372] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:55,374] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,374] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,375] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:55,375] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:55,377] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:55,377] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:55,461] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,461] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,662] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,662] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,863] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:55,863] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,063] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,063] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,264] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,264] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,465] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,465] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,489] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,489] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,490] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:56,490] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:56,492] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,492] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,493] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:56,493] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:56,495] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:56,495] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:56,575] INFO - === BOT DETENIDO POR USUARIO ===
+[2025-12-26 17:15:56,575] INFO - === BOT DETENIDO POR USUARIO ===
+[2025-12-26 17:15:56,665] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,665] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,867] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:56,867] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,068] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,068] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,268] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,268] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,469] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,469] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,595] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,595] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,595] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:57,595] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:57,596] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,596] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,598] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:57,598] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:57,602] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:57,602] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:57,671] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,671] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,871] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:57,871] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,073] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,073] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,274] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,274] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,474] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,474] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,502] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,502] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,502] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:58,502] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:58,504] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,504] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,505] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:58,505] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:58,507] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:58,507] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:58,676] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,676] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,877] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:58,877] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,078] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,078] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,278] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,278] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,479] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,479] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,521] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,521] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,521] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:59,521] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:15:59,523] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,523] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,524] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:59,524] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:15:59,527] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:59,527] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:15:59,679] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,679] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,880] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:15:59,880] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,080] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,080] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,281] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,281] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,417] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,417] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,417] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:00,417] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:00,425] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,425] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,427] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:00,427] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:00,434] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:00,434] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:00,483] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,483] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,683] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,683] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,885] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,885] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:00,952] ERROR - Waypoint (32563, 32490, 7) no alcanzable.
+[2025-12-26 17:16:00,952] ERROR - Waypoint (32563, 32490, 7) no alcanzable.
+[2025-12-26 17:16:01,087] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,087] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,288] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,288] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,490] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,490] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,613] INFO - → Waypoint: (32564, 32491, 7)
+[2025-12-26 17:16:01,613] INFO - → Waypoint: (32564, 32491, 7)
+[2025-12-26 17:16:01,690] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,690] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,713] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,713] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,713] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:01,713] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:01,720] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,720] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,722] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:01,722] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:01,724] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:01,724] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:01,891] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:01,891] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,092] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,092] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,294] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,294] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,495] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,495] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,696] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,696] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,841] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,841] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,844] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:02,844] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:02,857] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,857] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,864] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:02,864] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:02,865] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:02,865] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:02,897] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:02,897] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,098] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,098] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,299] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,299] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,500] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,500] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,701] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,701] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,713] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,713] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,713] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:03,713] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:03,719] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,719] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,725] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:03,725] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:03,729] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:03,729] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:03,902] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:03,902] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:04,103] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:04,103] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:04,303] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:04,303] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:04,504] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:04,504] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:04,706] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:04,706] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:04,907] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:04,907] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,029] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,029] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,029] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:05,029] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:05,036] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,036] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,038] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:05,038] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:05,049] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:05,049] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:05,108] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,108] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,309] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,309] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,510] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,510] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,711] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,711] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,912] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:05,912] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,041] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,041] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,041] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:06,041] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:06,045] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,045] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,046] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:06,046] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:06,048] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:06,048] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:06,113] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,113] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,314] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,314] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,515] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,515] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,715] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,715] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,814] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,814] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,814] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:06,814] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:06,821] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,821] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,832] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:06,832] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:06,839] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:06,839] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:06,916] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:06,916] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,117] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,117] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,318] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,318] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,519] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,519] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,601] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,601] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,601] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:07,601] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:07,603] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,603] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,604] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:07,604] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:07,605] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:07,605] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:07,720] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,720] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,921] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:07,921] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,122] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,122] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,324] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,324] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,453] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,453] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,454] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:08,454] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:08,457] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,457] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,458] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:08,458] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:08,462] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:08,462] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:08,525] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,525] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,726] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,726] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,927] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:08,927] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,127] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,127] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,328] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,328] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,529] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,529] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,611] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,611] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,611] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:09,611] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:09,612] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,612] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,614] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:09,614] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:09,615] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:09,615] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:09,730] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,730] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,931] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:09,931] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,132] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,132] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,334] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,334] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,534] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,534] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,706] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,706] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,706] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:10,706] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:10,707] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,707] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,709] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:10,709] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:10,711] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:10,711] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:10,736] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,736] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,937] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:10,937] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,138] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,138] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,339] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,339] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,539] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,539] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,740] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,740] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,897] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,897] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,897] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:11,897] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:11,899] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,899] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,900] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:11,900] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:11,901] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:11,901] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:11,940] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:11,940] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,141] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,141] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,342] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,342] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,543] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,543] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,585] ERROR - Waypoint (32564, 32491, 7) no alcanzable.
+[2025-12-26 17:16:12,585] ERROR - Waypoint (32564, 32491, 7) no alcanzable.
+[2025-12-26 17:16:12,624] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,624] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,624] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:12,624] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:12,626] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,626] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,628] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:12,628] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:12,630] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:12,630] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:12,744] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,744] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,945] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:12,945] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,146] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,146] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,325] INFO - → Waypoint: (32565, 32492, 7)
+[2025-12-26 17:16:13,325] INFO - → Waypoint: (32565, 32492, 7)
+[2025-12-26 17:16:13,346] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,346] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,548] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,548] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,749] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,749] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,949] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,949] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,983] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,983] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,984] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:13,984] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:13,985] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,985] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:13,986] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:13,986] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:13,988] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:13,988] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:14,150] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:14,150] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:14,351] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:14,351] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:14,552] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:14,552] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:14,752] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:14,752] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:14,953] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:14,953] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,154] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,154] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,154] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:15,155] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,154] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:15,155] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,158] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,158] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,160] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:15,160] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:15,163] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:15,163] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:15,358] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,358] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,559] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,559] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,760] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,760] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,961] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:15,961] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,157] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,157] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,157] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:16,157] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:16,159] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,159] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,160] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:16,160] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:16,161] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:16,162] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,161] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:16,162] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,366] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,366] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,567] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,567] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,769] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,769] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,970] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:16,970] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,170] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,170] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,258] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,258] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,258] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:17,258] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:17,260] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,260] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,261] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:17,261] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:17,263] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:17,263] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:17,371] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,371] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,572] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,572] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,772] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,772] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,888] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,888] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,888] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:17,888] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
+[2025-12-26 17:16:17,894] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,894] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,897] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:17,897] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
+[2025-12-26 17:16:17,898] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:17,898] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 17:16:17,973] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:17,973] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:18,174] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:18,174] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 17:16:18,376] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'

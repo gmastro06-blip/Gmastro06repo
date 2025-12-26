@@ -1,4 +1,4 @@
-# Ruta: modules/cavebot.py - Cavebot optimizado para Tibia oficial v15.20
+# Ruta: modules/cavebot.py - Cavebot CORREGIDO y estable
 
 import json
 import pyautogui
@@ -6,172 +6,133 @@ import time
 import logging
 import numpy as np
 import random
-from heapq import heappop, heappush
+import threading  # ← IMPORT AÑADIDO
 from .utils import GameWindow
 from .targeting import Targeting
 from .looter import Looter
 
 class Cavebot:
-    def __init__(self, game_window, config):
+    def __init__(self, game_window, config, stop_event=None):
         self.game_window = game_window
         self.config = config
+        self.stop_event = stop_event or threading.Event()
         self.waypoints = self.load_waypoints()
-        self.obstacles = set()  # Almacena posiciones donde se atascó
+        self.obstacles = set()
         self.targeting = Targeting(game_window, config)
         self.looter = Looter(game_window, config)
         self.tolerance = config.get('arrival_tolerance', 1)
-        self.base_position = (config['base_position']['x'], config['base_position']['y'])
+        self.base_position = (config['base_position']['x'], config['base_position']['y'], config['base_position']['z'])
+        self.max_retries = 5
+        self.retry_delay = 1.0
+        self.use_item_key = config['hotkeys'].get('use_item', 'f6')
 
     def load_waypoints(self):
-        """Carga los waypoints desde el archivo especificado."""
-        waypoints_file = self.config.get('waypoints_file', 'waypoints/newhaven_exp.json')
+        file = self.config.get('waypoints_file', 'waypoints/newhaven_exp.json')
         try:
-            with open(waypoints_file, 'r', encoding='utf-8') as f:
-                waypoints = json.load(f)
-            logging.info(f"Waypoints cargados: {waypoints}")
-            return waypoints
-        except FileNotFoundError:
-            logging.error(f"Archivo de waypoints no encontrado: {waypoints_file}")
-            return []
-        except json.JSONDecodeError as e:
-            logging.error(f"Error al parsear JSON de waypoints: {e}")
+            with open(file, 'r') as f:
+                wps = json.load(f)
+            logging.info(f"Waypoints cargados: {len(wps)} puntos")
+            return [tuple(wp) for wp in wps]
+        except Exception as e:
+            logging.error(f"Error waypoints: {e}")
             return []
 
     def get_current_position(self):
-        """Obtiene la posición actual priorizando player_dot, con fallback a base_position."""
-        player_dot = self.config['regions'].get('player_dot')
-        minimap_region = self.config['regions'].get('minimap')
+        dot = self.config['regions'].get('player_dot')
+        if not dot:
+            return self.base_position
 
-        if player_dot:
-            expected_color = self.config.get('player_dot_color', [255, 255, 255])
-            tolerance = self.config.get('player_dot_tolerance', 30)
-            color = self.game_window.get_pixel_color(player_dot[0], player_dot[1])
-            if color and np.allclose(color, expected_color, atol=tolerance):
-                minimap = self.config['regions']['minimap']
-                center_offset = self.config.get('minimap_center_offset', [minimap[2] // 2, minimap[3] // 2])
-                current_x = self.base_position[0] + (player_dot[0] - (minimap[0] + center_offset[0]))
-                current_y = self.base_position[1] + (player_dot[1] - (minimap[1] + center_offset[1]))
-                logging.debug(f"Posición por player_dot: ({current_x}, {current_y})")
-                return (int(current_x), int(current_y))
-
-        logging.warning("No se detectó player_dot. Usando base_position.")
+        color = self.game_window.get_pixel_color(dot[0], dot[1])
+        if color and np.allclose(color, self.config.get('player_dot_color', [255,255,255]), atol=self.config.get('player_dot_tolerance', 30)):
+            m = self.config['regions']['minimap']
+            off = self.config.get('minimap_center_offset', [m[2]//2, m[3]//2])
+            x = self.base_position[0] + (dot[0] - (m[0] + off[0]))
+            y = self.base_position[1] + (dot[1] - (m[1] + off[1]))
+            z = self.base_position[2]
+            return (int(x), int(y), z)
         return self.base_position
 
-    def a_star_pathfinding(self, start, goal):
-        """A* optimizado para movimiento en 8 direcciones en Tibia."""
-        def heuristic(a, b):
-            return abs(a[0] - b[0]) + abs(a[1] - b[1])  # Manhattan distance
-
-        open_set = [(0, start)]
-        came_from = {}
-        g_score = {start: 0}
-        f_score = {start: heuristic(start, goal)}
-
-        while open_set:
-            current_f, current = heappop(open_set)
-            if abs(current[0] - goal[0]) <= self.tolerance and abs(current[1] - goal[1]) <= self.tolerance:
-                path = []
-                while current in came_from:
-                    path.append(current)
-                    current = came_from[current]
-                path.append(start)
-                return path[::-1]
-
-            # Movimiento en 8 direcciones (cruz + diagonales)
-            for dx, dy in [(0, 1), (1, 0), (0, -1), (-1, 0), (1, 1), (1, -1), (-1, 1), (-1, -1)]:
-                neighbor = (current[0] + dx, current[1] + dy)
-                if neighbor in self.obstacles:
-                    continue
-
-                tentative_g = g_score[current] + (1.4 if dx * dy != 0 else 1)  # Costo diagonal 1.4
-                if tentative_g < g_score.get(neighbor, float('inf')):
-                    came_from[neighbor] = current
-                    g_score[neighbor] = tentative_g
-                    f_score[neighbor] = tentative_g + heuristic(neighbor, goal)
-                    heappush(open_set, (f_score[neighbor], neighbor))
-
-        logging.warning(f"No se encontró camino a {goal}. Usando ruta directa.")
-        return [goal]
-
     def move_to_position(self, current, target):
-        """Mueve al personaje hacia la siguiente posición."""
-        dx = target[0] - current[0]
-        dy = target[1] - current[1]
+        if current[2] != target[2]:
+            logging.info(f"Cambio de nivel z={current[2]} → z={target[2]}")
+            pyautogui.press(self.use_item_key)
+            time.sleep(1.0)
 
+        dx, dy = target[0] - current[0], target[1] - current[1]
         if abs(dx) > abs(dy):
-            if dx > 0:
-                pyautogui.press('right')
-                logging.debug("Moviendo → derecha")
-            else:
-                pyautogui.press('left')
-                logging.debug("Moviendo ← izquierda")
+            key = 'right' if dx > 0 else 'left'
         else:
-            if dy > 0:
-                pyautogui.press('down')
-                logging.debug("Moviendo ↓ abajo")
-            else:
-                pyautogui.press('up')
-                logging.debug("Moviendo ↑ arriba")
+            key = 'down' if dy > 0 else 'up'
 
-        time.sleep(random.uniform(0.3, 0.7))  # Pausa humana
+        duration = random.uniform(0.1, 0.3)
+        pyautogui.keyDown(key)
+        time.sleep(duration)
+        pyautogui.keyUp(key)
 
-    def is_blocked(self, current, next_step):
-        """Verifica si el movimiento está bloqueado."""
-        old_pos = current
-        self.move_to_position(current, next_step)
-        time.sleep(0.5)
-        new_pos = self.get_current_position()
-        if new_pos == old_pos:
-            self.obstacles.add(next_step)
-            logging.warning(f"Bloqueado en {current}. Añadiendo {next_step} como obstáculo.")
-            return True
-        return False
+        time.sleep(random.uniform(0.05, 0.15))
 
     def navigate(self):
-        """Navega por los waypoints integrando targeting y looting."""
         if not self.waypoints:
-            logging.warning("No hay waypoints. Navegación detenida.")
+            logging.warning("No waypoints.")
             return
 
         for wp in self.waypoints:
-            logging.info(f"Navigando a waypoint: {wp}")
+            if self.stop_event.is_set():
+                logging.info("Stop detectado antes de waypoint")
+                return
 
-            while True:
+            logging.info(f"→ Waypoint: {wp}")
+            retries = 0
+            while retries < self.max_retries and not self.stop_event.is_set():
                 current = self.get_current_position()
-                logging.info(f"Posición actual: {current}")
 
-                # Detección de enemigos
-                enemy_detected = self.targeting.detect()
-                if enemy_detected:
-                    logging.info("Enemigo detectado, atacando...")
-                    while self.targeting.is_enemy_present():
+                if self.stop_event.is_set():
+                    return
+
+                if self.targeting.detect():
+                    while self.targeting.is_enemy_present() and not self.stop_event.is_set():
                         self.targeting.attack_target()
-                        time.sleep(0.5)
-                    logging.info("Enemigo eliminado, intentando loot...")
-                    self.looter.loot(after_kill=True)
-                    time.sleep(self.config.get('loot_delay', 1.8))
-                    continue  # Continúa navegación tras loot
+                        time.sleep(0.4)
+                        if self.stop_event.is_set():
+                            return
+                    if not self.stop_event.is_set():
+                        self.looter.loot(after_kill=True)
+                        time.sleep(self.config.get('loot_delay', 1.5))
+                    continue
 
-                # Verifica si llegó al waypoint
-                if (abs(wp[0] - current[0]) <= self.tolerance and
-                    abs(wp[1] - current[1]) <= self.tolerance):
-                    logging.info(f"¡Llegado a waypoint {wp}!")
+                if all(abs(wp[i] - current[i]) <= self.tolerance for i in range(3)):
+                    logging.info(f"✓ Llegado a {wp}")
                     break
 
-                # Calcula el mejor camino
-                path = self.a_star_pathfinding(current, wp)
-                if not path or len(path) < 2:
-                    logging.warning(f"No hay camino válido a {wp}. Pasando al siguiente.")
-                    break
+                # Movimiento paso a paso (dirección prioritaria)
+                dx = wp[0] - current[0]
+                dy = wp[1] - current[1]
 
-                # Mueve paso a paso
-                for next_step in path[1:]:
-                    if self.is_blocked(current, next_step):
-                        break  # Reintenta si está bloqueado
-                    self.move_to_position(current, next_step)
-                    current = self.get_current_position()
-                    time.sleep(0.2)  # Pequeña pausa para estabilidad
+                if abs(dx) > abs(dy):
+                    key = 'right' if dx > 0 else 'left'
+                else:
+                    key = 'down' if dy > 0 else 'up'
 
-            time.sleep(random.uniform(0.5, 1.0))  # Pausa entre waypoints
+                pyautogui.keyDown(key)
+                time.sleep(random.uniform(0.1, 0.3))
+                pyautogui.keyUp(key)
 
-        logging.info("Todos los waypoints completados.")
+                if self.stop_event.is_set():
+                    logging.info("Stop detectado durante movimiento")
+                    return
+
+                time.sleep(random.uniform(0.1, 0.2))
+
+                # Incrementa retry solo si no avanzó
+                if self.get_current_position() == current:
+                    retries += 1
+
+            if retries >= self.max_retries:
+                logging.error(f"Waypoint {wp} no alcanzable.")
+
+            if self.stop_event.is_set():
+                return
+
+            time.sleep(random.uniform(0.5, 1.0))
+
+        logging.info("Waypoints completados.")

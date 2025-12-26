@@ -30,13 +30,13 @@
         16
     ],
     "minimap_region": [
-        1753,
-        26,
-        106,
+        1754,
+        27,
+        104,
         110
     ],
     "minimap_center_offset": [
-        52,
+        53,
         54
     ],
     "player_dot_color": [
@@ -102,50 +102,44 @@
     },
     "regions": {
         "hp_bar": [
-            11,
+            370,
             28,
-            768,
-            13
+            55,
+            6
         ],
         "mana_bar": [
-            789,
-            28,
-            766,
-            9
+            1151,
+            30,
+            41,
+            8
         ],
         "minimap": [
-            1754,
-            27,
-            105,
-            109
-        ],
-        "minimap_coords_text": [
-            1020,
-            398,
-            82,
-            37
+            1753,
+            28,
+            106,
+            108
         ],
         "player_dot": [
             1806,
-            82
+            83
         ],
         "battle_list": [
-            1571,
-            415,
+            1572,
+            416,
             155,
             250
         ],
         "corpse_area": [
-            746,
-            417,
-            67,
-            62
+            734,
+            400,
+            96,
+            90
         ],
         "level_up_button": [
-            1620,
-            200,
-            200,
-            80
+            705,
+            158,
+            124,
+            57
         ]
     },
     "hotkeys": {
@@ -157,11 +151,12 @@
         "use_rope": "f6",
         "use_shovel": "f7",
         "eat_food": "f8",
-        "attack": "f1",
+        "attack": "f5",
         "equip_ring": "f5",
         "talk_hi": "enter",
         "logout": "ctrl+q",
-        "enter_chat": "enter"
+        "enter_chat": "enter",
+        "use_item": "f6"
     },
     "equip_hotkeys": {
         "ring": "f10",
@@ -178,6 +173,14 @@
     "monster_priority": [
         "muglex_assassin",
         "muglex_footman"
+    ],
+    "bosses": [
+        "ferumbras",
+        "orshabaal",
+        "ghazbaran",
+        "morgaroth",
+        "the plasmother",
+        "the welter"
     ],
     "npcs": {
         "gustavo": {
