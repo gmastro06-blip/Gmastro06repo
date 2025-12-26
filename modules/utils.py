@@ -8,8 +8,14 @@ import mss
 import pyautogui
 import win32gui  # pip install pywin32
 
+import os
+
+# Crear carpeta logs si no existe
+log_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs')
+os.makedirs(log_dir, exist_ok=True)
+
 logging.basicConfig(
-    filename='../logs/bot_log.txt',
+    filename=os.path.join(log_dir, 'bot_log.txt'),
     level=logging.DEBUG,
     format='[%(levelname)s] %(asctime)s - %(message)s'
 )

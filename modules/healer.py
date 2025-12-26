@@ -1,7 +1,8 @@
-# Ruta: modules/healer.py
+# Ruta: modules/healer.py - Healer inteligente y humano
 
 import pyautogui
 import time
+import random
 import logging
 from .utils import GameWindow
 
@@ -11,60 +12,72 @@ class Healer:
         self.config = config
 
     def monitor(self):
-        # Región de HP
+        logging.debug("Ejecutando módulo Healer (modo humano y seguro)")
+
         hp_region = self.config['regions']['hp_bar']
-        logging.debug(f"Región HP usada para OCR: {hp_region}")
+        mana_region = self.config['regions']['mana_bar']
 
-        hp_text = self.game_window.read_ocr(hp_region, self.config['ocr_config'])
-        logging.debug(f"Texto OCR leído en HP: '{hp_text}'")
+        hp_text = self.game_window.read_ocr(hp_region)
+        mana_text = self.game_window.read_ocr(mana_region)
 
-        hp = 100.0  # Valor por defecto alto si falla OCR
+        hp = 100.0
+        mana = 100.0
+
         if hp_text:
             try:
-                # Limpia posibles espacios o caracteres extra
-                cleaned = hp_text.strip().replace('%', '').replace(' ', '')
-                hp = float(cleaned)
-                logging.info(f"HP detectado correctamente: {hp}%")
-            except ValueError:
-                logging.warning(f"No se pudo convertir HP a número: '{hp_text}'. Usando valor seguro (100%).")
-        else:
-            logging.warning("No se detectó texto en la barra de HP.")
+                hp = float(''.join(filter(str.isdigit, hp_text.strip('%'))))
+                hp = min(hp, 100)
+            except:
+                hp = 100.0
 
-        # Región de Mana
-        mana_region = self.config['regions']['mana_bar']
-        logging.debug(f"Región Mana usada para OCR: {mana_region}")
-
-        mana_text = self.game_window.read_ocr(mana_region, self.config['ocr_config'])
-        logging.debug(f"Texto OCR leído en Mana: '{mana_text}'")
-
-        mana = 100.0  # Valor por defecto alto si falla OCR
         if mana_text:
             try:
-                cleaned = mana_text.strip().replace('%', '').replace(' ', '')
-                mana = float(cleaned)
-                logging.info(f"Mana detectado correctamente: {mana}%")
-            except ValueError:
-                logging.warning(f"No se pudo convertir Mana a número: '{mana_text}'. Usando valor seguro (100%).")
-        else:
-            logging.warning("No se detectó texto en la barra de Mana.")
+                mana = float(''.join(filter(str.isdigit, mana_text.strip('%'))))
+                mana = min(mana, 100)
+            except:
+                mana = 100.0
 
-        # Acciones basadas en umbrales
-        if hp < self.config.get('hp_threshold', 75):
-            pyautogui.press(self.config['hotkeys']['heal_spell'])
-            logging.info(f"HP bajo ({hp}%) → Usando heal spell ({self.config['hotkeys']['heal_spell']})")
+        logging.info(f"HP detectado: {hp:.1f}% | Mana: {mana:.1f}%")
 
-        if hp < self.config.get('strong_heal_below', 45):
-            pyautogui.press(self.config['hotkeys']['uh_hotkey'])  # UH si existe en hotkeys
-            logging.info(f"HP crítico ({hp}%) → Usando UH ({self.config['hotkeys'].get('uh_hotkey', 'f3')})")
+        strong_threshold = self.config.get('strong_heal_below', 45)
+        light_threshold = self.config.get('hp_threshold', 75)
+        food_threshold = self.config.get('eat_food_threshold', 60)
+        mana_threshold = self.config.get('mp_threshold', 30)
 
-        if hp < self.config.get('eat_food_threshold', 50):
-            pyautogui.press(self.config['hotkeys']['food'])
-            logging.info(f"HP bajo ({hp}%) → Comiendo comida ({self.config['hotkeys']['food']})")
+        last_action = "Ninguna"
 
-        if mana < self.config.get('mp_threshold', 40) and self.config.get('use_mana_potion', True):
-            pyautogui.press(self.config['hotkeys']['mana_potion'])
-            logging.info(f"Mana bajo ({mana}%) → Usando mana potion ({self.config['hotkeys']['mana_potion']})")
+        if hp < strong_threshold:
+            pyautogui.press(self.config['hotkeys'].get('uh_hotkey', 'f3'))
+            logging.info(f"¡HP CRÍTICO ({hp}%)! → Ultimate Healing")
+            last_action = "UH usada"
+            time.sleep(random.uniform(0.8, 1.5))
 
-        # Si todo está bien, logueamos estado normal
-        if hp >= 75 and mana >= 40:
-            logging.debug(f"Estado saludable: HP {hp}%, Mana {mana}% → Sin acción necesaria")
+        elif hp < light_threshold:
+            if random.random() < 0.88:
+                pyautogui.press(self.config['hotkeys'].get('heal_spell_light', 'f1'))
+                logging.info(f"HP bajo ({hp}%) → Heal light")
+                last_action = "Heal light"
+                time.sleep(random.uniform(0.5, 1.0))
+
+        if hp < food_threshold and random.random() < 0.75:
+            pyautogui.press(self.config['hotkeys'].get('eat_food', 'f8'))
+            logging.info(f"Comiendo comida (HP {hp}%)")
+            last_action = "Comiendo comida"
+            time.sleep(random.uniform(1.2, 2.8))
+
+        if mana < mana_threshold and self.config.get('use_mana_potion', True):
+            if random.random() < 0.92:
+                pyautogui.press(self.config['hotkeys'].get('mana_potion', 'f4'))
+                logging.info(f"Mana bajo ({mana}%) → Mana potion")
+                last_action = "Mana potion"
+                time.sleep(random.uniform(0.6, 1.2))
+
+        # Actualizar UI si está abierta
+        try:
+            gui_module = __import__('ui.tibiabot_gui', fromlist=['app'])
+            if hasattr(gui_module, 'app') and gui_module.app:
+                gui_module.app.update_healing_status(hp, mana, last_action)
+        except:
+            pass
+
+        time.sleep(random.uniform(0.3, 0.9))

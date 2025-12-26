@@ -1,7 +1,8 @@
-pytesseract
 pillow
-pyautogui
 numpy
+pytesseract
 mss
+pyautogui
 pywin32
+opencv-python
 keyboard
