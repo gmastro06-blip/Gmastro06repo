@@ -1,839 +1,282 @@
-[2025-12-26 17:15:36,639] INFO - → Waypoint: (32560, 32488, 7)
-[2025-12-26 17:15:36,639] INFO - → Waypoint: (32560, 32488, 7)
-[2025-12-26 17:15:36,748] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:36,748] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:36,790] INFO - ✓ Llegado a (32560, 32488, 7)
-[2025-12-26 17:15:36,790] INFO - ✓ Llegado a (32560, 32488, 7)
-[2025-12-26 17:15:36,949] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:36,949] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,150] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,150] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,351] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,351] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,460] INFO - → Waypoint: (32561, 32488, 7)
-[2025-12-26 17:15:37,460] INFO - → Waypoint: (32561, 32488, 7)
-[2025-12-26 17:15:37,552] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,552] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,606] INFO - ✓ Llegado a (32561, 32488, 7)
-[2025-12-26 17:15:37,606] INFO - ✓ Llegado a (32561, 32488, 7)
-[2025-12-26 17:15:37,667] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,667] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,667] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:37,667] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:37,668] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,668] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,668] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:37,668] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:37,669] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:37,669] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:37,752] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,752] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,953] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:37,953] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,154] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,154] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,355] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,355] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,425] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,425] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,427] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:38,427] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:38,433] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,433] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,435] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:38,435] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:38,437] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:38,437] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:38,443] INFO - → Waypoint: (32562, 32489, 7)
-[2025-12-26 17:15:38,443] INFO - → Waypoint: (32562, 32489, 7)
-[2025-12-26 17:15:38,556] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,556] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,757] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,757] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,958] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:38,958] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,159] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,159] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,361] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,361] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,519] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,519] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,519] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:39,519] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:39,521] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,521] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,522] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:39,522] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:39,523] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:39,523] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:39,561] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,561] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,763] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,763] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,964] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:39,964] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,165] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,165] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,366] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,366] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,567] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,567] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,743] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,743] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,743] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:40,743] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:40,746] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,746] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,747] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:40,747] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:40,749] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:40,749] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:40,769] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,769] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,972] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:40,972] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,173] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,173] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,374] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,374] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,575] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,575] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,614] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,614] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,614] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:41,614] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:41,618] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,618] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,619] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:41,619] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:41,621] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:41,621] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:41,777] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,777] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,978] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:41,978] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,178] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,178] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,379] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,379] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,580] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,580] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,660] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,660] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,660] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:42,660] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:42,664] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,664] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,665] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:42,665] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:42,666] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:42,666] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:42,782] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,782] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,983] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:42,983] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,184] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,184] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,385] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,385] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,466] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,466] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,466] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:43,466] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:43,469] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,469] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,470] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:43,470] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:43,472] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:43,472] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:43,586] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,586] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,788] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,788] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,989] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:43,989] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,191] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,191] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,392] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,392] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,592] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,592] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,593] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:44,593] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,593] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:44,593] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,599] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,599] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,603] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:44,603] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:44,603] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:44,603] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:44,800] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:44,800] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,001] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,001] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,202] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,202] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,368] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,368] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,368] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:45,368] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:45,370] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,370] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,371] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:45,371] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:45,374] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:45,374] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:45,402] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,402] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,603] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,603] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,805] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:45,805] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,006] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,006] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,206] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,206] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,408] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,408] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,588] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,588] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,588] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:46,588] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:46,589] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,589] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,590] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:46,590] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:46,593] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:46,593] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:46,609] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,609] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,809] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:46,809] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,010] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,010] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,212] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,212] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,412] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,412] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,613] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,613] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,664] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,664] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,664] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:47,664] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:47,665] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,665] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,666] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:47,666] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:47,668] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:47,668] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:47,814] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:47,814] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,016] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,016] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,218] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,218] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,419] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,419] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,542] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,542] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,544] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:48,544] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:48,548] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,548] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,551] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:48,551] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:48,552] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:48,552] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:48,620] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,620] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,821] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:48,821] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,022] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,022] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,223] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,223] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,424] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,424] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,452] ERROR - Waypoint (32562, 32489, 7) no alcanzable.
-[2025-12-26 17:15:49,452] ERROR - Waypoint (32562, 32489, 7) no alcanzable.
-[2025-12-26 17:15:49,625] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,625] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,750] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,750] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,751] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:49,751] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:49,755] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,755] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,757] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:49,757] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:49,759] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:49,759] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:49,826] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:49,826] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,027] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,027] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,143] INFO - → Waypoint: (32563, 32490, 7)
-[2025-12-26 17:15:50,143] INFO - → Waypoint: (32563, 32490, 7)
-[2025-12-26 17:15:50,229] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,229] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,430] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,430] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,632] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,632] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,736] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,736] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,736] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:50,736] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:50,742] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,742] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,747] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:50,747] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:50,750] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:50,750] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:50,833] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:50,833] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,034] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,034] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,236] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,236] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,437] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,437] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,639] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,639] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,840] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,840] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,849] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,849] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,849] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:51,849] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:51,852] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,852] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:51,855] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:51,855] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:51,856] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:51,856] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:52,041] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,041] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,242] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,242] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,444] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,444] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,644] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,644] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,845] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,845] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,987] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,987] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,987] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:52,987] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:52,989] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,989] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:52,990] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:52,990] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:52,992] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:52,992] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:53,047] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:53,047] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:53,248] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:53,248] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:53,449] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:53,449] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:53,650] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:53,650] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:53,851] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:53,851] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,053] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,053] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,173] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,173] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,174] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:54,174] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:54,180] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,180] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,182] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:54,182] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:54,185] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:54,185] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:54,254] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,254] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,455] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,455] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,655] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,655] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,856] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:54,856] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,058] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,058] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,259] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,259] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,371] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,371] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,372] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:55,372] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:55,374] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,374] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,375] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:55,375] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:55,377] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:55,377] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:55,461] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,461] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,662] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,662] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,863] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:55,863] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,063] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,063] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,264] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,264] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,465] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,465] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,489] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,489] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,490] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:56,490] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:56,492] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,492] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,493] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:56,493] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:56,495] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:56,495] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:56,575] INFO - === BOT DETENIDO POR USUARIO ===
-[2025-12-26 17:15:56,575] INFO - === BOT DETENIDO POR USUARIO ===
-[2025-12-26 17:15:56,665] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,665] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,867] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:56,867] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,068] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,068] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,268] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,268] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,469] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,469] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,595] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,595] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,595] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:57,595] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:57,596] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,596] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,598] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:57,598] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:57,602] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:57,602] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:57,671] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,671] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,871] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:57,871] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,073] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,073] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,274] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,274] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,474] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,474] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,502] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,502] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,502] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:58,502] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:58,504] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,504] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,505] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:58,505] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:58,507] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:58,507] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:58,676] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,676] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,877] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:58,877] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,078] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,078] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,278] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,278] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,479] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,479] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,521] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,521] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,521] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:59,521] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:15:59,523] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,523] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,524] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:59,524] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:15:59,527] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:59,527] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:15:59,679] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,679] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,880] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:15:59,880] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,080] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,080] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,281] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,281] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,417] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,417] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,417] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:00,417] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:00,425] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,425] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,427] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:00,427] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:00,434] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:00,434] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:00,483] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,483] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,683] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,683] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,885] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,885] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:00,952] ERROR - Waypoint (32563, 32490, 7) no alcanzable.
-[2025-12-26 17:16:00,952] ERROR - Waypoint (32563, 32490, 7) no alcanzable.
-[2025-12-26 17:16:01,087] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,087] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,288] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,288] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,490] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,490] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,613] INFO - → Waypoint: (32564, 32491, 7)
-[2025-12-26 17:16:01,613] INFO - → Waypoint: (32564, 32491, 7)
-[2025-12-26 17:16:01,690] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,690] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,713] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,713] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,713] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:01,713] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:01,720] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,720] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,722] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:01,722] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:01,724] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:01,724] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:01,891] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:01,891] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,092] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,092] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,294] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,294] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,495] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,495] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,696] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,696] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,841] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,841] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,844] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:02,844] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:02,857] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,857] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,864] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:02,864] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:02,865] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:02,865] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:02,897] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:02,897] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,098] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,098] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,299] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,299] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,500] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,500] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,701] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,701] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,713] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,713] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,713] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:03,713] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:03,719] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,719] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,725] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:03,725] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:03,729] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:03,729] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:03,902] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:03,902] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:04,103] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:04,103] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:04,303] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:04,303] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:04,504] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:04,504] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:04,706] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:04,706] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:04,907] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:04,907] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,029] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,029] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,029] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:05,029] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:05,036] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,036] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,038] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:05,038] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:05,049] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:05,049] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:05,108] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,108] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,309] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,309] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,510] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,510] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,711] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,711] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,912] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:05,912] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,041] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,041] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,041] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:06,041] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:06,045] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,045] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,046] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:06,046] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:06,048] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:06,048] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:06,113] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,113] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,314] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,314] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,515] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,515] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,715] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,715] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,814] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,814] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,814] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:06,814] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:06,821] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,821] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,832] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:06,832] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:06,839] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:06,839] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:06,916] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:06,916] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,117] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,117] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,318] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,318] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,519] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,519] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,601] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,601] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,601] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:07,601] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:07,603] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,603] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,604] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:07,604] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:07,605] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:07,605] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:07,720] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,720] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,921] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:07,921] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,122] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,122] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,324] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,324] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,453] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,453] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,454] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:08,454] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:08,457] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,457] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,458] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:08,458] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:08,462] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:08,462] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:08,525] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,525] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,726] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,726] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,927] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:08,927] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,127] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,127] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,328] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,328] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,529] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,529] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,611] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,611] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,611] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:09,611] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:09,612] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,612] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,614] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:09,614] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:09,615] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:09,615] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:09,730] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,730] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,931] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:09,931] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,132] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,132] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,334] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,334] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,534] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,534] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,706] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,706] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,706] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:10,706] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:10,707] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,707] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,709] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:10,709] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:10,711] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:10,711] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:10,736] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,736] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,937] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:10,937] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,138] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,138] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,339] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,339] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,539] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,539] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,740] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,740] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,897] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,897] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,897] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:11,897] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:11,899] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,899] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,900] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:11,900] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:11,901] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:11,901] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:11,940] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:11,940] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,141] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,141] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,342] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,342] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,543] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,543] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,585] ERROR - Waypoint (32564, 32491, 7) no alcanzable.
-[2025-12-26 17:16:12,585] ERROR - Waypoint (32564, 32491, 7) no alcanzable.
-[2025-12-26 17:16:12,624] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,624] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,624] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:12,624] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:12,626] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,626] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,628] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:12,628] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:12,630] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:12,630] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:12,744] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,744] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,945] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:12,945] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,146] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,146] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,325] INFO - → Waypoint: (32565, 32492, 7)
-[2025-12-26 17:16:13,325] INFO - → Waypoint: (32565, 32492, 7)
-[2025-12-26 17:16:13,346] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,346] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,548] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,548] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,749] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,749] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,949] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,949] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,983] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,983] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,984] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:13,984] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:13,985] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,985] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:13,986] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:13,986] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:13,988] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:13,988] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:14,150] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:14,150] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:14,351] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:14,351] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:14,552] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:14,552] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:14,752] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:14,752] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:14,953] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:14,953] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,154] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,154] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,154] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:15,155] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,154] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:15,155] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,158] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,158] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,160] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:15,160] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:15,163] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:15,163] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:15,358] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,358] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,559] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,559] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,760] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,760] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,961] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:15,961] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,157] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,157] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,157] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:16,157] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:16,159] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,159] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,160] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:16,160] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:16,161] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:16,162] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,161] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:16,162] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,366] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,366] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,567] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,567] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,769] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,769] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,970] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:16,970] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,170] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,170] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,258] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,258] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,258] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:17,258] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:17,260] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,260] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,261] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:17,261] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:17,263] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:17,263] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:17,371] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,371] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,572] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,572] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,772] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,772] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,888] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,888] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,888] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:17,888] WARNING - Falló captura para OCR en región [370, 28, 55, 6]
-[2025-12-26 17:16:17,894] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,894] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,897] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:17,897] WARNING - Falló captura para OCR en región [1151, 30, 41, 8]
-[2025-12-26 17:16:17,898] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:17,898] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 17:16:17,973] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:17,973] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:18,174] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:18,174] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
-[2025-12-26 17:16:18,376] ERROR - Error en captura: '_thread._local' object has no attribute 'srcdc'
+[2025-12-26 19:11:48,212] INFO - → Waypoint: (32560, 32488, 7)
+[2025-12-26 19:11:48,212] INFO - → Waypoint: (32560, 32488, 7)
+[2025-12-26 19:11:48,342] INFO - ✓ Llegado a (32560, 32488, 7)
+[2025-12-26 19:11:48,342] INFO - ✓ Llegado a (32560, 32488, 7)
+[2025-12-26 19:11:48,946] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:48,946] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:48,946] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:48,946] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:48,953] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:48,953] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:49,215] INFO - → Waypoint: (32561, 32488, 7)
+[2025-12-26 19:11:49,215] INFO - → Waypoint: (32561, 32488, 7)
+[2025-12-26 19:11:49,335] INFO - ✓ Llegado a (32561, 32488, 7)
+[2025-12-26 19:11:49,335] INFO - ✓ Llegado a (32561, 32488, 7)
+[2025-12-26 19:11:50,020] INFO - → Waypoint: (32562, 32489, 7)
+[2025-12-26 19:11:50,020] INFO - → Waypoint: (32562, 32489, 7)
+[2025-12-26 19:11:50,211] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:50,211] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:50,212] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:50,212] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:50,218] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:50,218] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:51,188] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:51,188] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:51,189] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:51,189] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:51,194] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:51,194] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:52,274] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:52,274] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:52,274] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:52,274] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:52,278] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:52,278] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:53,474] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:53,474] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:53,477] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:53,477] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:53,484] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:53,484] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:53,623] ERROR - Waypoint (32562, 32489, 7) no alcanzable.
+[2025-12-26 19:11:53,623] ERROR - Waypoint (32562, 32489, 7) no alcanzable.
+[2025-12-26 19:11:54,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:54,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:54,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:54,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:54,276] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:54,276] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:54,620] INFO - → Waypoint: (32563, 32490, 7)
+[2025-12-26 19:11:54,620] INFO - → Waypoint: (32563, 32490, 7)
+[2025-12-26 19:11:55,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:55,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:55,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:55,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:55,276] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:55,276] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:56,256] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:56,256] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:56,256] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:56,256] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:56,262] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:56,262] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:57,253] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:57,253] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:57,253] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:57,253] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:57,261] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:57,261] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:58,343] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:58,343] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:58,343] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:58,343] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:58,349] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:58,349] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:58,799] ERROR - Waypoint (32563, 32490, 7) no alcanzable.
+[2025-12-26 19:11:58,799] ERROR - Waypoint (32563, 32490, 7) no alcanzable.
+[2025-12-26 19:11:59,526] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:59,526] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:11:59,526] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:59,526] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:11:59,532] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:59,532] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:11:59,826] INFO - → Waypoint: (32564, 32491, 7)
+[2025-12-26 19:11:59,826] INFO - → Waypoint: (32564, 32491, 7)
+[2025-12-26 19:12:00,476] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:00,476] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:00,476] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:00,476] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:00,483] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:00,483] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:01,306] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:01,306] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:01,306] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:01,306] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:01,311] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:01,311] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:02,026] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:02,026] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:02,027] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:02,027] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:02,031] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:02,031] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:03,158] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:03,158] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:03,158] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:03,158] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:03,165] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:03,165] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:04,269] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:04,269] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:04,269] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:04,269] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:04,274] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:04,274] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:04,351] ERROR - Waypoint (32564, 32491, 7) no alcanzable.
+[2025-12-26 19:12:04,351] ERROR - Waypoint (32564, 32491, 7) no alcanzable.
+[2025-12-26 19:12:05,045] INFO - → Waypoint: (32565, 32492, 7)
+[2025-12-26 19:12:05,045] INFO - → Waypoint: (32565, 32492, 7)
+[2025-12-26 19:12:05,443] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:05,443] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:05,443] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:05,443] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:05,451] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:05,451] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:06,288] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:06,288] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:06,289] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:06,289] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:06,296] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:06,296] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:07,698] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:07,698] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:07,698] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:07,698] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:07,704] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:07,704] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:08,223] INFO - === BOT DETENIDO POR USUARIO ===
+[2025-12-26 19:12:08,223] INFO - === BOT DETENIDO POR USUARIO ===
+[2025-12-26 19:12:08,922] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:08,922] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:08,922] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:08,922] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:08,928] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:08,928] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:10,050] ERROR - Waypoint (32565, 32492, 7) no alcanzable.
+[2025-12-26 19:12:10,050] ERROR - Waypoint (32565, 32492, 7) no alcanzable.
+[2025-12-26 19:12:10,222] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:10,222] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:10,222] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:10,222] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:10,227] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:10,227] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:10,982] INFO - → Waypoint: (32566, 32493, 7)
+[2025-12-26 19:12:10,982] INFO - → Waypoint: (32566, 32493, 7)
+[2025-12-26 19:12:11,432] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:11,432] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:11,432] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:11,432] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:11,438] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:11,438] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:12,696] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:12,696] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:12,696] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:12,696] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:12,701] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:12,701] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:13,851] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:13,851] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:13,851] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:13,851] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:13,858] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:13,858] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:14,828] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:14,828] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:14,828] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:14,828] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:14,834] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:14,834] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:15,798] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:15,798] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:15,798] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:15,798] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:15,805] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:15,805] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:16,609] ERROR - Waypoint (32566, 32493, 7) no alcanzable.
+[2025-12-26 19:12:16,609] ERROR - Waypoint (32566, 32493, 7) no alcanzable.
+[2025-12-26 19:12:17,051] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:17,051] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:17,051] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:17,051] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:17,056] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:17,056] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:17,502] INFO - → Waypoint: (32567, 32494, 7)
+[2025-12-26 19:12:17,502] INFO - → Waypoint: (32567, 32494, 7)
+[2025-12-26 19:12:17,800] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:17,800] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:17,800] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:17,800] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:17,808] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:17,808] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:18,904] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:18,904] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:18,904] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:18,904] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:18,909] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:18,909] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:19,643] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:19,643] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:19,643] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:19,643] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:19,649] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:19,649] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:20,257] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:20,257] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:20,257] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:20,257] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:20,264] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:20,264] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:21,233] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:21,233] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:21,233] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:21,233] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:21,238] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:21,238] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:22,216] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:22,216] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:22,216] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:22,216] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:22,220] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:22,220] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:23,300] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:23,300] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:23,300] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:23,300] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:23,305] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:23,305] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:23,603] ERROR - Waypoint (32567, 32494, 7) no alcanzable.
+[2025-12-26 19:12:23,603] ERROR - Waypoint (32567, 32494, 7) no alcanzable.
+[2025-12-26 19:12:24,196] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:24,196] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:24,196] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:24,196] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:24,199] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:24,199] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:24,346] INFO - → Waypoint: (32568, 32495, 7)
+[2025-12-26 19:12:24,346] INFO - → Waypoint: (32568, 32495, 7)
+[2025-12-26 19:12:25,143] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:25,143] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:25,143] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:25,143] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:25,154] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:25,154] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:26,204] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:26,204] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:26,204] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:26,204] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:26,206] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:26,206] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:27,016] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:27,016] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:27,017] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:27,017] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:27,029] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:27,029] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:28,258] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:28,258] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:28,258] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:28,258] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:28,265] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:28,265] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:29,410] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:29,410] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:29,410] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:29,410] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:29,411] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:29,411] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:30,142] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:30,142] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
+[2025-12-26 19:12:30,142] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:30,142] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
+[2025-12-26 19:12:30,149] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-26 19:12:30,149] INFO - HP detectado: 100.0% | Mana: 100.0%

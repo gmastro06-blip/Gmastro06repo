@@ -93,46 +93,54 @@ class Cavebot:
                     while self.targeting.is_enemy_present() and not self.stop_event.is_set():
                         self.targeting.attack_target()
                         time.sleep(0.4)
-                        if self.stop_event.is_set():
-                            return
                     if not self.stop_event.is_set():
                         self.looter.loot(after_kill=True)
                         time.sleep(self.config.get('loot_delay', 1.5))
                     continue
 
+                # Llegado (incluye z)
                 if all(abs(wp[i] - current[i]) <= self.tolerance for i in range(3)):
                     logging.info(f"✓ Llegado a {wp}")
                     break
 
-                # Movimiento paso a paso (dirección prioritaria)
+                # Calcular diferencia
                 dx = wp[0] - current[0]
                 dy = wp[1] - current[1]
+                dz = wp[2] - current[2]
 
+                # Cambiar nivel si necesario
+                if dz != 0:
+                    logging.info(f"Cambio de nivel z={current[2]} → z={wp[2]}")
+                    pyautogui.press(self.use_item_key)
+                    time.sleep(1.5)
+                    continue
+
+                # Determinar dirección principal
                 if abs(dx) > abs(dy):
                     key = 'right' if dx > 0 else 'left'
                 else:
                     key = 'down' if dy > 0 else 'up'
 
+                # Mantener presionada la tecla proporcional a la distancia (más rápido para largas distancias)
+                steps_needed = max(abs(dx), abs(dy))
+                hold_duration = min(0.1 * steps_needed, 1.0)  # Máx 1 segundo
+                hold_duration = random.uniform(hold_duration * 0.8, hold_duration * 1.2)
+
                 pyautogui.keyDown(key)
-                time.sleep(random.uniform(0.1, 0.3))
+                time.sleep(hold_duration)
                 pyautogui.keyUp(key)
 
-                if self.stop_event.is_set():
-                    logging.info("Stop detectado durante movimiento")
-                    return
+                time.sleep(random.uniform(0.1, 0.3))
 
-                time.sleep(random.uniform(0.1, 0.2))
-
-                # Incrementa retry solo si no avanzó
-                if self.get_current_position() == current:
+                # Si no avanzó nada, cuenta como retry
+                new_pos = self.get_current_position()
+                if new_pos == current:
                     retries += 1
+                    logging.debug(f"Retry {retries}/{self.max_retries} - no avanzó")
 
             if retries >= self.max_retries:
                 logging.error(f"Waypoint {wp} no alcanzable.")
 
-            if self.stop_event.is_set():
-                return
-
-            time.sleep(random.uniform(0.5, 1.0))
+            time.sleep(random.uniform(0.5, 1.2))
 
         logging.info("Waypoints completados.")
