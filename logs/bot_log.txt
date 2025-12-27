@@ -1,282 +1,1036 @@
-[2025-12-26 19:11:48,212] INFO - → Waypoint: (32560, 32488, 7)
-[2025-12-26 19:11:48,212] INFO - → Waypoint: (32560, 32488, 7)
-[2025-12-26 19:11:48,342] INFO - ✓ Llegado a (32560, 32488, 7)
-[2025-12-26 19:11:48,342] INFO - ✓ Llegado a (32560, 32488, 7)
-[2025-12-26 19:11:48,946] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:48,946] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:48,946] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:48,946] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:48,953] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:48,953] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:49,215] INFO - → Waypoint: (32561, 32488, 7)
-[2025-12-26 19:11:49,215] INFO - → Waypoint: (32561, 32488, 7)
-[2025-12-26 19:11:49,335] INFO - ✓ Llegado a (32561, 32488, 7)
-[2025-12-26 19:11:49,335] INFO - ✓ Llegado a (32561, 32488, 7)
-[2025-12-26 19:11:50,020] INFO - → Waypoint: (32562, 32489, 7)
-[2025-12-26 19:11:50,020] INFO - → Waypoint: (32562, 32489, 7)
-[2025-12-26 19:11:50,211] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:50,211] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:50,212] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:50,212] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:50,218] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:50,218] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:51,188] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:51,188] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:51,189] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:51,189] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:51,194] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:51,194] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:52,274] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:52,274] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:52,274] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:52,274] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:52,278] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:52,278] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:53,474] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:53,474] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:53,477] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:53,477] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:53,484] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:53,484] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:53,623] ERROR - Waypoint (32562, 32489, 7) no alcanzable.
-[2025-12-26 19:11:53,623] ERROR - Waypoint (32562, 32489, 7) no alcanzable.
-[2025-12-26 19:11:54,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:54,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:54,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:54,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:54,276] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:54,276] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:54,620] INFO - → Waypoint: (32563, 32490, 7)
-[2025-12-26 19:11:54,620] INFO - → Waypoint: (32563, 32490, 7)
-[2025-12-26 19:11:55,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:55,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:55,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:55,270] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:55,276] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:55,276] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:56,256] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:56,256] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:56,256] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:56,256] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:56,262] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:56,262] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:57,253] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:57,253] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:57,253] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:57,253] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:57,261] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:57,261] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:58,343] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:58,343] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:58,343] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:58,343] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:58,349] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:58,349] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:58,799] ERROR - Waypoint (32563, 32490, 7) no alcanzable.
-[2025-12-26 19:11:58,799] ERROR - Waypoint (32563, 32490, 7) no alcanzable.
-[2025-12-26 19:11:59,526] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:59,526] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:11:59,526] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:59,526] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:11:59,532] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:59,532] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:11:59,826] INFO - → Waypoint: (32564, 32491, 7)
-[2025-12-26 19:11:59,826] INFO - → Waypoint: (32564, 32491, 7)
-[2025-12-26 19:12:00,476] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:00,476] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:00,476] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:00,476] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:00,483] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:00,483] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:01,306] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:01,306] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:01,306] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:01,306] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:01,311] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:01,311] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:02,026] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:02,026] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:02,027] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:02,027] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:02,031] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:02,031] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:03,158] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:03,158] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:03,158] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:03,158] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:03,165] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:03,165] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:04,269] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:04,269] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:04,269] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:04,269] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:04,274] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:04,274] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:04,351] ERROR - Waypoint (32564, 32491, 7) no alcanzable.
-[2025-12-26 19:12:04,351] ERROR - Waypoint (32564, 32491, 7) no alcanzable.
-[2025-12-26 19:12:05,045] INFO - → Waypoint: (32565, 32492, 7)
-[2025-12-26 19:12:05,045] INFO - → Waypoint: (32565, 32492, 7)
-[2025-12-26 19:12:05,443] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:05,443] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:05,443] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:05,443] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:05,451] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:05,451] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:06,288] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:06,288] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:06,289] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:06,289] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:06,296] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:06,296] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:07,698] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:07,698] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:07,698] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:07,698] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:07,704] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:07,704] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:08,223] INFO - === BOT DETENIDO POR USUARIO ===
-[2025-12-26 19:12:08,223] INFO - === BOT DETENIDO POR USUARIO ===
-[2025-12-26 19:12:08,922] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:08,922] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:08,922] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:08,922] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:08,928] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:08,928] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:10,050] ERROR - Waypoint (32565, 32492, 7) no alcanzable.
-[2025-12-26 19:12:10,050] ERROR - Waypoint (32565, 32492, 7) no alcanzable.
-[2025-12-26 19:12:10,222] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:10,222] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:10,222] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:10,222] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:10,227] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:10,227] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:10,982] INFO - → Waypoint: (32566, 32493, 7)
-[2025-12-26 19:12:10,982] INFO - → Waypoint: (32566, 32493, 7)
-[2025-12-26 19:12:11,432] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:11,432] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:11,432] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:11,432] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:11,438] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:11,438] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:12,696] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:12,696] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:12,696] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:12,696] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:12,701] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:12,701] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:13,851] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:13,851] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:13,851] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:13,851] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:13,858] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:13,858] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:14,828] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:14,828] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:14,828] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:14,828] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:14,834] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:14,834] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:15,798] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:15,798] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:15,798] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:15,798] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:15,805] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:15,805] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:16,609] ERROR - Waypoint (32566, 32493, 7) no alcanzable.
-[2025-12-26 19:12:16,609] ERROR - Waypoint (32566, 32493, 7) no alcanzable.
-[2025-12-26 19:12:17,051] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:17,051] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:17,051] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:17,051] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:17,056] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:17,056] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:17,502] INFO - → Waypoint: (32567, 32494, 7)
-[2025-12-26 19:12:17,502] INFO - → Waypoint: (32567, 32494, 7)
-[2025-12-26 19:12:17,800] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:17,800] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:17,800] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:17,800] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:17,808] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:17,808] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:18,904] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:18,904] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:18,904] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:18,904] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:18,909] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:18,909] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:19,643] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:19,643] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:19,643] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:19,643] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:19,649] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:19,649] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:20,257] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:20,257] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:20,257] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:20,257] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:20,264] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:20,264] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:21,233] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:21,233] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:21,233] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:21,233] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:21,238] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:21,238] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:22,216] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:22,216] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:22,216] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:22,216] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:22,220] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:22,220] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:23,300] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:23,300] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:23,300] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:23,300] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:23,305] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:23,305] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:23,603] ERROR - Waypoint (32567, 32494, 7) no alcanzable.
-[2025-12-26 19:12:23,603] ERROR - Waypoint (32567, 32494, 7) no alcanzable.
-[2025-12-26 19:12:24,196] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:24,196] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:24,196] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:24,196] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:24,199] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:24,199] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:24,346] INFO - → Waypoint: (32568, 32495, 7)
-[2025-12-26 19:12:24,346] INFO - → Waypoint: (32568, 32495, 7)
-[2025-12-26 19:12:25,143] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:25,143] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:25,143] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:25,143] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:25,154] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:25,154] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:26,204] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:26,204] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:26,204] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:26,204] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:26,206] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:26,206] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:27,016] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:27,016] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:27,017] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:27,017] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:27,029] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:27,029] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:28,258] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:28,258] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:28,258] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:28,258] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:28,265] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:28,265] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:29,410] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:29,410] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:29,410] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:29,410] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:29,411] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:29,411] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:30,142] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:30,142] WARNING - [GameWindow] Falló captura para OCR en región [1866, 302, 29, 9]
-[2025-12-26 19:12:30,142] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:30,142] WARNING - [GameWindow] Falló captura para OCR en región [1866, 315, 24, 6]
-[2025-12-26 19:12:30,149] INFO - HP detectado: 100.0% | Mana: 100.0%
-[2025-12-26 19:12:30,149] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:18,082] INFO - -> Navegando a waypoint: (33019, 32053, 6)
+[2025-12-27 13:03:18,082] INFO - -> Navegando a waypoint: (33019, 32053, 6)
+[2025-12-27 13:03:18,082] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:18,082] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:18,084] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:18,084] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:18,085] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:18,085] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:18,086] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:18,086] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:18,092] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:18,092] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:18,100] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:18,100] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:18,101] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:18,101] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:18,134] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:18,134] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:18,135] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:18,135] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:18,136] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:18,136] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:18,138] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:18,138] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:18,139] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:18,139] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:18,140] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:18,140] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:18,142] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:18,142] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:18,143] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:18,143] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:18,181] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3ys4onua_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3ys4onua', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:18,181] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3ys4onua_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3ys4onua', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:18,295] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:18,295] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:18,300] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:18,300] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:18,320] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:18,320] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:18,320] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:18,320] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:18,322] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:18,322] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:18,323] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:18,323] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:18,324] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:18,324] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:18,326] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:18,326] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:18,328] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:18,328] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:18,329] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:18,329] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:18,361] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_d9y6ckh0_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_d9y6ckh0', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:18,361] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_d9y6ckh0_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_d9y6ckh0', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:18,475] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:18,475] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:19,384] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:19,384] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:19,385] DEBUG - OCR omitido: no hay captura para región [833, 28, 722, 23]
+[2025-12-27 13:03:19,385] DEBUG - OCR omitido: no hay captura para región [833, 28, 722, 23]
+[2025-12-27 13:03:19,392] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:19,392] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:19,403] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:19,403] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:19,907] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:19,907] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:19,908] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:19,908] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:19,910] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:19,910] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:19,915] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:19,915] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:19,918] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:19,918] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:19,919] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:19,919] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:19,920] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:19,920] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:19,950] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:19,950] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:19,950] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:19,950] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:19,952] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:19,952] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:19,954] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:19,954] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:19,958] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:19,958] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:19,959] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:19,959] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:19,960] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:19,960] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:19,961] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:19,961] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:19,997] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79g1paz1_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79g1paz1', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:19,997] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79g1paz1_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79g1paz1', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:20,118] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:20,118] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:20,459] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:20,459] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:20,459] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:20,459] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:20,461] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:20,461] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:20,470] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:20,470] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:20,471] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:20,471] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:20,474] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:20,474] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:20,475] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:20,475] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:20,481] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:20,481] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:20,512] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vtq66kx__input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vtq66kx_', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:20,512] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vtq66kx__input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vtq66kx_', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:20,516] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:20,516] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:20,626] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:20,626] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:21,535] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:21,535] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:21,536] DEBUG - OCR omitido: no hay captura para región [833, 28, 722, 23]
+[2025-12-27 13:03:21,536] DEBUG - OCR omitido: no hay captura para región [833, 28, 722, 23]
+[2025-12-27 13:03:21,544] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:21,544] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:21,625] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:21,625] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:21,828] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:21,828] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:21,828] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:21,828] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:21,830] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:21,830] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:21,834] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:21,834] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:21,839] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:21,839] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:21,842] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:21,842] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:21,844] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:21,844] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:21,880] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vunzj7f1_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vunzj7f1', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:21,880] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vunzj7f1_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vunzj7f1', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:22,197] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:22,197] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:22,197] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:22,197] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:22,208] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:22,208] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:22,210] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:22,210] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:22,213] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:22,213] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:22,216] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:22,216] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:22,218] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:22,218] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:22,254] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1ptw0hp_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1ptw0hp', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:22,254] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1ptw0hp_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1ptw0hp', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:22,438] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:22,438] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:22,440] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:22,440] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:22,442] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:22,442] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:22,450] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:22,450] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:22,459] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:22,459] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:22,460] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:22,460] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:22,462] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:22,462] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:22,468] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:22,468] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:22,506] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vc5z9gfo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vc5z9gfo', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:22,506] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vc5z9gfo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vc5z9gfo', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:22,568] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:22,568] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:22,569] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:22,569] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:22,571] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:22,571] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:22,580] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:22,580] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:22,582] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:22,582] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:22,585] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:22,585] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:22,587] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:22,587] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:22,627] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5idtphmm_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5idtphmm', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:22,627] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5idtphmm_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5idtphmm', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:22,628] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:22,628] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:22,628] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:22,630] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:22,628] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:22,632] WARNING - Fallo en captura del minimap. Retornando base.
+[2025-12-27 13:03:22,630] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:22,634] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:22,632] WARNING - Fallo en captura del minimap. Retornando base.
+[2025-12-27 13:03:22,636] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:22,634] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:22,638] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:22,636] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:22,640] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:22,638] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:22,642] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:22,640] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:22,649] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:22,642] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:22,651] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:22,649] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:22,652] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:22,651] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:22,655] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:22,652] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:22,657] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:22,655] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:22,659] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:22,657] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:22,660] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:22,659] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:22,660] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:22,669] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:22,669] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:22,698] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e7zbhe4o_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e7zbhe4o', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:22,698] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e7zbhe4o_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e7zbhe4o', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:22,712] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79_9dcka_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79_9dcka', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:22,712] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79_9dcka_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79_9dcka', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:22,829] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:22,829] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:22,869] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:22,869] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:22,870] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:22,870] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:23,863] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:23,863] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:23,864] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:23,864] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:23,874] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:23,874] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:23,884] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:23,884] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:23,885] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:23,885] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:23,928] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_i0kxja_s_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_i0kxja_s', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:23,928] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_i0kxja_s_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_i0kxja_s', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:24,239] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:24,239] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:24,436] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:24,436] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:24,436] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:24,436] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:24,444] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:24,444] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:24,447] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:24,447] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:24,448] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:24,448] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:24,450] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:24,450] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:24,452] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:24,452] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:24,483] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:24,483] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:24,484] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:24,484] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:24,486] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:24,486] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:24,493] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:24,493] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:24,496] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:24,496] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:24,498] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:24,498] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:24,500] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:24,500] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:24,508] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:24,508] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:24,550] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kekh9adw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kekh9adw', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:24,550] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kekh9adw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kekh9adw', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:24,667] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:24,667] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:25,149] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:25,149] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:25,149] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:25,149] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:25,151] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:25,151] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:25,151] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:25,151] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:25,155] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:25,155] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:25,157] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:25,157] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:25,187] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ogkbo9_d_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ogkbo9_d', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:25,187] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ogkbo9_d_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ogkbo9_d', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:25,298] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:25,298] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:26,206] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:26,206] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:26,206] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:26,206] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:26,208] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:26,208] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:26,210] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:26,210] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:26,212] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:26,212] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:26,243] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1x4goiw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1x4goiw', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:26,243] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1x4goiw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1x4goiw', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:26,261] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:26,261] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:26,270] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:26,270] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:26,271] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:26,271] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:26,273] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:26,273] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:26,279] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:26,279] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:26,285] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:26,285] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:26,286] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:26,286] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:26,290] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:26,290] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:26,324] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:26,324] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:26,324] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:26,324] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:26,330] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:26,330] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:26,332] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:26,332] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:26,334] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:26,334] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:26,341] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:26,341] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:26,342] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:26,342] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:26,350] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:26,350] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:26,389] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_18jfrw08_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_18jfrw08', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:26,389] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_18jfrw08_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_18jfrw08', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:26,410] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:26,410] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:26,411] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:26,411] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:26,511] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:26,511] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:27,062] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:27,062] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:27,062] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:27,062] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:27,065] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:27,065] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:27,069] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:27,069] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:27,071] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:27,071] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:27,072] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:27,072] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:27,079] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:27,079] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:27,081] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:27,081] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:27,113] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_t9oqhbr4_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_t9oqhbr4', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:27,113] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_t9oqhbr4_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_t9oqhbr4', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:27,224] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:27,224] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:27,224] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:27,224] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:27,225] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:27,225] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:27,232] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:27,232] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:27,241] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:27,241] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:27,243] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:27,243] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:27,245] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:27,245] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:27,247] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:27,247] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:27,286] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qzxmw33t_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qzxmw33t', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:27,286] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qzxmw33t_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qzxmw33t', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:27,369] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:27,369] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:27,369] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:27,369] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:27,376] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:27,376] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:27,384] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:27,384] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:27,386] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:27,386] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:27,428] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_zs0vs4_y_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_zs0vs4_y', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:27,428] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_zs0vs4_y_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_zs0vs4_y', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:27,452] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:27,452] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:27,452] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:27,452] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:28,114] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:28,114] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:28,114] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:28,114] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:28,116] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:28,116] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:28,123] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:28,123] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:28,131] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:28,131] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:28,133] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:28,133] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:28,140] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:28,140] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:28,175] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:28,175] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:28,175] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:28,175] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:28,185] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:28,185] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:28,192] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:28,192] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:28,200] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:28,200] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:28,202] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:28,202] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:28,209] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:28,209] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:28,210] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:28,210] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:28,247] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_2n2ctnd3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_2n2ctnd3', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:28,247] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_2n2ctnd3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_2n2ctnd3', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:28,362] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:28,362] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:28,589] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:28,589] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:28,589] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:28,589] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:28,593] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:28,593] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:28,595] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:28,595] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:28,605] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:28,605] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:28,606] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:28,606] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:28,608] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:28,608] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:28,609] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:28,609] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:28,641] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0f704ih7_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0f704ih7', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:28,641] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0f704ih7_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0f704ih7', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:28,655] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:28,655] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:28,655] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:28,655] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:28,656] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:28,656] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:28,658] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:28,658] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:28,660] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:28,660] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:28,704] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e96xd4hs_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e96xd4hs', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:28,704] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e96xd4hs_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e96xd4hs', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:28,760] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:28,760] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:29,022] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:29,022] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:29,022] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:29,022] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:29,030] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:29,030] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:29,032] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:29,032] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:29,039] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:29,039] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:29,041] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:29,041] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:29,042] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:29,042] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:29,076] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_hes2qbqa_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_hes2qbqa', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:29,076] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_hes2qbqa_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_hes2qbqa', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:29,396] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:29,396] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:29,396] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:29,396] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:29,398] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:29,398] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:29,399] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:29,399] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:29,402] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:29,402] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:29,403] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:29,403] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:29,405] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:29,405] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:29,439] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_eix4xp8t_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_eix4xp8t', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:29,439] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_eix4xp8t_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_eix4xp8t', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:29,670] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:29,670] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:29,672] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:29,672] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:29,676] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:29,676] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:29,679] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:29,679] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:29,682] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:29,682] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:29,720] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_c__lxmi3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_c__lxmi3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:29,720] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_c__lxmi3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_c__lxmi3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:29,889] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:29,889] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:29,890] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:29,890] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:29,964] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:29,964] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:29,964] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:29,964] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:29,967] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:29,967] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:29,973] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:29,973] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:29,975] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:29,975] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:29,983] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:29,983] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:29,990] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:29,990] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:30,021] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:30,021] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:30,021] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:30,021] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:30,023] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:30,023] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:30,024] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:30,024] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:30,025] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:30,025] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:30,035] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:30,035] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:30,036] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:30,036] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:30,038] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:30,038] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:30,080] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_h84q1emh_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_h84q1emh', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:30,080] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_h84q1emh_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_h84q1emh', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:30,196] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:30,196] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:30,669] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:30,669] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:30,669] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:30,669] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:30,676] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:30,676] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:30,684] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:30,684] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:30,686] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:30,686] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:30,721] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:30,721] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:30,721] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:30,728] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__xkgp1mz_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__xkgp1mz', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:30,721] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:30,731] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:30,728] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__xkgp1mz_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__xkgp1mz', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:30,731] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:30,739] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:30,739] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:30,746] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:30,746] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:30,748] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:30,748] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:30,756] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:30,756] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:30,763] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:30,763] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:30,794] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sckkhwam_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sckkhwam', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:30,794] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sckkhwam_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sckkhwam', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:30,906] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:30,906] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:31,051] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:31,051] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:31,052] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:31,052] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:31,055] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,055] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,061] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,061] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,069] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,069] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,071] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,071] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,077] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,077] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,116] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kbrtcgmv_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kbrtcgmv', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:31,116] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kbrtcgmv_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kbrtcgmv', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:31,429] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:31,429] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:31,429] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:31,429] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:31,431] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,431] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,434] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,434] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,436] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,436] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,438] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,438] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,440] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,440] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,476] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fvbua45g_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fvbua45g', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:31,476] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fvbua45g_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fvbua45g', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:31,791] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:31,791] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:31,791] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:31,801] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:31,791] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:31,801] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,801] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:31,803] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:31,801] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,805] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,803] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:31,811] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,805] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,812] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,811] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,814] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,815] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,812] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,823] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,814] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,830] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,815] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,832] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,823] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,834] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,830] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,837] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,832] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,839] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,834] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,837] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,847] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,839] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,849] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,847] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,849] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,852] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,852] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,879] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fssbc0iw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fssbc0iw', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:31,879] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fssbc0iw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fssbc0iw', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:31,879] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:31,879] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:31,883] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:31,883] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:31,884] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:31,885] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fk8xjkwp_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fk8xjkwp', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:31,884] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:31,886] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,885] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fk8xjkwp_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fk8xjkwp', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:31,886] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:31,890] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,890] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:31,892] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,892] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:31,893] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,893] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:31,896] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,896] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:31,932] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_xf3nsrz6_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_xf3nsrz6', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:31,932] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_xf3nsrz6_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_xf3nsrz6', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:32,050] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:32,050] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:32,058] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:32,058] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:32,059] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:32,059] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:33,096] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:33,096] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:33,096] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:33,096] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:33,099] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:33,099] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:33,101] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,101] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,103] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,103] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,105] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,105] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,106] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,106] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,109] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,110] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,109] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,110] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,112] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,112] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,115] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,115] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,117] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,117] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,120] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,120] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,141] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3jq_6lw8_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3jq_6lw8', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:33,141] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3jq_6lw8_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3jq_6lw8', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:33,157] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__6svypxn_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__6svypxn', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:33,157] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__6svypxn_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__6svypxn', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:33,260] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:33,260] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:33,479] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:33,479] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:33,479] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:33,479] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:33,482] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,482] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,485] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,485] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,487] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,487] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,489] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,489] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,491] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,491] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,528] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ioxwpz6r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ioxwpz6r', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:33,528] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ioxwpz6r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ioxwpz6r', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:33,652] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:33,652] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:33,652] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:33,652] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:33,655] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,655] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,656] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,656] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,659] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,659] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,661] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,661] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,662] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,662] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,692] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:33,692] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:33,693] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:33,693] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:33,695] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:33,695] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:33,703] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,703] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,703] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,703] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,711] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,711] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,713] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,713] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,715] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,715] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,750] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_g6nr25zs_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_g6nr25zs', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:33,750] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_g6nr25zs_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_g6nr25zs', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:33,844] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:33,844] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:33,844] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:33,844] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:33,852] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,852] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:33,854] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,854] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:33,861] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,861] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:33,864] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,864] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:33,870] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,874] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:33,870] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:33,874] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:33,918] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_19x367ti_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_19x367ti', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:33,918] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_19x367ti_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_19x367ti', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:34,170] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:34,170] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:34,170] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:34,170] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:34,174] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:34,174] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:34,176] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:34,176] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:34,177] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:34,177] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:34,212] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ieynuxyt_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ieynuxyt', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:34,212] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ieynuxyt_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ieynuxyt', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:34,233] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:34,233] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:34,233] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:34,233] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:34,236] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:34,236] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:34,238] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:34,238] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:34,239] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:34,239] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:34,243] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:34,243] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:34,245] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:34,245] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:34,282] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qjubzx7n_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qjubzx7n', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:34,282] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qjubzx7n_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qjubzx7n', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:34,391] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:34,391] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:34,391] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:34,391] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:35,314] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:35,314] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:35,314] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:35,314] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:35,318] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:35,318] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:35,320] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:35,320] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:35,322] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:35,322] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:35,324] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:35,324] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:35,326] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:35,326] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:35,327] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:35,327] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:35,361] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_av1ankt0_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_av1ankt0', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:35,361] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_av1ankt0_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_av1ankt0', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:35,471] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:35,471] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:35,473] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:35,473] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:35,475] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:35,475] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:35,477] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:35,477] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:35,479] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:35,479] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:35,480] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:35,480] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:35,483] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:35,483] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:35,485] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:35,485] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:35,485] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:35,486] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:35,485] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:35,486] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:35,492] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:35,492] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:35,494] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:35,494] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:35,497] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:35,497] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:35,498] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:35,498] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:35,500] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:35,500] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:35,511] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:35,511] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:35,512] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:35,512] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:35,513] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:35,513] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:35,516] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:35,516] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:35,518] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:35,520] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uwel3x1k_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uwel3x1k', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:35,518] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:35,520] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uwel3x1k_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uwel3x1k', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:35,533] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:35,533] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:35,534] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:35,534] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:35,538] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:35,538] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:35,541] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:35,541] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:35,542] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:35,542] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:35,545] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:35,545] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:35,546] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:35,546] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:35,549] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:35,549] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:35,558] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_48u6pjad_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_48u6pjad', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:35,558] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_48u6pjad_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_48u6pjad', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:35,590] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_okqpxw_u_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_okqpxw_u', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:35,590] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_okqpxw_u_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_okqpxw_u', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:35,710] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:35,710] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:35,712] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:35,712] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:35,713] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:35,713] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:36,431] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:36,431] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[2025-12-27 13:03:36,431] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:36,431] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:36,435] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:36,435] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:36,438] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:36,438] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:36,442] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:36,442] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:36,444] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:36,444] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:36,446] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:36,446] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:36,448] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:36,448] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:36,482] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_z7id06t5_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_z7id06t5', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:36,482] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_z7id06t5_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_z7id06t5', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:36,592] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:36,592] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[2025-12-27 13:03:36,593] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:36,593] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:36,594] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:36,594] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:36,596] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:36,596] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:36,598] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:36,598] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:36,600] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:36,600] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:36,603] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:36,603] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:36,604] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:36,604] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:36,635] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lm3hwl8x_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lm3hwl8x', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:36,635] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lm3hwl8x_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lm3hwl8x', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[2025-12-27 13:03:36,804] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:36,804] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[2025-12-27 13:03:36,804] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:36,805] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:36,804] INFO - HP detectado: 100.0% | Mana: 100.0%
+[2025-12-27 13:03:36,805] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:36,808] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:36,808] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:36,811] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:36,811] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:36,813] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:36,813] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:36,815] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:36,815] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:36,850] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8isvtcro_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8isvtcro', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:36,850] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8isvtcro_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8isvtcro', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:37,263] INFO - === BOT DETENIDO POR USUARIO ===
+[2025-12-27 13:03:37,263] INFO - === BOT DETENIDO POR USUARIO ===
+[2025-12-27 13:03:37,312] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:37,312] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:37,313] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:37,313] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:37,314] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:37,314] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:37,315] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:37,315] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:37,318] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:37,318] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:37,320] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:37,320] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:37,323] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:37,323] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:37,352] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:37,352] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[2025-12-27 13:03:37,353] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:37,353] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:37,354] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:37,354] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:37,356] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:37,356] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:37,357] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:37,357] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:37,359] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:37,359] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:37,360] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:37,360] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:37,362] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:37,362] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:37,396] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5el7bu9r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5el7bu9r', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:37,396] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5el7bu9r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5el7bu9r', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:37,514] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:37,514] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:38,070] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:38,070] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:40,026] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:40,026] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:40,026] WARNING - Fallo en captura del minimap. Retornando base.
+[2025-12-27 13:03:40,026] WARNING - Fallo en captura del minimap. Retornando base.
+[2025-12-27 13:03:40,028] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:40,028] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:40,030] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:40,030] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:40,032] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:40,032] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:40,034] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:40,034] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:40,035] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:40,035] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:40,037] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:40,037] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:40,038] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:40,038] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:40,073] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0h9krr6r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0h9krr6r', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:40,073] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0h9krr6r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0h9krr6r', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:40,193] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:40,193] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:42,705] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:42,705] WARNING - No se obtuvo nuevo screenshot
+[2025-12-27 13:03:42,706] WARNING - Fallo en captura del minimap. Retornando base.
+[2025-12-27 13:03:42,706] WARNING - Fallo en captura del minimap. Retornando base.
+[2025-12-27 13:03:42,711] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:42,711] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[2025-12-27 13:03:42,713] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:42,713] DEBUG - Usando screenshot anterior para captura
+[2025-12-27 13:03:42,716] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:42,716] DEBUG - STREAM b'IHDR' 16 13
+[2025-12-27 13:03:42,717] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:42,717] DEBUG - STREAM b'pHYs' 41 9
+[2025-12-27 13:03:42,720] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:42,720] DEBUG - STREAM b'tEXt' 62 33
+[2025-12-27 13:03:42,723] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:42,723] DEBUG - STREAM b'tEXt' 107 21
+[2025-12-27 13:03:42,725] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:42,725] DEBUG - STREAM b'IDAT' 140 8192
+[2025-12-27 13:03:42,762] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fjiz1vq1_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fjiz1vq1', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:42,762] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fjiz1vq1_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fjiz1vq1', '--psm', '6', '--oem', '3', 'txt']
+[2025-12-27 13:03:42,875] INFO - Cambio de nivel z=7 -> z=6
+[2025-12-27 13:03:42,875] INFO - Cambio de nivel z=7 -> z=6

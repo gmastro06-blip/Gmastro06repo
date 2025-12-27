@@ -13,7 +13,7 @@ class Healer:
         self.config = config
 
     def monitor(self):
-        logging.debug("Ejecutando módulo Healer (modo humano y seguro)")
+        logging.debug("Ejecutando modulo Healer (modo humano y seguro)")
 
         hp_region = self.config['regions']['hp_bar']
         mana_region = self.config['regions']['mana_bar']
@@ -49,14 +49,14 @@ class Healer:
 
         if hp < strong_threshold:
             pyautogui.press(self.config['hotkeys'].get('uh_hotkey', 'f3'))
-            logging.info(f"¡HP CRÍTICO ({hp}%)! → Ultimate Healing")
+            logging.info(f"!HP CRITICO ({hp}%)! -> Ultimate Healing")
             last_action = "UH usada"
             time.sleep(random.uniform(0.8, 1.5))
 
         elif hp < light_threshold:
             if random.random() < 0.88:
                 pyautogui.press(self.config['hotkeys'].get('heal_spell_light', 'f1'))
-                logging.info(f"HP bajo ({hp}%) → Heal light")
+                logging.info(f"HP bajo ({hp}%) -> Heal light")
                 last_action = "Heal light"
                 time.sleep(random.uniform(0.5, 1.0))
 
@@ -69,7 +69,7 @@ class Healer:
         if mana < mana_threshold and self.config.get('use_mana_potion', True):
             if random.random() < 0.92:
                 pyautogui.press(self.config['hotkeys'].get('mana_potion', 'f4'))
-                logging.info(f"Mana bajo ({mana}%) → Mana potion")
+                logging.info(f"Mana bajo ({mana}%) -> Mana potion")
                 last_action = "Mana potion"
                 time.sleep(random.uniform(0.6, 1.2))
 

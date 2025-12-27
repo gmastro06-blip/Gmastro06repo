@@ -1,0 +1,1443 @@
+[12:33:30] INFO - Waypoints cargados en UI: 71
+[12:33:30] INFO - === TIBIABOT PRO GUI INICIADO ===
+[12:33:30] INFO - Interfaz gráfica cargada correctamente.
+[12:33:30] INFO - Calibración manual detectada. No se sobrescribe.
+[12:33:37] INFO - === BOT INICIADO ===
+[12:33:37] INFO - Config.json cargado y validado correctamente
+[12:33:37] INFO - Waypoints avanzados cargados: 71 items
+[12:33:37] INFO - === TIBIABOT ENGINE INICIALIZADO PROFESIONALMENTE ===
+[12:33:37] INFO - === INICIANDO TIBIABOT v2.1 PRO - Modo anti-ban ===
+[12:33:37] INFO - Presiona ESC o STOP en GUI para detener
+[12:33:37] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:33:38] WARNING - No se obtuvo nuevo screenshot
+[12:33:38] DEBUG - STREAM b'IHDR' 16 13
+[12:33:38] DEBUG - STREAM b'pHYs' 41 9
+[12:33:38] DEBUG - STREAM b'tEXt' 62 33
+[12:33:38] DEBUG - STREAM b'tEXt' 107 21
+[12:33:38] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:38] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_eos4ims9_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_eos4ims9', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:38] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:33:39] INFO - -> Navegando a waypoint: (33019, 32053, 6)
+[12:33:39] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:39] DEBUG - Usando screenshot anterior para captura
+[12:33:39] DEBUG - STREAM b'IHDR' 16 13
+[12:33:39] DEBUG - STREAM b'pHYs' 41 9
+[12:33:39] DEBUG - STREAM b'tEXt' 62 33
+[12:33:39] DEBUG - STREAM b'tEXt' 107 21
+[12:33:39] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:39] DEBUG - Posición detectada: (32563, 32445, 7) via dot en (55, 11)
+[12:33:39] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:39] DEBUG - Usando screenshot anterior para captura
+[12:33:39] DEBUG - STREAM b'IHDR' 16 13
+[12:33:39] DEBUG - STREAM b'pHYs' 41 9
+[12:33:39] DEBUG - STREAM b'tEXt' 62 33
+[12:33:39] DEBUG - STREAM b'tEXt' 107 21
+[12:33:39] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:39] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_7izje6g4_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_7izje6g4', '--psm', '6', '--oem', '3', 'txt']
+[12:33:39] WARNING - No se obtuvo nuevo screenshot
+[12:33:39] DEBUG - OCR omitido: no hay captura para región [850, 980, 100, 25]
+[12:33:39] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:33:39] WARNING - No se obtuvo nuevo screenshot
+[12:33:40] INFO - Cambio de nivel z=7 -> z=6
+[12:33:40] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:33:40] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:40] DEBUG - Usando screenshot anterior para captura
+[12:33:40] DEBUG - STREAM b'IHDR' 16 13
+[12:33:40] DEBUG - STREAM b'pHYs' 41 9
+[12:33:40] DEBUG - STREAM b'tEXt' 62 33
+[12:33:40] DEBUG - STREAM b'tEXt' 107 21
+[12:33:40] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:40] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_tvjnamt0_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_tvjnamt0', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:41] WARNING - No se obtuvo nuevo screenshot
+[12:33:41] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:33:41] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:41] DEBUG - Usando screenshot anterior para captura
+[12:33:41] DEBUG - STREAM b'IHDR' 16 13
+[12:33:41] DEBUG - STREAM b'pHYs' 41 9
+[12:33:41] DEBUG - STREAM b'tEXt' 62 33
+[12:33:41] DEBUG - STREAM b'tEXt' 107 21
+[12:33:41] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:41] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fx9ij1gn_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fx9ij1gn', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:41] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:33:41] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:33:41] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:41] DEBUG - Usando screenshot anterior para captura
+[12:33:41] DEBUG - STREAM b'IHDR' 16 13
+[12:33:41] DEBUG - STREAM b'pHYs' 41 9
+[12:33:41] DEBUG - STREAM b'tEXt' 62 33
+[12:33:41] DEBUG - STREAM b'tEXt' 107 21
+[12:33:41] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:41] DEBUG - Posición detectada: (32563, 32445, 7) via dot en (55, 11)
+[12:33:41] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:41] DEBUG - Usando screenshot anterior para captura
+[12:33:41] DEBUG - STREAM b'IHDR' 16 13
+[12:33:41] DEBUG - STREAM b'pHYs' 41 9
+[12:33:41] DEBUG - STREAM b'tEXt' 62 33
+[12:33:41] DEBUG - STREAM b'tEXt' 107 21
+[12:33:41] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:41] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_wv7df0aw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_wv7df0aw', '--psm', '6', '--oem', '3', 'txt']
+[12:33:41] INFO - Cambio de nivel z=7 -> z=6
+[12:33:41] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:33:41] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:41] DEBUG - Usando screenshot anterior para captura
+[12:33:41] DEBUG - STREAM b'IHDR' 16 13
+[12:33:41] DEBUG - STREAM b'pHYs' 41 9
+[12:33:41] DEBUG - STREAM b'tEXt' 62 33
+[12:33:41] DEBUG - STREAM b'tEXt' 107 21
+[12:33:41] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:41] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_td0_d8y2_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_td0_d8y2', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:42] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:33:42] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:42] DEBUG - Usando screenshot anterior para captura
+[12:33:42] DEBUG - STREAM b'IHDR' 16 13
+[12:33:42] DEBUG - STREAM b'pHYs' 41 9
+[12:33:42] DEBUG - STREAM b'tEXt' 62 33
+[12:33:42] DEBUG - STREAM b'tEXt' 107 21
+[12:33:42] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:42] WARNING - No se obtuvo nuevo screenshot
+[12:33:42] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_au6mby0y_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_au6mby0y', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:42] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:33:42] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:33:42] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:33:42] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:43] DEBUG - Usando screenshot anterior para captura
+[12:33:43] DEBUG - STREAM b'IHDR' 16 13
+[12:33:43] DEBUG - STREAM b'pHYs' 41 9
+[12:33:43] DEBUG - STREAM b'tEXt' 62 33
+[12:33:43] DEBUG - STREAM b'tEXt' 107 21
+[12:33:43] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:43] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_crk7k8fy_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_crk7k8fy', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:43] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:33:43] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:43] DEBUG - Usando screenshot anterior para captura
+[12:33:43] DEBUG - STREAM b'IHDR' 16 13
+[12:33:43] DEBUG - STREAM b'pHYs' 41 9
+[12:33:43] DEBUG - STREAM b'tEXt' 62 33
+[12:33:43] DEBUG - STREAM b'tEXt' 107 21
+[12:33:43] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:43] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0grrqyri_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0grrqyri', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:43] WARNING - No se obtuvo nuevo screenshot
+[12:33:43] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:33:43] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:33:44] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:33:44] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:44] DEBUG - Usando screenshot anterior para captura
+[12:33:44] DEBUG - STREAM b'IHDR' 16 13
+[12:33:44] DEBUG - STREAM b'pHYs' 41 9
+[12:33:44] DEBUG - STREAM b'tEXt' 62 33
+[12:33:44] DEBUG - STREAM b'tEXt' 107 21
+[12:33:44] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:44] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ry6d1f0y_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ry6d1f0y', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:44] WARNING - No se obtuvo nuevo screenshot
+[12:33:44] WARNING - Fallo en captura del minimap. Retornando base.
+[12:33:44] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:44] DEBUG - Usando screenshot anterior para captura
+[12:33:44] DEBUG - STREAM b'IHDR' 16 13
+[12:33:44] DEBUG - STREAM b'pHYs' 41 9
+[12:33:44] DEBUG - STREAM b'tEXt' 62 33
+[12:33:44] DEBUG - STREAM b'tEXt' 107 21
+[12:33:44] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:44] WARNING - No se obtuvo nuevo screenshot
+[12:33:44] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uqr4bvci_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uqr4bvci', '--psm', '6', '--oem', '3', 'txt']
+[12:33:44] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:33:44] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:44] DEBUG - Usando screenshot anterior para captura
+[12:33:44] DEBUG - STREAM b'IHDR' 16 13
+[12:33:44] DEBUG - STREAM b'pHYs' 41 9
+[12:33:44] DEBUG - STREAM b'tEXt' 62 33
+[12:33:44] DEBUG - STREAM b'tEXt' 107 21
+[12:33:44] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:44] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ygbiubau_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ygbiubau', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:44] INFO - Cambio de nivel z=7 -> z=6
+[12:33:44] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:33:44] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:33:45] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:33:45] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:45] DEBUG - Usando screenshot anterior para captura
+[12:33:45] DEBUG - STREAM b'IHDR' 16 13
+[12:33:45] DEBUG - STREAM b'pHYs' 41 9
+[12:33:45] DEBUG - STREAM b'tEXt' 62 33
+[12:33:45] DEBUG - STREAM b'tEXt' 107 21
+[12:33:45] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:45] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ty5y1a2b_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ty5y1a2b', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:45] WARNING - No se obtuvo nuevo screenshot
+[12:33:45] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:33:45] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:45] DEBUG - Usando screenshot anterior para captura
+[12:33:45] DEBUG - STREAM b'IHDR' 16 13
+[12:33:45] DEBUG - STREAM b'pHYs' 41 9
+[12:33:45] DEBUG - STREAM b'tEXt' 62 33
+[12:33:45] DEBUG - STREAM b'tEXt' 107 21
+[12:33:45] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:45] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_czhk5e50_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_czhk5e50', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:45] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:33:45] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:33:46] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:46] DEBUG - Usando screenshot anterior para captura
+[12:33:46] DEBUG - STREAM b'IHDR' 16 13
+[12:33:46] DEBUG - STREAM b'pHYs' 41 9
+[12:33:46] DEBUG - STREAM b'tEXt' 62 33
+[12:33:46] DEBUG - STREAM b'tEXt' 107 21
+[12:33:46] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:46] DEBUG - Posición detectada: (32563, 32445, 7) via dot en (55, 11)
+[12:33:46] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:46] DEBUG - Usando screenshot anterior para captura
+[12:33:46] DEBUG - STREAM b'IHDR' 16 13
+[12:33:46] DEBUG - STREAM b'pHYs' 41 9
+[12:33:46] DEBUG - STREAM b'tEXt' 62 33
+[12:33:46] DEBUG - STREAM b'tEXt' 107 21
+[12:33:46] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:46] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_m9mzsw9i_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_m9mzsw9i', '--psm', '6', '--oem', '3', 'txt']
+[12:33:46] INFO - Cambio de nivel z=7 -> z=6
+[12:33:46] WARNING - No se obtuvo nuevo screenshot
+[12:33:46] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:33:46] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:46] DEBUG - Usando screenshot anterior para captura
+[12:33:46] DEBUG - STREAM b'IHDR' 16 13
+[12:33:46] DEBUG - STREAM b'pHYs' 41 9
+[12:33:46] DEBUG - STREAM b'tEXt' 62 33
+[12:33:46] DEBUG - STREAM b'tEXt' 107 21
+[12:33:46] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:46] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_v6u_i6ka_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_v6u_i6ka', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:46] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:33:47] WARNING - No se obtuvo nuevo screenshot
+[12:33:47] WARNING - No se obtuvo nuevo screenshot
+[12:33:47] DEBUG - OCR omitido: no hay captura para región [850, 980, 100, 25]
+[12:33:47] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:33:48] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:33:48] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:48] DEBUG - Usando screenshot anterior para captura
+[12:33:48] DEBUG - STREAM b'IHDR' 16 13
+[12:33:48] DEBUG - STREAM b'pHYs' 41 9
+[12:33:48] DEBUG - STREAM b'tEXt' 62 33
+[12:33:48] DEBUG - STREAM b'tEXt' 107 21
+[12:33:48] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:48] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_hwsb9cli_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_hwsb9cli', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:48] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:33:48] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:48] DEBUG - Usando screenshot anterior para captura
+[12:33:48] DEBUG - STREAM b'IHDR' 16 13
+[12:33:48] DEBUG - STREAM b'pHYs' 41 9
+[12:33:48] DEBUG - STREAM b'tEXt' 62 33
+[12:33:48] DEBUG - STREAM b'tEXt' 107 21
+[12:33:48] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:48] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qgz4lety_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qgz4lety', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:33:48] WARNING - No se obtuvo nuevo screenshot
+[12:33:48] WARNING - No se obtuvo nuevo screenshot
+[12:33:48] WARNING - Fallo en captura del minimap. Retornando base.
+[12:33:48] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:48] DEBUG - Usando screenshot anterior para captura
+[12:33:48] DEBUG - STREAM b'IHDR' 16 13
+[12:33:48] DEBUG - STREAM b'pHYs' 41 9
+[12:33:48] DEBUG - STREAM b'tEXt' 62 33
+[12:33:48] DEBUG - STREAM b'tEXt' 107 21
+[12:33:48] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:48] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_giszwan__input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_giszwan_', '--psm', '6', '--oem', '3', 'txt']
+[12:33:48] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:33:48] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:33:48] INFO - Cambio de nivel z=7 -> z=6
+[12:33:49] INFO - === BOT DETENIDO POR USUARIO ===
+[12:33:49] WARNING - No se obtuvo nuevo screenshot
+[12:33:51] WARNING - No se obtuvo nuevo screenshot
+[12:33:51] WARNING - Fallo en captura del minimap. Retornando base.
+[12:33:51] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:51] DEBUG - Usando screenshot anterior para captura
+[12:33:51] DEBUG - STREAM b'IHDR' 16 13
+[12:33:51] DEBUG - STREAM b'pHYs' 41 9
+[12:33:51] DEBUG - STREAM b'tEXt' 62 33
+[12:33:51] DEBUG - STREAM b'tEXt' 107 21
+[12:33:51] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:51] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fe9qa909_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fe9qa909', '--psm', '6', '--oem', '3', 'txt']
+[12:33:51] INFO - Cambio de nivel z=7 -> z=6
+[12:33:54] WARNING - No se obtuvo nuevo screenshot
+[12:33:54] WARNING - Fallo en captura del minimap. Retornando base.
+[12:33:54] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:54] DEBUG - Usando screenshot anterior para captura
+[12:33:54] DEBUG - STREAM b'IHDR' 16 13
+[12:33:54] DEBUG - STREAM b'pHYs' 41 9
+[12:33:54] DEBUG - STREAM b'tEXt' 62 33
+[12:33:54] DEBUG - STREAM b'tEXt' 107 21
+[12:33:54] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:54] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_z4e8hn89_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_z4e8hn89', '--psm', '6', '--oem', '3', 'txt']
+[12:33:54] INFO - Cambio de nivel z=7 -> z=6
+[12:33:56] WARNING - No se obtuvo nuevo screenshot
+[12:33:56] WARNING - Fallo en captura del minimap. Retornando base.
+[12:33:56] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:56] DEBUG - Usando screenshot anterior para captura
+[12:33:56] DEBUG - STREAM b'IHDR' 16 13
+[12:33:56] DEBUG - STREAM b'pHYs' 41 9
+[12:33:56] DEBUG - STREAM b'tEXt' 62 33
+[12:33:56] DEBUG - STREAM b'tEXt' 107 21
+[12:33:56] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:56] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3c23mtn6_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3c23mtn6', '--psm', '6', '--oem', '3', 'txt']
+[12:33:56] INFO - Cambio de nivel z=7 -> z=6
+[12:33:59] WARNING - No se obtuvo nuevo screenshot
+[12:33:59] WARNING - Fallo en captura del minimap. Retornando base.
+[12:33:59] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:33:59] DEBUG - Usando screenshot anterior para captura
+[12:33:59] DEBUG - STREAM b'IHDR' 16 13
+[12:33:59] DEBUG - STREAM b'pHYs' 41 9
+[12:33:59] DEBUG - STREAM b'tEXt' 62 33
+[12:33:59] DEBUG - STREAM b'tEXt' 107 21
+[12:33:59] DEBUG - STREAM b'IDAT' 140 8192
+[12:33:59] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_pxzun_wj_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_pxzun_wj', '--psm', '6', '--oem', '3', 'txt']
+[12:33:59] INFO - Cambio de nivel z=7 -> z=6
+[12:34:56] INFO - Waypoints cargados en UI: 71
+[12:34:56] INFO - === TIBIABOT PRO GUI INICIADO ===
+[12:34:56] INFO - Interfaz gráfica cargada correctamente.
+[12:34:56] INFO - Calibración manual detectada. No se sobrescribe.
+[12:35:24] INFO - Waypoints cargados en UI: 71
+[12:35:58] INFO - === BOT INICIADO ===
+[12:35:58] INFO - Config.json cargado y validado correctamente
+[12:35:58] INFO - Waypoints avanzados cargados: 71 items
+[12:35:58] INFO - === TIBIABOT ENGINE INICIALIZADO PROFESIONALMENTE ===
+[12:35:58] INFO - === INICIANDO TIBIABOT v2.1 PRO - Modo anti-ban ===
+[12:35:58] INFO - Presiona ESC o STOP en GUI para detener
+[12:35:58] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:35:59] WARNING - No se obtuvo nuevo screenshot
+[12:35:59] DEBUG - OCR omitido: no hay captura para región [850, 950, 100, 25]
+[12:35:59] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:35:59] DEBUG - Usando screenshot anterior para captura
+[12:35:59] DEBUG - STREAM b'IHDR' 16 13
+[12:35:59] DEBUG - STREAM b'IHDR' 16 13
+[12:35:59] DEBUG - STREAM b'pHYs' 41 9
+[12:35:59] DEBUG - STREAM b'pHYs' 41 9
+[12:35:59] DEBUG - STREAM b'tEXt' 62 33
+[12:35:59] DEBUG - STREAM b'tEXt' 62 33
+[12:35:59] DEBUG - STREAM b'tEXt' 107 21
+[12:35:59] DEBUG - STREAM b'tEXt' 107 21
+[12:35:59] DEBUG - STREAM b'IDAT' 140 8192
+[12:35:59] DEBUG - STREAM b'IDAT' 140 8192
+[12:35:59] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__oq7o3bb_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__oq7o3bb', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:35:59] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_g6vetxo9_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_g6vetxo9', '--psm', '6', '--oem', '3', 'txt']
+[12:35:59] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:35:59] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:35:59] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:35:59] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:35:59] DEBUG - Usando screenshot anterior para captura
+[12:35:59] DEBUG - STREAM b'IHDR' 16 13
+[12:35:59] DEBUG - STREAM b'pHYs' 41 9
+[12:35:59] DEBUG - STREAM b'tEXt' 62 33
+[12:35:59] DEBUG - STREAM b'tEXt' 107 21
+[12:35:59] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:00] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ujvi_ngq_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ujvi_ngq', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:36:00] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:36:00] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:00] DEBUG - Usando screenshot anterior para captura
+[12:36:00] DEBUG - STREAM b'IHDR' 16 13
+[12:36:00] DEBUG - STREAM b'pHYs' 41 9
+[12:36:00] DEBUG - STREAM b'tEXt' 62 33
+[12:36:00] DEBUG - STREAM b'tEXt' 107 21
+[12:36:00] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:00] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_63ekaibz_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_63ekaibz', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:36:00] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:36:00] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:36:00] WARNING - No se obtuvo nuevo screenshot
+[12:36:00] INFO - -> Navegando a waypoint: (33019, 32053, 6)
+[12:36:00] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:00] DEBUG - Usando screenshot anterior para captura
+[12:36:00] DEBUG - STREAM b'IHDR' 16 13
+[12:36:00] DEBUG - STREAM b'pHYs' 41 9
+[12:36:00] DEBUG - STREAM b'tEXt' 62 33
+[12:36:00] DEBUG - STREAM b'tEXt' 107 21
+[12:36:00] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:00] DEBUG - Posición detectada: (32563, 32445, 7) via dot en (55, 11)
+[12:36:00] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:00] DEBUG - Usando screenshot anterior para captura
+[12:36:00] DEBUG - STREAM b'IHDR' 16 13
+[12:36:00] DEBUG - STREAM b'pHYs' 41 9
+[12:36:00] DEBUG - STREAM b'tEXt' 62 33
+[12:36:00] DEBUG - STREAM b'tEXt' 107 21
+[12:36:00] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:00] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_h3nip1at_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_h3nip1at', '--psm', '6', '--oem', '3', 'txt']
+[12:36:01] INFO - Cambio de nivel z=7 -> z=6
+[12:36:01] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:36:01] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:01] DEBUG - Usando screenshot anterior para captura
+[12:36:01] DEBUG - STREAM b'IHDR' 16 13
+[12:36:01] DEBUG - STREAM b'pHYs' 41 9
+[12:36:01] DEBUG - STREAM b'tEXt' 62 33
+[12:36:01] DEBUG - STREAM b'tEXt' 107 21
+[12:36:01] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:01] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_o4hiabt1_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_o4hiabt1', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:36:01] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:36:01] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:01] DEBUG - Usando screenshot anterior para captura
+[12:36:01] DEBUG - STREAM b'IHDR' 16 13
+[12:36:01] DEBUG - STREAM b'pHYs' 41 9
+[12:36:01] DEBUG - STREAM b'tEXt' 62 33
+[12:36:01] DEBUG - STREAM b'tEXt' 107 21
+[12:36:01] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:01] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0g__r358_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0g__r358', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:36:01] WARNING - No se obtuvo nuevo screenshot
+[12:36:01] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:36:01] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:36:02] WARNING - No se obtuvo nuevo screenshot
+[12:36:02] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:36:02] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:02] DEBUG - Usando screenshot anterior para captura
+[12:36:02] DEBUG - STREAM b'IHDR' 16 13
+[12:36:02] DEBUG - STREAM b'pHYs' 41 9
+[12:36:02] DEBUG - STREAM b'tEXt' 62 33
+[12:36:02] DEBUG - STREAM b'tEXt' 107 21
+[12:36:02] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:02] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_d4bpq4m8_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_d4bpq4m8', '--psm', '6', '--oem', '3', 'txt']
+[12:36:03] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:03] DEBUG - Usando screenshot anterior para captura
+[12:36:03] DEBUG - STREAM b'IHDR' 16 13
+[12:36:03] DEBUG - STREAM b'pHYs' 41 9
+[12:36:03] DEBUG - STREAM b'tEXt' 62 33
+[12:36:03] DEBUG - STREAM b'tEXt' 107 21
+[12:36:03] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:03] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_xwabnnmc_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_xwabnnmc', '--psm', '6', '--oem', '3', 'txt']
+[12:36:03] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:03] DEBUG - Usando screenshot anterior para captura
+[12:36:03] DEBUG - STREAM b'IHDR' 16 13
+[12:36:03] DEBUG - STREAM b'pHYs' 41 9
+[12:36:03] DEBUG - STREAM b'tEXt' 62 33
+[12:36:03] DEBUG - STREAM b'tEXt' 107 21
+[12:36:03] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:03] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jca96mz7_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jca96mz7', '--psm', '6', '--oem', '3', 'txt']
+[12:36:03] WARNING - No se obtuvo nuevo screenshot
+[12:36:03] WARNING - Fallo en captura del minimap. Retornando base.
+[12:36:03] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:03] DEBUG - Usando screenshot anterior para captura
+[12:36:03] WARNING - No se obtuvo nuevo screenshot
+[12:36:03] DEBUG - STREAM b'IHDR' 16 13
+[12:36:03] DEBUG - OCR omitido: no hay captura para región [850, 950, 100, 25]
+[12:36:03] DEBUG - STREAM b'pHYs' 41 9
+[12:36:03] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:03] DEBUG - STREAM b'tEXt' 62 33
+[12:36:03] DEBUG - Usando screenshot anterior para captura
+[12:36:03] DEBUG - STREAM b'tEXt' 107 21
+[12:36:03] DEBUG - STREAM b'IHDR' 16 13
+[12:36:03] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:03] DEBUG - STREAM b'pHYs' 41 9
+[12:36:03] DEBUG - STREAM b'tEXt' 62 33
+[12:36:03] DEBUG - STREAM b'tEXt' 107 21
+[12:36:03] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:03] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_7_xkhrxc_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_7_xkhrxc', '--psm', '6', '--oem', '3', 'txt']
+[12:36:03] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_tq7813y3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_tq7813y3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:36:03] INFO - Cambio de nivel z=7 -> z=6
+[12:36:03] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:36:03] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:36:04] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:36:04] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:04] DEBUG - Usando screenshot anterior para captura
+[12:36:04] DEBUG - STREAM b'IHDR' 16 13
+[12:36:04] DEBUG - STREAM b'pHYs' 41 9
+[12:36:04] DEBUG - STREAM b'tEXt' 62 33
+[12:36:04] DEBUG - STREAM b'tEXt' 107 21
+[12:36:04] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:04] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ignh_g78_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ignh_g78', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:36:04] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:36:04] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:04] DEBUG - Usando screenshot anterior para captura
+[12:36:04] DEBUG - STREAM b'IHDR' 16 13
+[12:36:04] DEBUG - STREAM b'pHYs' 41 9
+[12:36:04] DEBUG - STREAM b'tEXt' 62 33
+[12:36:04] DEBUG - STREAM b'tEXt' 107 21
+[12:36:04] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:04] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_wmikxg_r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_wmikxg_r', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:36:04] WARNING - No se obtuvo nuevo screenshot
+[12:36:04] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:36:04] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:36:05] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:05] DEBUG - Usando screenshot anterior para captura
+[12:36:05] DEBUG - STREAM b'IHDR' 16 13
+[12:36:05] DEBUG - STREAM b'pHYs' 41 9
+[12:36:05] DEBUG - STREAM b'tEXt' 62 33
+[12:36:05] DEBUG - STREAM b'tEXt' 107 21
+[12:36:05] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:05] DEBUG - Posición detectada: (32563, 32445, 7) via dot en (55, 11)
+[12:36:05] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:05] DEBUG - Usando screenshot anterior para captura
+[12:36:05] DEBUG - STREAM b'IHDR' 16 13
+[12:36:05] DEBUG - STREAM b'pHYs' 41 9
+[12:36:05] DEBUG - STREAM b'tEXt' 62 33
+[12:36:05] DEBUG - STREAM b'tEXt' 107 21
+[12:36:05] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:05] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3wh247sg_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3wh247sg', '--psm', '6', '--oem', '3', 'txt']
+[12:36:05] INFO - Cambio de nivel z=7 -> z=6
+[12:36:05] WARNING - No se obtuvo nuevo screenshot
+[12:36:06] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:36:07] WARNING - No se obtuvo nuevo screenshot
+[12:36:07] WARNING - No se obtuvo nuevo screenshot
+[12:36:07] DEBUG - OCR omitido: no hay captura para región [850, 950, 100, 25]
+[12:36:07] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:07] DEBUG - Usando screenshot anterior para captura
+[12:36:07] DEBUG - STREAM b'IHDR' 16 13
+[12:36:07] DEBUG - STREAM b'pHYs' 41 9
+[12:36:07] DEBUG - STREAM b'tEXt' 62 33
+[12:36:07] DEBUG - STREAM b'tEXt' 107 21
+[12:36:07] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:07] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ji79ul_3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ji79ul_3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:36:07] DEBUG - OCR [[850, 980, 100, 25]]: ''
+[12:36:07] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:36:08] WARNING - No se obtuvo nuevo screenshot
+[12:36:08] WARNING - Fallo en captura del minimap. Retornando base.
+[12:36:08] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:08] DEBUG - Usando screenshot anterior para captura
+[12:36:08] DEBUG - STREAM b'IHDR' 16 13
+[12:36:08] DEBUG - STREAM b'pHYs' 41 9
+[12:36:08] DEBUG - STREAM b'tEXt' 62 33
+[12:36:08] DEBUG - STREAM b'tEXt' 107 21
+[12:36:08] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:08] WARNING - No se obtuvo nuevo screenshot
+[12:36:08] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_blyv1ca0_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_blyv1ca0', '--psm', '6', '--oem', '3', 'txt']
+[12:36:08] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:36:08] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:08] DEBUG - Usando screenshot anterior para captura
+[12:36:08] DEBUG - STREAM b'IHDR' 16 13
+[12:36:08] DEBUG - STREAM b'pHYs' 41 9
+[12:36:08] DEBUG - STREAM b'tEXt' 62 33
+[12:36:08] DEBUG - STREAM b'tEXt' 107 21
+[12:36:08] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:08] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e14q93pq_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e14q93pq', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:36:08] INFO - Cambio de nivel z=7 -> z=6
+[12:36:08] DEBUG - OCR [[850, 950, 100, 25]]: ''
+[12:36:09] INFO - === BOT DETENIDO POR USUARIO ===
+[12:36:09] WARNING - No se obtuvo nuevo screenshot
+[12:36:09] WARNING - No se obtuvo nuevo screenshot
+[12:36:09] DEBUG - OCR omitido: no hay captura para región [850, 980, 100, 25]
+[12:36:09] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:36:10] WARNING - No se obtuvo nuevo screenshot
+[12:36:10] WARNING - Fallo en captura del minimap. Retornando base.
+[12:36:10] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:36:10] DEBUG - Usando screenshot anterior para captura
+[12:36:10] DEBUG - STREAM b'IHDR' 16 13
+[12:36:10] DEBUG - STREAM b'pHYs' 41 9
+[12:36:10] DEBUG - STREAM b'tEXt' 62 33
+[12:36:10] DEBUG - STREAM b'tEXt' 107 21
+[12:36:10] DEBUG - STREAM b'IDAT' 140 8192
+[12:36:10] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_r69hspgj_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_r69hspgj', '--psm', '6', '--oem', '3', 'txt']
+[12:36:10] INFO - Cambio de nivel z=7 -> z=6
+[12:44:41] INFO - Waypoints cargados en UI: 71
+[12:44:41] INFO - === TIBIABOT PRO GUI INICIADO ===
+[12:44:41] INFO - Interfaz gráfica cargada correctamente.
+[12:44:41] INFO - Calibración manual detectada. No se sobrescribe.
+[12:44:43] INFO - === BOT INICIADO ===
+[12:44:43] INFO - Config.json cargado y validado correctamente
+[12:44:43] INFO - Waypoints avanzados cargados: 71 items
+[12:44:43] INFO - === TIBIABOT ENGINE INICIALIZADO PROFESIONALMENTE ===
+[12:44:43] INFO - === INICIANDO TIBIABOT v2.1 PRO - Modo anti-ban ===
+[12:44:43] INFO - Presiona ESC o STOP en GUI para detener
+[12:44:44] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:44:44] WARNING - No se obtuvo nuevo screenshot
+[12:44:44] DEBUG - OCR omitido: no hay captura para región [12, 28, 723, 22]
+[12:44:44] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:44] DEBUG - STREAM b'IHDR' 16 13
+[12:44:44] DEBUG - Usando screenshot anterior para captura
+[12:44:44] DEBUG - STREAM b'pHYs' 41 9
+[12:44:44] DEBUG - STREAM b'IHDR' 16 13
+[12:44:44] DEBUG - STREAM b'tEXt' 62 33
+[12:44:44] DEBUG - STREAM b'pHYs' 41 9
+[12:44:44] DEBUG - STREAM b'tEXt' 107 21
+[12:44:44] DEBUG - STREAM b'tEXt' 62 33
+[12:44:44] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:44] DEBUG - STREAM b'tEXt' 107 21
+[12:44:44] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:44] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_pu48vth4_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_pu48vth4', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:44] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_smtn2dqn_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_smtn2dqn', '--psm', '6', '--oem', '3', 'txt']
+[12:44:45] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[12:44:45] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:44:45] INFO - -> Navegando a waypoint: (33019, 32053, 6)
+[12:44:46] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:44:46] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:46] DEBUG - Usando screenshot anterior para captura
+[12:44:46] DEBUG - STREAM b'IHDR' 16 13
+[12:44:46] DEBUG - STREAM b'pHYs' 41 9
+[12:44:46] DEBUG - STREAM b'tEXt' 62 33
+[12:44:46] DEBUG - STREAM b'tEXt' 107 21
+[12:44:46] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:46] DEBUG - STREAM b'IHDR' 16 13
+[12:44:46] DEBUG - STREAM b'pHYs' 41 9
+[12:44:46] DEBUG - STREAM b'tEXt' 62 33
+[12:44:46] DEBUG - STREAM b'tEXt' 107 21
+[12:44:46] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:46] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1uqv8_wm_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1uqv8_wm', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:46] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8do5ce8d_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8do5ce8d', '--psm', '6', '--oem', '3', 'txt']
+[12:44:46] WARNING - No se obtuvo nuevo screenshot
+[12:44:46] WARNING - Fallo en captura del minimap. Retornando base.
+[12:44:46] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:46] DEBUG - Usando screenshot anterior para captura
+[12:44:46] DEBUG - STREAM b'IHDR' 16 13
+[12:44:46] DEBUG - STREAM b'pHYs' 41 9
+[12:44:46] DEBUG - STREAM b'tEXt' 62 33
+[12:44:46] DEBUG - STREAM b'tEXt' 107 21
+[12:44:46] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:46] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4jui90sp_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4jui90sp', '--psm', '6', '--oem', '3', 'txt']
+[12:44:46] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[12:44:46] INFO - Cambio de nivel z=7 -> z=6
+[12:44:46] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:46] DEBUG - Usando screenshot anterior para captura
+[12:44:46] DEBUG - STREAM b'IHDR' 16 13
+[12:44:46] DEBUG - STREAM b'pHYs' 41 9
+[12:44:46] DEBUG - STREAM b'tEXt' 62 33
+[12:44:46] DEBUG - STREAM b'tEXt' 107 21
+[12:44:46] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:46] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1ne7ltmo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1ne7ltmo', '--psm', '6', '--oem', '3', 'txt']
+[12:44:46] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:46] DEBUG - Usando screenshot anterior para captura
+[12:44:46] DEBUG - STREAM b'IHDR' 16 13
+[12:44:46] DEBUG - STREAM b'pHYs' 41 9
+[12:44:46] DEBUG - STREAM b'tEXt' 62 33
+[12:44:46] DEBUG - STREAM b'tEXt' 107 21
+[12:44:46] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:46] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_rlxob2l3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_rlxob2l3', '--psm', '6', '--oem', '3', 'txt']
+[12:44:47] DEBUG - STREAM b'IHDR' 16 13
+[12:44:47] DEBUG - STREAM b'pHYs' 41 9
+[12:44:47] DEBUG - STREAM b'tEXt' 62 33
+[12:44:47] DEBUG - STREAM b'tEXt' 107 21
+[12:44:47] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:47] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_hb0tvces_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_hb0tvces', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:47] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:47] DEBUG - Usando screenshot anterior para captura
+[12:44:47] DEBUG - STREAM b'IHDR' 16 13
+[12:44:47] DEBUG - STREAM b'pHYs' 41 9
+[12:44:47] DEBUG - STREAM b'tEXt' 62 33
+[12:44:47] DEBUG - STREAM b'tEXt' 107 21
+[12:44:47] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:47] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_604tlia8_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_604tlia8', '--psm', '6', '--oem', '3', 'txt']
+[12:44:47] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[12:44:47] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:44:48] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:48] DEBUG - Usando screenshot anterior para captura
+[12:44:48] DEBUG - STREAM b'IHDR' 16 13
+[12:44:48] DEBUG - STREAM b'pHYs' 41 9
+[12:44:48] DEBUG - STREAM b'tEXt' 62 33
+[12:44:48] DEBUG - STREAM b'tEXt' 107 21
+[12:44:48] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:48] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[12:44:48] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:48] DEBUG - Usando screenshot anterior para captura
+[12:44:48] DEBUG - STREAM b'IHDR' 16 13
+[12:44:48] DEBUG - STREAM b'pHYs' 41 9
+[12:44:48] DEBUG - STREAM b'tEXt' 62 33
+[12:44:48] DEBUG - STREAM b'tEXt' 107 21
+[12:44:48] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:48] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:44:48] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:48] DEBUG - Usando screenshot anterior para captura
+[12:44:48] DEBUG - STREAM b'IHDR' 16 13
+[12:44:48] DEBUG - STREAM b'pHYs' 41 9
+[12:44:48] DEBUG - STREAM b'tEXt' 62 33
+[12:44:48] DEBUG - STREAM b'tEXt' 107 21
+[12:44:48] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:48] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ao8f2b81_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ao8f2b81', '--psm', '6', '--oem', '3', 'txt']
+[12:44:48] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jbxgxj_z_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jbxgxj_z', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:48] INFO - Cambio de nivel z=7 -> z=6
+[12:44:48] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[12:44:48] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:48] DEBUG - Usando screenshot anterior para captura
+[12:44:48] DEBUG - STREAM b'IHDR' 16 13
+[12:44:48] DEBUG - STREAM b'pHYs' 41 9
+[12:44:48] DEBUG - STREAM b'tEXt' 62 33
+[12:44:48] DEBUG - STREAM b'tEXt' 107 21
+[12:44:48] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:48] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1rqjqb9i_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_1rqjqb9i', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:48] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[12:44:48] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:44:48] DEBUG - STREAM b'IHDR' 16 13
+[12:44:48] DEBUG - STREAM b'pHYs' 41 9
+[12:44:48] DEBUG - STREAM b'tEXt' 62 33
+[12:44:48] DEBUG - STREAM b'tEXt' 107 21
+[12:44:48] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:48] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lkn5g0ko_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lkn5g0ko', '--psm', '6', '--oem', '3', 'txt']
+[12:44:49] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:44:49] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:49] DEBUG - Usando screenshot anterior para captura
+[12:44:49] DEBUG - STREAM b'IHDR' 16 13
+[12:44:49] DEBUG - STREAM b'pHYs' 41 9
+[12:44:49] DEBUG - STREAM b'tEXt' 62 33
+[12:44:49] DEBUG - STREAM b'tEXt' 107 21
+[12:44:49] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:49] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_x_kgxnpw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_x_kgxnpw', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:49] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[12:44:49] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:49] DEBUG - Usando screenshot anterior para captura
+[12:44:49] DEBUG - STREAM b'IHDR' 16 13
+[12:44:49] DEBUG - STREAM b'pHYs' 41 9
+[12:44:49] DEBUG - STREAM b'tEXt' 62 33
+[12:44:49] DEBUG - STREAM b'tEXt' 107 21
+[12:44:49] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:49] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_exqfchpv_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_exqfchpv', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:49] DEBUG - STREAM b'IHDR' 16 13
+[12:44:49] DEBUG - STREAM b'pHYs' 41 9
+[12:44:49] DEBUG - STREAM b'tEXt' 62 33
+[12:44:49] DEBUG - STREAM b'tEXt' 107 21
+[12:44:49] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:49] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:49] DEBUG - Usando screenshot anterior para captura
+[12:44:49] DEBUG - STREAM b'IHDR' 16 13
+[12:44:49] DEBUG - STREAM b'pHYs' 41 9
+[12:44:49] DEBUG - STREAM b'tEXt' 62 33
+[12:44:49] DEBUG - STREAM b'tEXt' 107 21
+[12:44:49] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:49] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jl5xrmwz_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jl5xrmwz', '--psm', '6', '--oem', '3', 'txt']
+[12:44:49] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[12:44:49] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:49] DEBUG - Usando screenshot anterior para captura
+[12:44:49] DEBUG - STREAM b'IHDR' 16 13
+[12:44:49] DEBUG - STREAM b'pHYs' 41 9
+[12:44:49] DEBUG - STREAM b'tEXt' 62 33
+[12:44:49] DEBUG - STREAM b'tEXt' 107 21
+[12:44:49] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:49] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[12:44:49] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:44:49] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_q9a3km4k_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_q9a3km4k', '--psm', '6', '--oem', '3', 'txt']
+[12:44:50] INFO - Cambio de nivel z=7 -> z=6
+[12:44:51] DEBUG - STREAM b'IHDR' 16 13
+[12:44:51] DEBUG - STREAM b'pHYs' 41 9
+[12:44:51] DEBUG - STREAM b'tEXt' 62 33
+[12:44:51] DEBUG - STREAM b'tEXt' 107 21
+[12:44:51] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:51] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:44:51] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:51] DEBUG - Usando screenshot anterior para captura
+[12:44:51] DEBUG - STREAM b'IHDR' 16 13
+[12:44:51] DEBUG - STREAM b'pHYs' 41 9
+[12:44:51] DEBUG - STREAM b'tEXt' 62 33
+[12:44:51] DEBUG - STREAM b'tEXt' 107 21
+[12:44:51] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:51] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_x3jd313w_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_x3jd313w', '--psm', '6', '--oem', '3', 'txt']
+[12:44:51] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_pnba5xog_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_pnba5xog', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:51] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[12:44:51] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:51] DEBUG - Usando screenshot anterior para captura
+[12:44:51] DEBUG - STREAM b'IHDR' 16 13
+[12:44:51] DEBUG - STREAM b'pHYs' 41 9
+[12:44:51] DEBUG - STREAM b'tEXt' 62 33
+[12:44:51] DEBUG - STREAM b'tEXt' 107 21
+[12:44:51] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:51] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_a15a1ugf_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_a15a1ugf', '--psm', '6', '--oem', '3', 'txt']
+[12:44:51] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:51] DEBUG - Usando screenshot anterior para captura
+[12:44:51] DEBUG - STREAM b'IHDR' 16 13
+[12:44:51] DEBUG - STREAM b'pHYs' 41 9
+[12:44:51] DEBUG - STREAM b'tEXt' 62 33
+[12:44:51] DEBUG - STREAM b'tEXt' 107 21
+[12:44:51] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:51] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[12:44:51] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:51] DEBUG - Usando screenshot anterior para captura
+[12:44:51] DEBUG - STREAM b'IHDR' 16 13
+[12:44:51] DEBUG - STREAM b'pHYs' 41 9
+[12:44:51] DEBUG - STREAM b'tEXt' 62 33
+[12:44:51] DEBUG - STREAM b'tEXt' 107 21
+[12:44:51] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:51] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ub8bw868_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ub8bw868', '--psm', '6', '--oem', '3', 'txt']
+[12:44:51] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:51] DEBUG - Usando screenshot anterior para captura
+[12:44:51] DEBUG - STREAM b'IHDR' 16 13
+[12:44:51] DEBUG - STREAM b'pHYs' 41 9
+[12:44:51] DEBUG - STREAM b'tEXt' 62 33
+[12:44:51] DEBUG - STREAM b'tEXt' 107 21
+[12:44:51] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:51] INFO - Cambio de nivel z=7 -> z=6
+[12:44:51] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uzzvcw1v_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uzzvcw1v', '--psm', '6', '--oem', '3', 'txt']
+[12:44:52] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:52] DEBUG - Usando screenshot anterior para captura
+[12:44:52] DEBUG - STREAM b'IHDR' 16 13
+[12:44:52] DEBUG - STREAM b'pHYs' 41 9
+[12:44:52] DEBUG - STREAM b'tEXt' 62 33
+[12:44:52] DEBUG - STREAM b'tEXt' 107 21
+[12:44:52] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:52] DEBUG - STREAM b'IHDR' 16 13
+[12:44:52] DEBUG - STREAM b'pHYs' 41 9
+[12:44:52] DEBUG - STREAM b'tEXt' 62 33
+[12:44:52] DEBUG - STREAM b'tEXt' 107 21
+[12:44:52] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:52] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_62erkr3w_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_62erkr3w', '--psm', '6', '--oem', '3', 'txt']
+[12:44:52] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_2znfqvan_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_2znfqvan', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:52] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[12:44:52] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:44:53] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:44:53] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:53] DEBUG - Usando screenshot anterior para captura
+[12:44:53] DEBUG - STREAM b'IHDR' 16 13
+[12:44:53] DEBUG - STREAM b'pHYs' 41 9
+[12:44:53] DEBUG - STREAM b'tEXt' 62 33
+[12:44:53] DEBUG - STREAM b'tEXt' 107 21
+[12:44:53] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:53] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ux3919me_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ux3919me', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:53] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[12:44:53] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:53] DEBUG - Usando screenshot anterior para captura
+[12:44:53] DEBUG - STREAM b'IHDR' 16 13
+[12:44:53] DEBUG - STREAM b'pHYs' 41 9
+[12:44:53] DEBUG - STREAM b'tEXt' 62 33
+[12:44:53] DEBUG - STREAM b'tEXt' 107 21
+[12:44:53] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:53] DEBUG - STREAM b'IHDR' 16 13
+[12:44:53] DEBUG - STREAM b'pHYs' 41 9
+[12:44:53] DEBUG - STREAM b'tEXt' 62 33
+[12:44:53] DEBUG - STREAM b'tEXt' 107 21
+[12:44:53] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_pjs3sz6j_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_pjs3sz6j', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:53] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:53] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:53] DEBUG - Usando screenshot anterior para captura
+[12:44:53] DEBUG - STREAM b'IHDR' 16 13
+[12:44:53] DEBUG - STREAM b'pHYs' 41 9
+[12:44:53] DEBUG - STREAM b'tEXt' 62 33
+[12:44:53] DEBUG - STREAM b'tEXt' 107 21
+[12:44:53] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:53] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_tpzc86w2_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_tpzc86w2', '--psm', '6', '--oem', '3', 'txt']
+[12:44:53] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[12:44:53] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:53] DEBUG - Usando screenshot anterior para captura
+[12:44:53] DEBUG - STREAM b'IHDR' 16 13
+[12:44:53] DEBUG - STREAM b'pHYs' 41 9
+[12:44:53] DEBUG - STREAM b'tEXt' 62 33
+[12:44:53] DEBUG - STREAM b'tEXt' 107 21
+[12:44:53] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:53] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1et3v8k_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1et3v8k', '--psm', '6', '--oem', '3', 'txt']
+[12:44:53] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[12:44:53] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:44:53] INFO - Cambio de nivel z=7 -> z=6
+[12:44:54] DEBUG - STREAM b'IHDR' 16 13
+[12:44:54] DEBUG - STREAM b'pHYs' 41 9
+[12:44:54] DEBUG - STREAM b'tEXt' 62 33
+[12:44:54] DEBUG - STREAM b'tEXt' 107 21
+[12:44:54] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:54] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_yd0todfu_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_yd0todfu', '--psm', '6', '--oem', '3', 'txt']
+[12:44:54] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[12:44:54] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:54] DEBUG - Usando screenshot anterior para captura
+[12:44:54] DEBUG - STREAM b'IHDR' 16 13
+[12:44:54] DEBUG - STREAM b'pHYs' 41 9
+[12:44:54] DEBUG - STREAM b'tEXt' 62 33
+[12:44:54] DEBUG - STREAM b'tEXt' 107 21
+[12:44:54] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:54] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ud8mxfcg_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ud8mxfcg', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:54] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[12:44:55] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:55] DEBUG - Usando screenshot anterior para captura
+[12:44:55] DEBUG - STREAM b'IHDR' 16 13
+[12:44:55] DEBUG - STREAM b'pHYs' 41 9
+[12:44:55] DEBUG - STREAM b'tEXt' 62 33
+[12:44:55] DEBUG - STREAM b'tEXt' 107 21
+[12:44:55] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:55] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_2_k1537j_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_2_k1537j', '--psm', '6', '--oem', '3', 'txt']
+[12:44:55] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:55] DEBUG - Usando screenshot anterior para captura
+[12:44:55] DEBUG - STREAM b'IHDR' 16 13
+[12:44:55] DEBUG - STREAM b'pHYs' 41 9
+[12:44:55] DEBUG - STREAM b'tEXt' 62 33
+[12:44:55] DEBUG - STREAM b'tEXt' 107 21
+[12:44:55] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:55] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[12:44:55] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:55] DEBUG - Usando screenshot anterior para captura
+[12:44:55] DEBUG - STREAM b'IHDR' 16 13
+[12:44:55] DEBUG - STREAM b'pHYs' 41 9
+[12:44:55] DEBUG - STREAM b'tEXt' 62 33
+[12:44:55] DEBUG - STREAM b'tEXt' 107 21
+[12:44:55] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:55] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4rst71_c_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4rst71_c', '--psm', '6', '--oem', '3', 'txt']
+[12:44:55] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:55] DEBUG - Usando screenshot anterior para captura
+[12:44:55] DEBUG - STREAM b'IHDR' 16 13
+[12:44:55] DEBUG - STREAM b'pHYs' 41 9
+[12:44:55] DEBUG - STREAM b'tEXt' 62 33
+[12:44:55] DEBUG - STREAM b'tEXt' 107 21
+[12:44:55] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:55] INFO - Cambio de nivel z=7 -> z=6
+[12:44:55] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4zn1uuog_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_4zn1uuog', '--psm', '6', '--oem', '3', 'txt']
+[12:44:55] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:55] DEBUG - Usando screenshot anterior para captura
+[12:44:55] DEBUG - STREAM b'IHDR' 16 13
+[12:44:55] DEBUG - STREAM b'pHYs' 41 9
+[12:44:55] DEBUG - STREAM b'tEXt' 62 33
+[12:44:55] DEBUG - STREAM b'tEXt' 107 21
+[12:44:55] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:55] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_zlgx49pt_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_zlgx49pt', '--psm', '6', '--oem', '3', 'txt']
+[12:44:55] DEBUG - STREAM b'IHDR' 16 13
+[12:44:55] DEBUG - STREAM b'pHYs' 41 9
+[12:44:55] DEBUG - STREAM b'tEXt' 62 33
+[12:44:55] DEBUG - STREAM b'tEXt' 107 21
+[12:44:55] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:55] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sadi1lz__input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sadi1lz_', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[12:44:55] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[12:44:55] INFO - HP detectado: 100.0% | Mana: 100.0%
+[12:44:56] INFO - === BOT DETENIDO POR USUARIO ===
+[12:44:57] WARNING - No se obtuvo nuevo screenshot
+[12:44:57] WARNING - Fallo en captura del minimap. Retornando base.
+[12:44:57] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:44:57] DEBUG - Usando screenshot anterior para captura
+[12:44:57] DEBUG - STREAM b'IHDR' 16 13
+[12:44:57] DEBUG - STREAM b'pHYs' 41 9
+[12:44:57] DEBUG - STREAM b'tEXt' 62 33
+[12:44:57] DEBUG - STREAM b'tEXt' 107 21
+[12:44:57] DEBUG - STREAM b'IDAT' 140 8192
+[12:44:57] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_v2l34zuc_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_v2l34zuc', '--psm', '6', '--oem', '3', 'txt']
+[12:44:58] INFO - Cambio de nivel z=7 -> z=6
+[12:45:00] WARNING - No se obtuvo nuevo screenshot
+[12:45:00] WARNING - Fallo en captura del minimap. Retornando base.
+[12:45:00] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:45:00] DEBUG - Usando screenshot anterior para captura
+[12:45:00] DEBUG - STREAM b'IHDR' 16 13
+[12:45:00] DEBUG - STREAM b'pHYs' 41 9
+[12:45:00] DEBUG - STREAM b'tEXt' 62 33
+[12:45:00] DEBUG - STREAM b'tEXt' 107 21
+[12:45:00] DEBUG - STREAM b'IDAT' 140 8192
+[12:45:00] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_si74ahyo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_si74ahyo', '--psm', '6', '--oem', '3', 'txt']
+[12:45:00] INFO - Cambio de nivel z=7 -> z=6
+[12:45:03] WARNING - No se obtuvo nuevo screenshot
+[12:45:03] WARNING - Fallo en captura del minimap. Retornando base.
+[12:45:03] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[12:45:03] DEBUG - Usando screenshot anterior para captura
+[12:45:03] DEBUG - STREAM b'IHDR' 16 13
+[12:45:03] DEBUG - STREAM b'pHYs' 41 9
+[12:45:03] DEBUG - STREAM b'tEXt' 62 33
+[12:45:03] DEBUG - STREAM b'tEXt' 107 21
+[12:45:03] DEBUG - STREAM b'IDAT' 140 8192
+[12:45:03] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__4qxi1hn_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__4qxi1hn', '--psm', '6', '--oem', '3', 'txt']
+[12:45:03] INFO - Cambio de nivel z=7 -> z=6
+[13:03:10] INFO - Waypoints cargados en UI: 71
+[13:03:10] INFO - === TIBIABOT PRO GUI INICIADO ===
+[13:03:10] INFO - Interfaz gráfica cargada correctamente.
+[13:03:10] INFO - Calibración manual detectada. No se sobrescribe.
+[13:03:15] INFO - === BOT INICIADO ===
+[13:03:15] INFO - Config.json cargado y validado correctamente
+[13:03:15] INFO - Waypoints avanzados cargados: 71 items
+[13:03:15] INFO - === TIBIABOT ENGINE INICIALIZADO PROFESIONALMENTE ===
+[13:03:15] INFO - === INICIANDO TIBIABOT v2.1 PRO - Modo anti-ban ===
+[13:03:15] INFO - Presiona ESC o STOP en GUI para detener
+[13:03:15] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:16] WARNING - No se obtuvo nuevo screenshot
+[13:03:16] DEBUG - OCR omitido: no hay captura para región [12, 28, 723, 22]
+[13:03:16] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:16] DEBUG - Usando screenshot anterior para captura
+[13:03:16] DEBUG - STREAM b'IHDR' 16 13
+[13:03:16] DEBUG - STREAM b'IHDR' 16 13
+[13:03:16] DEBUG - STREAM b'pHYs' 41 9
+[13:03:16] DEBUG - STREAM b'pHYs' 41 9
+[13:03:16] DEBUG - STREAM b'tEXt' 62 33
+[13:03:16] DEBUG - STREAM b'tEXt' 62 33
+[13:03:16] DEBUG - STREAM b'tEXt' 107 21
+[13:03:16] DEBUG - STREAM b'tEXt' 107 21
+[13:03:16] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:16] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:16] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ygz03r9c_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ygz03r9c', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:16] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jzn0mpcr_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_jzn0mpcr', '--psm', '6', '--oem', '3', 'txt']
+[13:03:17] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[13:03:17] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:18] INFO - -> Navegando a waypoint: (33019, 32053, 6)
+[13:03:18] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:18] DEBUG - Usando screenshot anterior para captura
+[13:03:18] DEBUG - STREAM b'IHDR' 16 13
+[13:03:18] DEBUG - STREAM b'pHYs' 41 9
+[13:03:18] DEBUG - STREAM b'tEXt' 62 33
+[13:03:18] DEBUG - STREAM b'tEXt' 107 21
+[13:03:18] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:18] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[13:03:18] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:18] DEBUG - Usando screenshot anterior para captura
+[13:03:18] DEBUG - STREAM b'IHDR' 16 13
+[13:03:18] DEBUG - STREAM b'pHYs' 41 9
+[13:03:18] DEBUG - STREAM b'tEXt' 62 33
+[13:03:18] DEBUG - STREAM b'tEXt' 107 21
+[13:03:18] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:18] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3ys4onua_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3ys4onua', '--psm', '6', '--oem', '3', 'txt']
+[13:03:18] WARNING - No se obtuvo nuevo screenshot
+[13:03:18] INFO - Cambio de nivel z=7 -> z=6
+[13:03:18] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:18] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:18] DEBUG - Usando screenshot anterior para captura
+[13:03:18] DEBUG - STREAM b'IHDR' 16 13
+[13:03:18] DEBUG - STREAM b'pHYs' 41 9
+[13:03:18] DEBUG - STREAM b'tEXt' 62 33
+[13:03:18] DEBUG - STREAM b'tEXt' 107 21
+[13:03:18] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:18] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_d9y6ckh0_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_d9y6ckh0', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:18] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[13:03:19] WARNING - No se obtuvo nuevo screenshot
+[13:03:19] DEBUG - OCR omitido: no hay captura para región [833, 28, 722, 23]
+[13:03:19] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:19] WARNING - No se obtuvo nuevo screenshot
+[13:03:19] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:19] DEBUG - Usando screenshot anterior para captura
+[13:03:19] DEBUG - STREAM b'IHDR' 16 13
+[13:03:19] DEBUG - STREAM b'pHYs' 41 9
+[13:03:19] DEBUG - STREAM b'tEXt' 62 33
+[13:03:19] DEBUG - STREAM b'tEXt' 107 21
+[13:03:19] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:19] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[13:03:19] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:19] DEBUG - Usando screenshot anterior para captura
+[13:03:19] DEBUG - STREAM b'IHDR' 16 13
+[13:03:19] DEBUG - STREAM b'pHYs' 41 9
+[13:03:19] DEBUG - STREAM b'tEXt' 62 33
+[13:03:19] DEBUG - STREAM b'tEXt' 107 21
+[13:03:19] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:19] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79g1paz1_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79g1paz1', '--psm', '6', '--oem', '3', 'txt']
+[13:03:20] INFO - Cambio de nivel z=7 -> z=6
+[13:03:20] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:20] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:20] DEBUG - Usando screenshot anterior para captura
+[13:03:20] DEBUG - STREAM b'IHDR' 16 13
+[13:03:20] DEBUG - STREAM b'pHYs' 41 9
+[13:03:20] DEBUG - STREAM b'tEXt' 62 33
+[13:03:20] DEBUG - STREAM b'tEXt' 107 21
+[13:03:20] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:20] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vtq66kx__input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vtq66kx_', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:20] WARNING - No se obtuvo nuevo screenshot
+[13:03:20] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[13:03:21] WARNING - No se obtuvo nuevo screenshot
+[13:03:21] DEBUG - OCR omitido: no hay captura para región [833, 28, 722, 23]
+[13:03:21] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:21] WARNING - No se obtuvo nuevo screenshot
+[13:03:21] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:21] DEBUG - Usando screenshot anterior para captura
+[13:03:21] DEBUG - STREAM b'IHDR' 16 13
+[13:03:21] DEBUG - STREAM b'pHYs' 41 9
+[13:03:21] DEBUG - STREAM b'tEXt' 62 33
+[13:03:21] DEBUG - STREAM b'tEXt' 107 21
+[13:03:21] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:21] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vunzj7f1_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vunzj7f1', '--psm', '6', '--oem', '3', 'txt']
+[13:03:22] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:22] DEBUG - Usando screenshot anterior para captura
+[13:03:22] DEBUG - STREAM b'IHDR' 16 13
+[13:03:22] DEBUG - STREAM b'pHYs' 41 9
+[13:03:22] DEBUG - STREAM b'tEXt' 62 33
+[13:03:22] DEBUG - STREAM b'tEXt' 107 21
+[13:03:22] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:22] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1ptw0hp_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1ptw0hp', '--psm', '6', '--oem', '3', 'txt']
+[13:03:22] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:22] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:22] DEBUG - Usando screenshot anterior para captura
+[13:03:22] DEBUG - STREAM b'IHDR' 16 13
+[13:03:22] DEBUG - STREAM b'pHYs' 41 9
+[13:03:22] DEBUG - STREAM b'tEXt' 62 33
+[13:03:22] DEBUG - STREAM b'tEXt' 107 21
+[13:03:22] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:22] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vc5z9gfo_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_vc5z9gfo', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:22] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:22] DEBUG - Usando screenshot anterior para captura
+[13:03:22] DEBUG - STREAM b'IHDR' 16 13
+[13:03:22] DEBUG - STREAM b'pHYs' 41 9
+[13:03:22] DEBUG - STREAM b'tEXt' 62 33
+[13:03:22] DEBUG - STREAM b'tEXt' 107 21
+[13:03:22] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:22] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5idtphmm_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5idtphmm', '--psm', '6', '--oem', '3', 'txt']
+[13:03:22] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[13:03:22] WARNING - No se obtuvo nuevo screenshot
+[13:03:22] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:22] WARNING - Fallo en captura del minimap. Retornando base.
+[13:03:22] DEBUG - Usando screenshot anterior para captura
+[13:03:22] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:22] DEBUG - STREAM b'IHDR' 16 13
+[13:03:22] DEBUG - Usando screenshot anterior para captura
+[13:03:22] DEBUG - STREAM b'pHYs' 41 9
+[13:03:22] DEBUG - STREAM b'IHDR' 16 13
+[13:03:22] DEBUG - STREAM b'tEXt' 62 33
+[13:03:22] DEBUG - STREAM b'pHYs' 41 9
+[13:03:22] DEBUG - STREAM b'tEXt' 107 21
+[13:03:22] DEBUG - STREAM b'tEXt' 62 33
+[13:03:22] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:22] DEBUG - STREAM b'tEXt' 107 21
+[13:03:22] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:22] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e7zbhe4o_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e7zbhe4o', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:22] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79_9dcka_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_79_9dcka', '--psm', '6', '--oem', '3', 'txt']
+[13:03:22] INFO - Cambio de nivel z=7 -> z=6
+[13:03:22] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[13:03:22] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:23] DEBUG - STREAM b'IHDR' 16 13
+[13:03:23] DEBUG - STREAM b'pHYs' 41 9
+[13:03:23] DEBUG - STREAM b'tEXt' 62 33
+[13:03:23] DEBUG - STREAM b'tEXt' 107 21
+[13:03:23] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:23] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_i0kxja_s_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_i0kxja_s', '--psm', '6', '--oem', '3', 'txt']
+[13:03:24] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:24] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:24] DEBUG - Usando screenshot anterior para captura
+[13:03:24] DEBUG - STREAM b'IHDR' 16 13
+[13:03:24] DEBUG - STREAM b'pHYs' 41 9
+[13:03:24] DEBUG - STREAM b'tEXt' 62 33
+[13:03:24] DEBUG - STREAM b'tEXt' 107 21
+[13:03:24] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:24] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[13:03:24] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:24] DEBUG - Usando screenshot anterior para captura
+[13:03:24] DEBUG - STREAM b'IHDR' 16 13
+[13:03:24] DEBUG - STREAM b'pHYs' 41 9
+[13:03:24] DEBUG - STREAM b'tEXt' 62 33
+[13:03:24] DEBUG - STREAM b'tEXt' 107 21
+[13:03:24] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:24] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kekh9adw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kekh9adw', '--psm', '6', '--oem', '3', 'txt']
+[13:03:24] INFO - Cambio de nivel z=7 -> z=6
+[13:03:25] DEBUG - STREAM b'IHDR' 16 13
+[13:03:25] DEBUG - STREAM b'pHYs' 41 9
+[13:03:25] WARNING - No se obtuvo nuevo screenshot
+[13:03:25] DEBUG - STREAM b'tEXt' 62 33
+[13:03:25] DEBUG - STREAM b'tEXt' 107 21
+[13:03:25] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:25] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ogkbo9_d_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ogkbo9_d', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:25] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[13:03:26] DEBUG - STREAM b'IHDR' 16 13
+[13:03:26] DEBUG - STREAM b'pHYs' 41 9
+[13:03:26] DEBUG - STREAM b'tEXt' 62 33
+[13:03:26] DEBUG - STREAM b'tEXt' 107 21
+[13:03:26] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:26] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1x4goiw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_u1x4goiw', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:26] WARNING - No se obtuvo nuevo screenshot
+[13:03:26] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:26] DEBUG - Usando screenshot anterior para captura
+[13:03:26] DEBUG - STREAM b'IHDR' 16 13
+[13:03:26] DEBUG - STREAM b'pHYs' 41 9
+[13:03:26] DEBUG - STREAM b'tEXt' 62 33
+[13:03:26] DEBUG - STREAM b'tEXt' 107 21
+[13:03:26] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:26] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[13:03:26] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:26] DEBUG - Usando screenshot anterior para captura
+[13:03:26] DEBUG - STREAM b'IHDR' 16 13
+[13:03:26] DEBUG - STREAM b'pHYs' 41 9
+[13:03:26] DEBUG - STREAM b'tEXt' 62 33
+[13:03:26] DEBUG - STREAM b'tEXt' 107 21
+[13:03:26] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:26] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_18jfrw08_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_18jfrw08', '--psm', '6', '--oem', '3', 'txt']
+[13:03:26] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[13:03:26] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:26] INFO - Cambio de nivel z=7 -> z=6
+[13:03:27] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:27] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:27] DEBUG - Usando screenshot anterior para captura
+[13:03:27] DEBUG - STREAM b'IHDR' 16 13
+[13:03:27] DEBUG - STREAM b'pHYs' 41 9
+[13:03:27] DEBUG - STREAM b'tEXt' 62 33
+[13:03:27] DEBUG - STREAM b'tEXt' 107 21
+[13:03:27] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:27] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_t9oqhbr4_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_t9oqhbr4', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:27] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[13:03:27] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:27] DEBUG - Usando screenshot anterior para captura
+[13:03:27] DEBUG - STREAM b'IHDR' 16 13
+[13:03:27] DEBUG - STREAM b'pHYs' 41 9
+[13:03:27] DEBUG - STREAM b'tEXt' 62 33
+[13:03:27] DEBUG - STREAM b'tEXt' 107 21
+[13:03:27] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:27] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qzxmw33t_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qzxmw33t', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:27] DEBUG - STREAM b'IHDR' 16 13
+[13:03:27] DEBUG - STREAM b'pHYs' 41 9
+[13:03:27] DEBUG - STREAM b'tEXt' 62 33
+[13:03:27] DEBUG - STREAM b'tEXt' 107 21
+[13:03:27] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:27] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_zs0vs4_y_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_zs0vs4_y', '--psm', '6', '--oem', '3', 'txt']
+[13:03:27] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[13:03:27] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:28] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:28] DEBUG - Usando screenshot anterior para captura
+[13:03:28] DEBUG - STREAM b'IHDR' 16 13
+[13:03:28] DEBUG - STREAM b'pHYs' 41 9
+[13:03:28] DEBUG - STREAM b'tEXt' 62 33
+[13:03:28] DEBUG - STREAM b'tEXt' 107 21
+[13:03:28] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:28] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[13:03:28] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:28] DEBUG - Usando screenshot anterior para captura
+[13:03:28] DEBUG - STREAM b'IHDR' 16 13
+[13:03:28] DEBUG - STREAM b'pHYs' 41 9
+[13:03:28] DEBUG - STREAM b'tEXt' 62 33
+[13:03:28] DEBUG - STREAM b'tEXt' 107 21
+[13:03:28] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:28] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_2n2ctnd3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_2n2ctnd3', '--psm', '6', '--oem', '3', 'txt']
+[13:03:28] INFO - Cambio de nivel z=7 -> z=6
+[13:03:28] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:28] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:28] DEBUG - Usando screenshot anterior para captura
+[13:03:28] DEBUG - STREAM b'IHDR' 16 13
+[13:03:28] DEBUG - STREAM b'pHYs' 41 9
+[13:03:28] DEBUG - STREAM b'tEXt' 62 33
+[13:03:28] DEBUG - STREAM b'tEXt' 107 21
+[13:03:28] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:28] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0f704ih7_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0f704ih7', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:28] DEBUG - STREAM b'IHDR' 16 13
+[13:03:28] DEBUG - STREAM b'pHYs' 41 9
+[13:03:28] DEBUG - STREAM b'tEXt' 62 33
+[13:03:28] DEBUG - STREAM b'tEXt' 107 21
+[13:03:28] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:28] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e96xd4hs_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_e96xd4hs', '--psm', '6', '--oem', '3', 'txt']
+[13:03:28] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[13:03:29] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:29] DEBUG - Usando screenshot anterior para captura
+[13:03:29] DEBUG - STREAM b'IHDR' 16 13
+[13:03:29] DEBUG - STREAM b'pHYs' 41 9
+[13:03:29] DEBUG - STREAM b'tEXt' 62 33
+[13:03:29] DEBUG - STREAM b'tEXt' 107 21
+[13:03:29] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:29] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_hes2qbqa_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_hes2qbqa', '--psm', '6', '--oem', '3', 'txt']
+[13:03:29] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:29] DEBUG - Usando screenshot anterior para captura
+[13:03:29] DEBUG - STREAM b'IHDR' 16 13
+[13:03:29] DEBUG - STREAM b'pHYs' 41 9
+[13:03:29] DEBUG - STREAM b'tEXt' 62 33
+[13:03:29] DEBUG - STREAM b'tEXt' 107 21
+[13:03:29] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:29] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_eix4xp8t_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_eix4xp8t', '--psm', '6', '--oem', '3', 'txt']
+[13:03:29] DEBUG - STREAM b'IHDR' 16 13
+[13:03:29] DEBUG - STREAM b'pHYs' 41 9
+[13:03:29] DEBUG - STREAM b'tEXt' 62 33
+[13:03:29] DEBUG - STREAM b'tEXt' 107 21
+[13:03:29] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:29] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_c__lxmi3_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_c__lxmi3', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:29] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[13:03:29] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:29] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:29] DEBUG - Usando screenshot anterior para captura
+[13:03:29] DEBUG - STREAM b'IHDR' 16 13
+[13:03:29] DEBUG - STREAM b'pHYs' 41 9
+[13:03:29] DEBUG - STREAM b'tEXt' 62 33
+[13:03:29] DEBUG - STREAM b'tEXt' 107 21
+[13:03:29] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:30] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[13:03:30] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:30] DEBUG - Usando screenshot anterior para captura
+[13:03:30] DEBUG - STREAM b'IHDR' 16 13
+[13:03:30] DEBUG - STREAM b'pHYs' 41 9
+[13:03:30] DEBUG - STREAM b'tEXt' 62 33
+[13:03:30] DEBUG - STREAM b'tEXt' 107 21
+[13:03:30] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:30] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_h84q1emh_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_h84q1emh', '--psm', '6', '--oem', '3', 'txt']
+[13:03:30] INFO - Cambio de nivel z=7 -> z=6
+[13:03:30] DEBUG - STREAM b'IHDR' 16 13
+[13:03:30] DEBUG - STREAM b'pHYs' 41 9
+[13:03:30] DEBUG - STREAM b'tEXt' 62 33
+[13:03:30] DEBUG - STREAM b'tEXt' 107 21
+[13:03:30] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:30] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:30] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:30] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__xkgp1mz_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__xkgp1mz', '--psm', '6', '--oem', '3', 'txt']
+[13:03:30] DEBUG - Usando screenshot anterior para captura
+[13:03:30] DEBUG - STREAM b'IHDR' 16 13
+[13:03:30] DEBUG - STREAM b'pHYs' 41 9
+[13:03:30] DEBUG - STREAM b'tEXt' 62 33
+[13:03:30] DEBUG - STREAM b'tEXt' 107 21
+[13:03:30] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:30] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sckkhwam_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_sckkhwam', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:30] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[13:03:31] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:31] DEBUG - Usando screenshot anterior para captura
+[13:03:31] DEBUG - STREAM b'IHDR' 16 13
+[13:03:31] DEBUG - STREAM b'pHYs' 41 9
+[13:03:31] DEBUG - STREAM b'tEXt' 62 33
+[13:03:31] DEBUG - STREAM b'tEXt' 107 21
+[13:03:31] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:31] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kbrtcgmv_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_kbrtcgmv', '--psm', '6', '--oem', '3', 'txt']
+[13:03:31] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:31] DEBUG - Usando screenshot anterior para captura
+[13:03:31] DEBUG - STREAM b'IHDR' 16 13
+[13:03:31] DEBUG - STREAM b'pHYs' 41 9
+[13:03:31] DEBUG - STREAM b'tEXt' 62 33
+[13:03:31] DEBUG - STREAM b'tEXt' 107 21
+[13:03:31] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:31] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fvbua45g_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fvbua45g', '--psm', '6', '--oem', '3', 'txt']
+[13:03:31] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:31] DEBUG - Usando screenshot anterior para captura
+[13:03:31] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:31] DEBUG - STREAM b'IHDR' 16 13
+[13:03:31] DEBUG - Usando screenshot anterior para captura
+[13:03:31] DEBUG - STREAM b'pHYs' 41 9
+[13:03:31] DEBUG - STREAM b'IHDR' 16 13
+[13:03:31] DEBUG - STREAM b'tEXt' 62 33
+[13:03:31] DEBUG - STREAM b'pHYs' 41 9
+[13:03:31] DEBUG - STREAM b'IHDR' 16 13
+[13:03:31] DEBUG - STREAM b'tEXt' 107 21
+[13:03:31] DEBUG - STREAM b'tEXt' 62 33
+[13:03:31] DEBUG - STREAM b'pHYs' 41 9
+[13:03:31] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:31] DEBUG - STREAM b'tEXt' 107 21
+[13:03:31] DEBUG - STREAM b'tEXt' 62 33
+[13:03:31] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:31] DEBUG - STREAM b'tEXt' 107 21
+[13:03:31] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:31] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fssbc0iw_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fssbc0iw', '--psm', '6', '--oem', '3', 'txt']
+[13:03:31] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[13:03:31] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:31] DEBUG - Usando screenshot anterior para captura
+[13:03:31] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fk8xjkwp_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fk8xjkwp', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:31] DEBUG - STREAM b'IHDR' 16 13
+[13:03:31] DEBUG - STREAM b'pHYs' 41 9
+[13:03:31] DEBUG - STREAM b'tEXt' 62 33
+[13:03:31] DEBUG - STREAM b'tEXt' 107 21
+[13:03:31] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:31] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_xf3nsrz6_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_xf3nsrz6', '--psm', '6', '--oem', '3', 'txt']
+[13:03:32] INFO - Cambio de nivel z=7 -> z=6
+[13:03:32] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[13:03:32] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:33] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:33] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:33] DEBUG - Usando screenshot anterior para captura
+[13:03:33] DEBUG - STREAM b'IHDR' 16 13
+[13:03:33] DEBUG - STREAM b'pHYs' 41 9
+[13:03:33] DEBUG - STREAM b'tEXt' 62 33
+[13:03:33] DEBUG - STREAM b'tEXt' 107 21
+[13:03:33] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:33] DEBUG - STREAM b'IHDR' 16 13
+[13:03:33] DEBUG - STREAM b'pHYs' 41 9
+[13:03:33] DEBUG - STREAM b'tEXt' 62 33
+[13:03:33] DEBUG - STREAM b'tEXt' 107 21
+[13:03:33] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:33] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3jq_6lw8_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_3jq_6lw8', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:33] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__6svypxn_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess__6svypxn', '--psm', '6', '--oem', '3', 'txt']
+[13:03:33] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[13:03:33] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:33] DEBUG - Usando screenshot anterior para captura
+[13:03:33] DEBUG - STREAM b'IHDR' 16 13
+[13:03:33] DEBUG - STREAM b'pHYs' 41 9
+[13:03:33] DEBUG - STREAM b'tEXt' 62 33
+[13:03:33] DEBUG - STREAM b'tEXt' 107 21
+[13:03:33] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:33] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ioxwpz6r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ioxwpz6r', '--psm', '6', '--oem', '3', 'txt']
+[13:03:33] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:33] DEBUG - Usando screenshot anterior para captura
+[13:03:33] DEBUG - STREAM b'IHDR' 16 13
+[13:03:33] DEBUG - STREAM b'pHYs' 41 9
+[13:03:33] DEBUG - STREAM b'tEXt' 62 33
+[13:03:33] DEBUG - STREAM b'tEXt' 107 21
+[13:03:33] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:33] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[13:03:33] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:33] DEBUG - Usando screenshot anterior para captura
+[13:03:33] DEBUG - STREAM b'IHDR' 16 13
+[13:03:33] DEBUG - STREAM b'pHYs' 41 9
+[13:03:33] DEBUG - STREAM b'tEXt' 62 33
+[13:03:33] DEBUG - STREAM b'tEXt' 107 21
+[13:03:33] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:33] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_g6nr25zs_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_g6nr25zs', '--psm', '6', '--oem', '3', 'txt']
+[13:03:33] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:33] DEBUG - Usando screenshot anterior para captura
+[13:03:33] DEBUG - STREAM b'IHDR' 16 13
+[13:03:33] DEBUG - STREAM b'pHYs' 41 9
+[13:03:33] DEBUG - STREAM b'tEXt' 62 33
+[13:03:33] DEBUG - STREAM b'tEXt' 107 21
+[13:03:33] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:33] INFO - Cambio de nivel z=7 -> z=6
+[13:03:33] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_19x367ti_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_19x367ti', '--psm', '6', '--oem', '3', 'txt']
+[13:03:34] DEBUG - STREAM b'IHDR' 16 13
+[13:03:34] DEBUG - STREAM b'pHYs' 41 9
+[13:03:34] DEBUG - STREAM b'tEXt' 62 33
+[13:03:34] DEBUG - STREAM b'tEXt' 107 21
+[13:03:34] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:34] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ieynuxyt_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_ieynuxyt', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:34] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:34] DEBUG - Usando screenshot anterior para captura
+[13:03:34] DEBUG - STREAM b'IHDR' 16 13
+[13:03:34] DEBUG - STREAM b'pHYs' 41 9
+[13:03:34] DEBUG - STREAM b'tEXt' 62 33
+[13:03:34] DEBUG - STREAM b'tEXt' 107 21
+[13:03:34] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:34] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qjubzx7n_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_qjubzx7n', '--psm', '6', '--oem', '3', 'txt']
+[13:03:34] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[13:03:34] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:35] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:35] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:35] DEBUG - Usando screenshot anterior para captura
+[13:03:35] DEBUG - STREAM b'IHDR' 16 13
+[13:03:35] DEBUG - STREAM b'pHYs' 41 9
+[13:03:35] DEBUG - STREAM b'tEXt' 62 33
+[13:03:35] DEBUG - STREAM b'tEXt' 107 21
+[13:03:35] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:35] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_av1ankt0_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_av1ankt0', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:35] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[13:03:35] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:35] DEBUG - Usando screenshot anterior para captura
+[13:03:35] DEBUG - STREAM b'IHDR' 16 13
+[13:03:35] DEBUG - STREAM b'pHYs' 41 9
+[13:03:35] DEBUG - STREAM b'tEXt' 62 33
+[13:03:35] DEBUG - STREAM b'tEXt' 107 21
+[13:03:35] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:35] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:35] DEBUG - Usando screenshot anterior para captura
+[13:03:35] DEBUG - STREAM b'IHDR' 16 13
+[13:03:35] DEBUG - STREAM b'pHYs' 41 9
+[13:03:35] DEBUG - STREAM b'tEXt' 62 33
+[13:03:35] DEBUG - STREAM b'tEXt' 107 21
+[13:03:35] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:35] DEBUG - STREAM b'IHDR' 16 13
+[13:03:35] DEBUG - STREAM b'pHYs' 41 9
+[13:03:35] DEBUG - STREAM b'tEXt' 62 33
+[13:03:35] DEBUG - STREAM b'tEXt' 107 21
+[13:03:35] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:35] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uwel3x1k_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_uwel3x1k', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:35] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[13:03:35] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:35] DEBUG - Usando screenshot anterior para captura
+[13:03:35] DEBUG - STREAM b'IHDR' 16 13
+[13:03:35] DEBUG - STREAM b'pHYs' 41 9
+[13:03:35] DEBUG - STREAM b'tEXt' 62 33
+[13:03:35] DEBUG - STREAM b'tEXt' 107 21
+[13:03:35] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:35] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_48u6pjad_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_48u6pjad', '--psm', '6', '--oem', '3', 'txt']
+[13:03:35] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_okqpxw_u_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_okqpxw_u', '--psm', '6', '--oem', '3', 'txt']
+[13:03:35] INFO - Cambio de nivel z=7 -> z=6
+[13:03:35] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[13:03:35] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:36] DEBUG - Ejecutando modulo Healer (modo humano y seguro)
+[13:03:36] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:36] DEBUG - Usando screenshot anterior para captura
+[13:03:36] DEBUG - STREAM b'IHDR' 16 13
+[13:03:36] DEBUG - STREAM b'pHYs' 41 9
+[13:03:36] DEBUG - STREAM b'tEXt' 62 33
+[13:03:36] DEBUG - STREAM b'tEXt' 107 21
+[13:03:36] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:36] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_z7id06t5_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_z7id06t5', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:36] DEBUG - OCR [[12, 28, 723, 22]]: ''
+[13:03:36] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:36] DEBUG - Usando screenshot anterior para captura
+[13:03:36] DEBUG - STREAM b'IHDR' 16 13
+[13:03:36] DEBUG - STREAM b'pHYs' 41 9
+[13:03:36] DEBUG - STREAM b'tEXt' 62 33
+[13:03:36] DEBUG - STREAM b'tEXt' 107 21
+[13:03:36] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:36] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lm3hwl8x_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_lm3hwl8x', '--psm', '7', '-c', 'tessedit_char_whitelist=0123456789/', 'txt']
+[13:03:36] DEBUG - OCR [[833, 28, 722, 23]]: ''
+[13:03:36] INFO - HP detectado: 100.0% | Mana: 100.0%
+[13:03:36] DEBUG - STREAM b'IHDR' 16 13
+[13:03:36] DEBUG - STREAM b'pHYs' 41 9
+[13:03:36] DEBUG - STREAM b'tEXt' 62 33
+[13:03:36] DEBUG - STREAM b'tEXt' 107 21
+[13:03:36] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:36] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8isvtcro_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_8isvtcro', '--psm', '6', '--oem', '3', 'txt']
+[13:03:37] INFO - === BOT DETENIDO POR USUARIO ===
+[13:03:37] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:37] DEBUG - Usando screenshot anterior para captura
+[13:03:37] DEBUG - STREAM b'IHDR' 16 13
+[13:03:37] DEBUG - STREAM b'pHYs' 41 9
+[13:03:37] DEBUG - STREAM b'tEXt' 62 33
+[13:03:37] DEBUG - STREAM b'tEXt' 107 21
+[13:03:37] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:37] DEBUG - Posición detectada: (32561, 32445, 7) via dot en (54, 12)
+[13:03:37] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:37] DEBUG - Usando screenshot anterior para captura
+[13:03:37] DEBUG - STREAM b'IHDR' 16 13
+[13:03:37] DEBUG - STREAM b'pHYs' 41 9
+[13:03:37] DEBUG - STREAM b'tEXt' 62 33
+[13:03:37] DEBUG - STREAM b'tEXt' 107 21
+[13:03:37] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:37] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5el7bu9r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_5el7bu9r', '--psm', '6', '--oem', '3', 'txt']
+[13:03:37] INFO - Cambio de nivel z=7 -> z=6
+[13:03:38] WARNING - No se obtuvo nuevo screenshot
+[13:03:40] WARNING - No se obtuvo nuevo screenshot
+[13:03:40] WARNING - Fallo en captura del minimap. Retornando base.
+[13:03:40] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:40] DEBUG - Usando screenshot anterior para captura
+[13:03:40] DEBUG - STREAM b'IHDR' 16 13
+[13:03:40] DEBUG - STREAM b'pHYs' 41 9
+[13:03:40] DEBUG - STREAM b'tEXt' 62 33
+[13:03:40] DEBUG - STREAM b'tEXt' 107 21
+[13:03:40] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:40] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0h9krr6r_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_0h9krr6r', '--psm', '6', '--oem', '3', 'txt']
+[13:03:40] INFO - Cambio de nivel z=7 -> z=6
+[13:03:42] WARNING - No se obtuvo nuevo screenshot
+[13:03:42] WARNING - Fallo en captura del minimap. Retornando base.
+[13:03:42] DEBUG - Screenshot omitido (intervalo mínimo no cumplido)
+[13:03:42] DEBUG - Usando screenshot anterior para captura
+[13:03:42] DEBUG - STREAM b'IHDR' 16 13
+[13:03:42] DEBUG - STREAM b'pHYs' 41 9
+[13:03:42] DEBUG - STREAM b'tEXt' 62 33
+[13:03:42] DEBUG - STREAM b'tEXt' 107 21
+[13:03:42] DEBUG - STREAM b'IDAT' 140 8192
+[13:03:42] DEBUG - ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fjiz1vq1_input.PNG', 'C:\\Users\\gmast\\AppData\\Local\\Temp\\tess_fjiz1vq1', '--psm', '6', '--oem', '3', 'txt']
+[13:03:42] INFO - Cambio de nivel z=7 -> z=6

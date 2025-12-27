@@ -1,4 +1,4 @@
-# Ruta: bot_engine.py - Motor del bot OPTIMIZADO al 100% (threading, anti-ban, modular)
+# bot_engine.py - Motor Principal del Tibiabot PRO
 
 import logging
 import time
@@ -7,7 +7,9 @@ import keyboard
 import pyautogui
 import json
 import threading
-import numpy as np  
+import numpy as np
+import os  # ← AÑADIDO: necesario para rutas y carpetas
+from typing import Optional, Dict
 from modules.utils import GameWindow
 from modules.cavebot import Cavebot
 from modules.targeting import Targeting
@@ -16,72 +18,80 @@ from modules.healer import Healer
 from modules.level_up import LevelUp
 from modules.refill import Refill
 
-# Configuración de logging
+# Crear carpeta logs si no existe
+log_dir = os.path.join(os.path.dirname(__file__), 'logs')
+os.makedirs(log_dir, exist_ok=True)
+
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.DEBUG,
     format='[%(asctime)s] %(levelname)s - %(message)s',
-    datefmt='%H:%M:%S'
+    datefmt='%H:%M:%S',
+    handlers=[
+        logging.FileHandler(os.path.join(log_dir, 'bot_engine.log'), encoding='utf-8'),
+        logging.StreamHandler()
+    ]
 )
 
 class TibiabotEngine:
     def __init__(self):
-        self.config = self._load_config()
+        self.config: Optional[Dict] = self._load_and_validate_config()
         if not self.config:
-            return
+            raise ValueError("Configuración inválida. Ejecuta calibrate.py.")
 
-        self.game_window = GameWindow(self.config)
+        self.game_window: GameWindow = GameWindow(self.config)
 
-        # Módulos principales
-        self.cavebot = Cavebot(self.game_window, self.config)
-        self.targeting = Targeting(self.game_window, self.config)
-        self.looter = Looter(self.game_window, self.config)
-        self.healer = Healer(self.game_window, self.config)
-        self.level_up = LevelUp(self.game_window, self.config)
-        self.refill = Refill(self.game_window, self.config)
+        self.stop_event: threading.Event = threading.Event()
 
-        # ← AÑADIDO: Inicializa stop_event aquí
-        self.stop_event = threading.Event()
+        self.cavebot: Cavebot = Cavebot(self.game_window, self.config, self.stop_event)
+        self.targeting: Targeting = Targeting(self.game_window, self.config)
+        self.looter: Looter = Looter(self.game_window, self.config)
+        self.healer: Healer = Healer(self.game_window, self.config)
+        self.level_up: LevelUp = LevelUp(self.game_window, self.config)
+        self.refill: Refill = Refill(self.game_window, self.config)
 
-        # Control de ejecución
-        self.running = False
+        self.running: bool = False
+        self.healer_thread: Optional[threading.Thread] = None
+        self.targeting_thread: Optional[threading.Thread] = None
 
-        # Hilos paralelos
-        self.healer_thread = None
-        self.targeting_thread = None
+        logging.info("=== TIBIABOT ENGINE INICIALIZADO PROFESIONALMENTE ===")
 
-        logging.info("=== TIBIABOT ENGINE INICIALIZADO ===")
-
-    def _load_config(self):
+    def _load_and_validate_config(self) -> Optional[Dict]:
         try:
             with open('config.json', 'r', encoding='utf-8') as f:
                 config = json.load(f)
-            logging.info("Config.json cargado correctamente")
+            required_keys = ['regions', 'hotkeys', 'base_position']
+            for key in required_keys:
+                if key not in config:
+                    raise KeyError(f"Falta clave requerida: {key}")
+            logging.info("Config.json cargado y validado correctamente")
             return config
         except Exception as e:
-            logging.error(f"Error cargando config.json: {e}")
+            logging.error(f"Error cargando/validando config.json: {e}")
             return None
 
-    def _human_delay(self, min_sec=0.3, max_sec=1.0):
+    def _human_delay(self, min_sec: float = 0.3, max_sec: float = 1.0) -> None:
+        if self.stop_event.is_set():
+            return
         time.sleep(random.uniform(min_sec, max_sec))
 
-    def _random_mouse_move(self):
+    def _random_mouse_move(self) -> None:
+        if self.stop_event.is_set():
+            return
         if random.random() < 0.25:
             x, y = pyautogui.position()
-            pyautogui.moveTo(
-                x + random.randint(-80, 80),
-                y + random.randint(-80, 80),
-                duration=random.uniform(0.2, 0.5)
-            )
+            pyautogui.moveTo(x + random.randint(-80, 80), y + random.randint(-80, 80), duration=random.uniform(0.2, 0.5))
             self._human_delay(0.1, 0.3)
             pyautogui.moveTo(x, y, duration=random.uniform(0.2, 0.4))
 
-    def _random_break(self):
+    def _random_break(self) -> None:
+        if self.stop_event.is_set():
+            return
         if random.random() < 0.08:
             delay = random.uniform(3, 10)
             logging.info(f"Anti-ban: Pausa natural de {delay:.1f}s")
             time.sleep(delay)
 
-    def _healer_loop(self):
+    def _healer_loop(self) -> None:
         while not self.stop_event.is_set():
             try:
                 self.healer.monitor()
@@ -90,7 +100,7 @@ class TibiabotEngine:
                 logging.debug(f"Healer loop error: {e}")
                 time.sleep(0.5)
 
-    def _targeting_loop(self):
+    def _targeting_loop(self) -> None:
         while not self.stop_event.is_set():
             try:
                 if self.targeting.detect():
@@ -105,11 +115,11 @@ class TibiabotEngine:
                 logging.debug(f"Targeting loop error: {e}")
                 time.sleep(0.5)
 
-    def run(self):
+    def run(self) -> None:
         if self.running:
             return
 
-        logging.info("=== INICIANDO TIBIABOT v2.1 - Modo anti-ban PRO ===")
+        logging.info("=== INICIANDO TIBIABOT v2.1 PRO - Modo anti-ban ===")
         logging.info("Presiona ESC o STOP en GUI para detener")
 
         self.running = True
@@ -121,29 +131,47 @@ class TibiabotEngine:
         self.healer_thread.start()
         self.targeting_thread.start()
 
-        cycle = 0
+        cycle: int = 0
         try:
             while self.running and not self.stop_event.is_set():
                 if keyboard.is_pressed('esc'):
-                    logging.info("ESC presionado → Deteniendo bot")
+                    logging.info("ESC presionado -> Deteniendo bot")
+                    self.stop()
                     break
 
                 cycle += 1
 
                 self._random_mouse_move()
+                if self.stop_event.is_set():
+                    break
+
                 if cycle % 12 == 0:
                     self._random_break()
+                    if self.stop_event.is_set():
+                        break
 
-                self.cavebot.navigate()
+                self.cavebot.process_waypoints()
+                if self.stop_event.is_set():
+                    break
                 self._human_delay(0.3, 0.8)
+                if self.stop_event.is_set():
+                    break
 
                 self.level_up.check()
+                if self.stop_event.is_set():
+                    break
                 self._human_delay(0.1, 0.3)
+                if self.stop_event.is_set():
+                    break
 
                 if cycle % 600 == 0:
                     self.refill.refill_if_low()
+                    if self.stop_event.is_set():
+                        break
 
                 time.sleep(random.uniform(0.3, 0.8))
+                if self.stop_event.is_set():
+                    break
 
         except Exception as e:
             logging.error(f"Error crítico en bucle principal: {e}")
@@ -151,16 +179,15 @@ class TibiabotEngine:
             self.stop()
             logging.info("=== BOT DETENIDO SEGURAMENTE ===")
 
-    def stop(self):
+    def stop(self) -> None:
         self.running = False
         self.stop_event.set()
 
         if self.healer_thread and self.healer_thread.is_alive():
-            self.healer_thread.join(timeout=1)
+            self.healer_thread.join(timeout=5.0)
         if self.targeting_thread and self.targeting_thread.is_alive():
-            self.targeting_thread.join(timeout=1)
+            self.targeting_thread.join(timeout=5.0)
 
-# === FUNCIÓN GLOBAL PARA LA GUI ===
 def run_bot():
     engine = TibiabotEngine()
     engine.run()

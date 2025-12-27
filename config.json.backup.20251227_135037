@@ -1,0 +1,69 @@
+{
+    "regions": {
+        "player_dot": [
+            1807,
+            83
+        ],
+        "minimap": [
+            1753,
+            27,
+            106,
+            110
+        ],
+        "hp_bar": [
+            12,
+            28,
+            723,
+            22
+        ],
+        "mana_bar": [
+            833,
+            28,
+            722,
+            23
+        ],
+        "battle_list": [
+            1572,
+            416,
+            155,
+            251
+        ],
+        "corpse_area": [
+            480,
+            270,
+            960,
+            540
+        ]
+    },
+    "hotkeys": {
+        "uh_hotkey": "f3",
+        "heal_spell_light": "f1",
+        "mana_potion": "f4",
+        "eat_food": "f8",
+        "attack": "f5",
+        "use_item": "f6"
+    },
+    "base_position": {
+        "x": 32560,
+        "y": 32488,
+        "z": 7
+    },
+    "minimap_center_offset": [
+        53,
+        55
+    ],
+    "arrival_tolerance": 1,
+    "waypoints_file": "waypoints/newhaven_exp.json",
+    "player_dot_color": [
+        255,
+        255,
+        255
+    ],
+    "player_dot_tolerance": 30,
+    "hp_threshold": 75,
+    "mp_threshold": 40,
+    "strong_heal_below": 45,
+    "use_mana_potion": true,
+    "eat_food_threshold": 60,
+    "loot_delay": 1.8
+}

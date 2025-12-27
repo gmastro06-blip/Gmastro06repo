@@ -1,253 +1,53 @@
 {
-    "window_region": [
-        0,
-        0,
-        1920,
-        1080
-    ],
-    "hp_bar_region_primary": [
-        320,
-        85,
-        280,
-        22
-    ],
-    "mp_bar_region_primary": [
-        320,
-        112,
-        280,
-        22
-    ],
-    "hp_bar_region_secondary": [
-        1565,
-        780,
-        200,
-        16
-    ],
-    "mp_bar_region_secondary": [
-        1565,
-        802,
-        200,
-        16
-    ],
-    "minimap_region": [
-        1754,
-        27,
-        104,
-        110
-    ],
-    "minimap_center_offset": [
-        52,
-        53
-    ],
-    "player_dot_color": [
-        255,
-        255,
-        255
-    ],
-    "player_dot_tolerance": 30,
-    "level_region": [
-        1690,
-        180,
-        150,
-        40
-    ],
-    "level_text_color_threshold": 200,
+    "regions": {
+        "obs_preview": [1920, 0, 1920, 1080],
+        "player_dot": [
+            1807,
+            83
+        ],
+        "minimap": [
+            1752,
+            27,
+            107,
+            109
+        ],
+        "hp_bar": [
+            338,
+            36,
+            72,
+            9
+        ],
+        "mana_bar": [
+            1159,
+            34,
+            71,
+            11
+        ],
+        "battle_list": [
+            1572,
+            417,
+            156,
+            250
+        ],
+        "corpse_area": [
+            708,
+            402,
+            133,
+            105
+        ]
+    },
+    "hotkeys": {
+        "screenshot": "f12"
+    },
     "base_position": {
         "x": 32560,
         "y": 32488,
         "z": 7
     },
+    "minimap_center_offset": [
+        53,
+        54
+    ],
     "arrival_tolerance": 1,
-    "waypoints_file": "waypoints/newhaven_exp.json",
-    "hp_threshold": 75,
-    "mp_threshold": 40,
-    "strong_heal_below": 45,
-    "use_mana_potion": true,
-    "eat_food_threshold": 50,
-    "logout_threshold_level": 3,
-    "inventory_region": [
-        1550,
-        600,
-        350,
-        400
-    ],
-    "loot_delay": 1.8,
-    "auto_bank": true,
-    "bank_npc": "supplier",
-    "bank_dialog": [
-        "hi",
-        "deposit all",
-        "yes"
-    ],
-    "dialog_delay": 1.5,
-    "auto_equip": true,
-    "equip_check_interval": 300,
-    "quick_loot": true,
-    "quick_loot_mode": "premium",
-    "quick_loot_hotkey": "alt",
-    "quick_loot_priority": [
-        "gold coin",
-        "platinum coin",
-        "mana potion",
-        "strong health potion",
-        "ultimate health potion",
-        "rare item"
-    ],
-    "auto_level_up": true,
-    "skill_priority": {
-        "melee": 80,
-        "distance": 0,
-        "magic": 20,
-        "shielding": 70
-    },
-    "regions": {
-        "hp_bar": [
-            1866,
-            302,
-            29,
-            9
-        ],
-        "mana_bar": [
-            1866,
-            315,
-            24,
-            6
-        ],
-        "minimap": [
-            1753,
-            26,
-            104,
-            107
-        ],
-        "player_dot": [
-            1807,
-            82
-        ],
-        "battle_list": [
-            1571,
-            404,
-            168,
-            262
-        ],
-        "corpse_area": [
-            737,
-            411,
-            89,
-            82
-        ],
-        "level_up_button": [
-            701,
-            123,
-            158,
-            83
-        ]
-    },
-    "hotkeys": {
-        "heal_spell_light": "f1",
-        "heal_spell_strong": "f2",
-        "uh_hotkey": "f3",
-        "mana_potion": "f4",
-        "attack_spell_default": "f5",
-        "use_rope": "f6",
-        "use_shovel": "f7",
-        "eat_food": "f8",
-        "attack": "f5",
-        "equip_ring": "f5",
-        "talk_hi": "enter",
-        "logout": "ctrl+q",
-        "enter_chat": "enter",
-        "use_item": "f6"
-    },
-    "equip_hotkeys": {
-        "ring": "f10",
-        "amulet": "f11",
-        "weapon": "f12",
-        "shield": "f13"
-    },
-    "skill_hotkeys": {
-        "melee": "f9",
-        "distance": "f10",
-        "magic": "f11",
-        "shielding": "f12"
-    },
-    "monster_priority": [
-        "muglex_assassin",
-        "muglex_footman"
-    ],
-    "bosses": [
-        "ferumbras",
-        "orshabaal",
-        "ghazbaran",
-        "morgaroth",
-        "the plasmother",
-        "the welter"
-    ],
-    "npcs": {
-        "gustavo": {
-            "name": "Gustavo",
-            "position": [
-                32560,
-                32488,
-                7
-            ],
-            "dialog": [
-                "hi",
-                "mission",
-                "yes"
-            ]
-        },
-        "viola": {
-            "name": "Viola",
-            "position": [
-                32571,
-                32507,
-                7
-            ],
-            "dialog": [
-                "hi",
-                "mission",
-                "yes",
-                "book"
-            ]
-        },
-        "supplier": {
-            "name": "Supplier",
-            "position": [
-                32565,
-                32485,
-                7
-            ],
-            "dialog": [
-                "hi",
-                "trade"
-            ],
-            "buy": {
-                "mana potion": 50,
-                "strong health potion": 20,
-                "ultimate health potion": 10
-            }
-        }
-    },
-    "ocr_config": "--psm 7 -c tessedit_char_whitelist=0123456789.%",
-    "expected_colors": {
-        "hp_low": [
-            255,
-            0,
-            0
-        ],
-        "mana_low": [
-            0,
-            0,
-            255
-        ],
-        "arrow_present": [
-            255,
-            255,
-            255
-        ]
-    },
-    "arrow_pos": [
-        120,
-        60
-    ]
+    "waypoints_file": "waypoints/newhaven_exp.json"
 }
